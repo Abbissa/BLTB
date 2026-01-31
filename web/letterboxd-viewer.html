@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cargaspar's Cinema · Letterboxd Stats</title>
+    <link rel="stylesheet" href="styles2.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="cinema-title">CINE·MA</h1>
+            <p class="subtitle">Letterboxd Collection</p>
+            <p class="username">@Cargaspar</p>
+        </header>
+
+        <div class="stats-grid" id="statsGrid">
+            <div class="stat-card">
+                <div class="stat-label">Films Watched</div>
+                <div class="stat-value" id="totalWatched">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Films Rated</div>
+                <div class="stat-value" id="totalRated">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Reviews Written</div>
+                <div class="stat-value" id="totalReviews">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Films Liked</div>
+                <div class="stat-value" id="totalLikes">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Watchlist</div>
+                <div class="stat-value" id="totalWatchlist">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Avg Rating</div>
+                <div class="stat-value" id="avgRating">-</div>
+            </div>
+        </div>
+
+        <nav class="tabs">
+            <button class="tab active" data-tab="overview">Overview</button>
+            <button class="tab" data-tab="ratings">Top Rated</button>
+            <button class="tab" data-tab="reviews">Reviews</button>
+            <button class="tab" data-tab="watchlist">Watchlist</button>
+            <button class="tab" data-tab="recent">Recently Watched</button>
+        </nav>
+
+        <div id="overview" class="content-section active">
+            <div class="chart-container">
+                <h2 class="chart-title">Rating Distribution</h2>
+                <div class="bar-chart" id="ratingDistribution"></div>
+            </div>
+
+            <div class="chart-container">
+                <h2 class="chart-title">Films by Year</h2>
+                <div class="bar-chart" id="yearDistribution"></div>
+            </div>
+        </div>
+
+        <div id="ratings" class="content-section">
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label class="filter-label">Filter by Rating</label>
+                    <select id="ratingFilter">
+                        <option value="all">All Ratings</option>
+                        <option value="5">★★★★★ (5 stars)</option>
+                        <option value="4.5">★★★★½ (4.5 stars)</option>
+                        <option value="4">★★★★ (4 stars)</option>
+                        <option value="3.5">★★★½ (3.5 stars)</option>
+                        <option value="3">★★★ (3 stars)</option>
+                        <option value="2.5">★★½ (2.5 stars)</option>
+                        <option value="2">★★ (2 stars)</option>
+                        <option value="1.5">★½ (1.5 stars)</option>
+                        <option value="1">★ (1 star)</option>
+                        <option value="0.5">½ (0.5 stars)</option>
+                    </select>
+                </div>
+            </div>
+            <div class="films-grid" id="ratedFilms"></div>
+        </div>
+
+        <div id="reviews" class="content-section">
+            <div class="films-grid" id="reviewedFilms"></div>
+        </div>
+
+        <div id="watchlist" class="content-section">
+            <div class="watchlist-grid" id="watchlistFilms"></div>
+        </div>
+
+        <div id="recent" class="content-section">
+            <div class="films-grid" id="recentFilms"></div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Loading cinema collection...</p>
+        </div>
+    </div>
+
+    <script src="viewer.js"></script>
+</body>
+
+</html>

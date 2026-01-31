@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinema Vault · Multi-User Letterboxd Analytics</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles2.css">
+</head>
+
+<body>
+    <div class="marquee-container">
+        <div class="marquee">
+            <span class="marquee-text">★ Cinema Vault ★</span>
+            <span class="marquee-text">★ Cinema Vault ★</span>
+            <span class="marquee-text">★ Cinema Vault ★</span>
+            <span class="marquee-text">★ Cinema Vault ★</span>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="upload-zone" id="uploadZone">
+            <div class="upload-content">
+                <div class="upload-icon">🎬</div>
+                <h2 class="upload-title">Load Letterboxd Data</h2>
+                <p class="upload-subtitle">Drop your .zip export here or click to browse • Load multiple users to
+                    compare</p>
+                <button class="upload-btn" onclick="document.getElementById('zipInput').click()">
+                    Select ZIP File
+                </button>
+                <input type="file" id="zipInput" accept=".zip" multiple>
+            </div>
+        </div>
+
+        <div class="users-grid" id="usersGrid"></div>
+
+        <div class="mode-toggle" id="modeToggle" style="display: none;">
+            <button class="mode-btn active" data-mode="comparison">Comparison Mode</button>
+            <button class="mode-btn" data-mode="individual">Individual View</button>
+        </div>
+
+        <div class="comparison-section active" id="comparisonSection">
+            <div class="chart-container">
+                <h2 class="chart-title">Total Films Watched</h2>
+                <div class="comparison-bars" id="watchedComparison"></div>
+            </div>
+
+            <div class="chart-container">
+                <h2 class="chart-title">Average Rating</h2>
+                <div class="comparison-bars" id="ratingComparison"></div>
+            </div>
+
+            <div class="chart-container">
+                <h2 class="chart-title">Reviews Written</h2>
+                <div class="comparison-bars" id="reviewsComparison"></div>
+            </div>
+
+            <div class="chart-container">
+                <h2 class="chart-title">Watchlist Size</h2>
+                <div class="comparison-bars" id="watchlistComparison"></div>
+            </div>
+        </div>
+
+        <div class="individual-section" id="individualSection">
+            <div class="user-selector">
+                <select class="user-select" id="userSelect">
+                    <option value="">Select a user...</option>
+                </select>
+            </div>
+
+            <div id="individualViewer"></div>
+        </div>
+
+        <div class="empty-state" id="emptyState">
+            <div class="empty-icon">🎞️</div>
+            <h3>No data loaded yet</h3>
+            <p>Upload a Letterboxd export to get started</p>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="letterboxd-multi-user.js">
+    </script>
+</body>
+
+</html>

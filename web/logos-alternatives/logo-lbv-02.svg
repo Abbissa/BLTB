@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img"
+  aria-labelledby="t2 d2">
+  <title id="t2">LBV — Proposal 02 (Film + Eye, refined)</title>
+  <desc id="d2">Film-strip forming an eye; improved spacing and contrast for the LB monogram.</desc>
+  <rect width="128" height="128" rx="16" fill="#0d0d0d" />
+
+  <!-- outer film strip -->
+  <rect x="16" y="34" width="96" height="40" rx="10" fill="#d4af37" stroke="#b8860b" stroke-width="1" />
+
+  <!-- left perforations (clear gutter, no overlap) -->
+  <rect x="18" y="42" width="6" height="6" rx="1" fill="#0d0d0d" />
+  <rect x="18" y="52" width="6" height="6" rx="1" fill="#0d0d0d" />
+  <rect x="18" y="62" width="6" height="6" rx="1" fill="#0d0d0d" />
+
+  <!-- right perforations (clear gutter, no overlap) -->
+  <rect x="104" y="42" width="6" height="6" rx="1" fill="#0d0d0d" />
+  <rect x="104" y="52" width="6" height="6" rx="1" fill="#0d0d0d" />
+  <rect x="104" y="62" width="6" height="6" rx="1" fill="#0d0d0d" />
+
+  <!-- inner eye aperture (dark) to create contrast with outer gold -->
+  <rect x="24" y="38" width="80" height="32" rx="8" fill="#0d0d0d" />
+
+  <!-- iris and pupil (cream iris, dark pupil) -->
+  <circle cx="64" cy="54" r="12" fill="#faf5e4" />
+  <circle cx="64" cy="54" r="6" fill="#0d0d0d" />
+
+  <!-- LB monogram centered on pupil, high contrast -->
+  <text x="64" y="58" font-family="Playfair Display, serif" font-size="8.5" fill="#d4af37" font-weight="700"
+    text-anchor="middle">LB</text>
+</svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img"
+  aria-labelledby="t2 d2">
+  <title id="t2">LBV — Proposal 02 (Film + Eye)</title>
+  <desc id="d2">Film-strip rectangle forming an eye; pupil is a small LB monogram.</desc>
+  <rect width="128" height="128" rx="16" fill="#0d0d0d" />
+  <rect x="16" y="34" width="96" height="40" rx="8" fill="#d4af37" />
+  <rect x="24" y="42" width="12" height="8" rx="2" fill="#0d0d0d" />
+  <rect x="92" y="42" width="12" height="8" rx="2" fill="#0d0d0d" />
+  <circle cx="64" cy="54" r="12" fill="#0d0d0d" />
+  <text x="64" y="59" font-family="Space Mono, monospace" font-size="9" fill="#d4af37" text-anchor="middle">LB</text>
+</svg>

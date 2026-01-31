@@ -5,7 +5,7 @@ function renderStars(rating) {
     let stars = '';
 
     for (let i = 0; i < fullStars; i++) stars += '<span class="star">★</span>';
-    if (hasHalf) stars += '<span class="star">★</span>';
+    if (hasHalf) stars += '<span class="star half">★</span>';
     for (let i = fullStars + (hasHalf ? 1 : 0); i < 5; i++) stars += '<span class="star empty">★</span>';
     return stars;
 }
@@ -162,7 +162,7 @@ window.renderViewer = function (container, user) {
             container.querySelectorAll('.viewer-tabs .tab').forEach(t => t.classList.remove('active'));
             container.querySelectorAll('.content-section').forEach(s => s.classList.remove('active'));
             tab.classList.add('active');
-            container.getElementById(tab.dataset.tab).classList.add('active');
+            document.getElementById(tab.dataset.tab).classList.add('active');
         });
     });
 

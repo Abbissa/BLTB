@@ -611,6 +611,14 @@ body::before {
     color: rgba(212, 175, 55, 0.2);
 }
 
+.star.half {
+    position: relative;
+    background: linear-gradient(90deg, #d4af37 50%, rgba(212, 175, 55, 0.2) 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
 .film-date {
     color: var(--silver);
     font-size: 0.85rem;

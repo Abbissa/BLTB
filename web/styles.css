@@ -287,6 +287,14 @@
      color: rgba(218, 165, 32, 0.2);
  }
 
+ .star.half {
+     position: relative;
+     background: linear-gradient(90deg, #daa520 50%, rgba(218, 165, 32, 0.2) 50%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-clip: text;
+ }
+
  .film-date {
      font-size: 0.85rem;
      color: #a89968;

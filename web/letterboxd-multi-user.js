@@ -124,6 +124,14 @@ function renderUserCards() {
                                 <span class="stat-label">Rated</span>
                             </div>
                             <div class="stat-item">
+                                <span class="stat-value">${user.likes.length}</span>
+                                <span class="stat-label">Liked</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-value">${user.watchlist.length}</span>
+                                <span class="stat-label">Watchlist</span>
+                            </div>
+                            <div class="stat-item">
                                 <span class="stat-value">${user.reviews.length}</span>
                                 <span class="stat-label">Reviews</span>
                             </div>

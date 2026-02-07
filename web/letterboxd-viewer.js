@@ -101,7 +101,7 @@ window.renderViewer = function (container, user) {
             </div>
 
             <div id="v-watchlist" class="content-section">
-                <div class="watchlist-grid v-watchlistFilms"></div>
+                <div class="films-grid v-watchlistFilms"></div>
             </div>
 
             <div id="v-recent" class="content-section">
@@ -154,10 +154,31 @@ window.renderViewer = function (container, user) {
     q('.v-ratedFilms').innerHTML = sortedRatings.map(f => `<div class="film-card" data-rating="${f.Rating}"><div class="film-header"><div><h3 class="film-title">${f.Name}</h3><p class="film-year">${f.Year}</p></div></div><div class="film-rating">${renderStars(parseFloat(f.Rating))}</div><p class="film-date">Rated on ${new Date(f.Date).toLocaleDateString('es-ES')}</p><a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`).join('');
 
     // reviews
-    q('.v-reviewedFilms').innerHTML = reviewsData.map(f => `<div class="film-card"><div class="film-header"><div><h3 class="film-title">${f.Name}</h3><p class="film-year">${f.Year}</p></div></div>${f.Rating ? `<div class="film-rating">${renderStars(parseFloat(f.Rating))}</div>` : ''}${f.Review ? `<div class="film-review">"${f.Review}"</div>` : ''}<p class="film-date">Watched on ${new Date(f['Watched Date'] || f.Date).toLocaleDateString('es-ES')}</p><a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`).join('');
+    q('.v-reviewedFilms').innerHTML = reviewsData.map(f => `
+        <div class="film-card">
+            <div class="film-header">
+                <div>
+                    <h3 class="film-title">${f.Name}</h3>
+                    <p class="film-year">${f.Year}</p>
+                </div>
+            </div>
+        ${f.Rating ? `<div class="film-rating">${renderStars(parseFloat(f.Rating))}</div>` : ''}
+        ${f.Review ? `<div class="film-review">"${f.Review}"</div>` : ''}
+        <p class="film-date">Watched on ${new Date(f['Watched Date'] || f.Date).toLocaleDateString('es-ES')}</p>
+        <a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`).join('');
 
     // watchlist
-    q('.v-watchlistFilms').innerHTML = watchlistData.map(f => `<div class="watchlist-card"><h3 class="watchlist-title">${f.Name}</h3><p class="watchlist-year">${f.Year}</p><a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`).join('');
+    q('.v-watchlistFilms').innerHTML = watchlistData.map(f => `
+        <div class="film-card">
+            <div class="film-header">
+                <div>
+                    <h3 class="film-title">${f.Name}</h3>
+                    <p class="film-year">${f.Year}</p>
+                    <p class="film-year">Marked on ${new Date(f['Watched Date'] || f.Date).toLocaleDateString('es-ES')}</p>
+                </div>
+            </div>
+            <a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a>
+        </div>`).join('');
 
     // recent
     const recent = [...watchedData].sort((a, b) => new Date(b.Date) - new Date(a.Date)).slice(0, 20);

@@ -879,3 +879,40 @@ body::before {
 .user-card-disabled::before {
     background: linear-gradient(90deg, rgba(212, 175, 55, 0.3), rgba(212, 175, 55, 0.15), rgba(212, 175, 55, 0.3));
 }
+
+.filter-label {
+    font-size: 0.85rem;
+    color: #c9a961;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+select,
+input {
+    background: rgba(15, 12, 29, 0.8);
+    border: 1px solid rgba(218, 165, 32, 0.3);
+    border-radius: 10px;
+    padding: 0.7rem 1rem;
+    color: #f5e6d3;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+select:hover,
+input:hover {
+    border-color: #daa520;
+    box-shadow: 0 0 15px rgba(218, 165, 32, 0.2);
+}
+
+select:focus,
+input:focus {
+    outline: none;
+    border-color: #daa520;
+    box-shadow: 0 0 20px rgba(218, 165, 32, 0.3);
+}
+
+option {
+    background: #1a1226;
+    color: #f5e6d3;
+}

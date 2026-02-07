@@ -64,6 +64,7 @@ body::before {
     transform: translateY(-50%);
     width: 40px;
     height: 40px;
+    z-index: 0;
     background: var(--gold);
     border-radius: 50%;
     box-shadow: 0 0 20px var(--gold);
@@ -100,6 +101,7 @@ body::before {
     text-transform: uppercase;
     white-space: nowrap;
     padding: 0 2rem;
+    z-index: 1;
     letter-spacing: 0.2em;
     text-shadow:
         2px 2px 0 var(--burgundy),
@@ -569,6 +571,7 @@ body::before {
     background: radial-gradient(circle, rgba(212, 175, 55, 0.1) 0%, transparent 70%);
     opacity: 0;
     transition: opacity 0.4s ease;
+    pointer-events: none;
 }
 
 .film-card:hover::before {
@@ -648,6 +651,7 @@ body::before {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     transition: all 0.3s ease;
+    z-index: 5;
 }
 
 .film-link:hover {
@@ -744,4 +748,134 @@ body::before {
     .comparison-label {
         min-width: auto;
     }
+
+
+}
+
+.random-btn {
+    background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+    border: none;
+    padding: 1rem 3rem;
+    color: var(--noir);
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    font-family: 'Space Mono', monospace;
+    transition: all 0.3s ease;
+}
+
+/* Movie Search */
+.movie-search {
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.movie-search-input {
+    width: 100%;
+    padding: 1rem;
+    background: rgba(212, 175, 55, 0.05);
+    border: 2px solid rgba(212, 175, 55, 0.3);
+    border-radius: 8px;
+    color: var(--cream);
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.movie-search-input:focus {
+    outline: none;
+    border-color: var(--gold);
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+    background: rgba(212, 175, 55, 0.1);
+}
+
+.movie-search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: linear-gradient(135deg, var(--noir-light), var(--noir));
+    border: 2px solid var(--gold);
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 100;
+}
+
+.movie-search-result-item {
+    padding: 1rem;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.movie-search-result-item:hover {
+    background: rgba(212, 175, 55, 0.1);
+    padding-left: 1.5rem;
+}
+
+.movie-search-result-item:last-child {
+    border-bottom: none;
+}
+
+.movie-search-result-title {
+    color: var(--gold);
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+
+.movie-search-result-year {
+    color: var(--silver);
+    font-size: 0.85rem;
+}
+
+#movieComparisonData {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+/* Toggle User Button */
+.toggle-user-btn {
+    position: absolute;
+    top: 1rem;
+    right: 4rem;
+    background: rgba(212, 175, 55, 0.8);
+    border: none;
+    color: var(--noir);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    z-index: 10;
+}
+
+.toggle-user-btn:hover {
+    background: var(--gold);
+    transform: scale(1.1);
+}
+
+/* Disabled User Card */
+.user-card-disabled {
+    opacity: 0.5;
+    border-color: rgba(212, 175, 55, 0.4);
+}
+
+.user-card-disabled .user-name {
+    color: var(--silver);
+    text-decoration: line-through;
+}
+
+.user-card-disabled::before {
+    background: linear-gradient(90deg, rgba(212, 175, 55, 0.3), rgba(212, 175, 55, 0.15), rgba(212, 175, 55, 0.3));
 }

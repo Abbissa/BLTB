@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cinema Vault · Multi-User Letterboxd Analytics</title>
+    <link rel="icon" href="logos-alternatives/logo.min.svg" type="image/svg+xml">
     <link
         href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap"
         rel="stylesheet">
@@ -14,10 +15,10 @@
 <body>
     <div class="marquee-container">
         <div class="marquee">
-            <span class="marquee-text">★ Cinema Vault ★</span>
-            <span class="marquee-text">★ Cinema Vault ★</span>
-            <span class="marquee-text">★ Cinema Vault ★</span>
-            <span class="marquee-text">★ Cinema Vault ★</span>
+            <span class="marquee-text">★ Letterboxd Viewer ★</span>
+            <span class="marquee-text">★ Letterboxd Viewer ★</span>
+            <span class="marquee-text">★ Letterboxd Viewer ★</span>
+            <span class="marquee-text">★ Letterboxd Viewer ★</span>
         </div>
     </div>
 
@@ -43,6 +44,32 @@
         </div>
 
         <div class="comparison-section active" id="comparisonSection">
+            <div class="chart-container">
+                <h2 class="chart-title">Search a Movie</h2>
+                <div class="movie-search">
+                    <input type="text" id="movieSearchInput" class="movie-search-input"
+                        placeholder="Search movie by name...">
+                    <div id="movieSearchResults" class="movie-search-results" style="display:none;"></div>
+                </div>
+            </div>
+
+            <div id="movieComparisonContainer" class="chart-container" style="display:none;">
+                <h2 class="chart-title" id="selectedMovieTitle"></h2>
+                <div id="movieComparisonData"></div>
+            </div>
+
+            <div class="chart-container">
+                <h2 class="chart-title">Pick a Random Movie</h2>
+                <div style="text-align: center;">
+                    <button class="random-btn" id="randomMovieComparisonBtn">Pick Random Movie</button>
+                </div>
+                <div id="randomMovieComparisonContainer" style="display:none; margin-top: 2rem;">
+                    <h3 class="chart-title" id="randomMovieTitleComparison"
+                        style="font-size: 1.5rem; margin-bottom: 1rem;"></h3>
+                    <div id="randomMovieComparisonData"></div>
+                </div>
+            </div>
+
             <div class="chart-container">
                 <h2 class="chart-title">Total Films Watched</h2>
                 <div class="comparison-bars" id="watchedComparison"></div>

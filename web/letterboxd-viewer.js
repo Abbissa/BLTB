@@ -60,6 +60,7 @@ window.renderViewer = function (container, user) {
                 <button class="tab" data-tab="v-reviews">Reviews</button>
                 <button class="tab" data-tab="v-watchlist">Watchlist</button>
                 <button class="tab" data-tab="v-recent">Recently Watched</button>
+                <button class="tab" data-tab="chooseMovie">Random Movie</button>
             </nav>
 
             <div id="v-overview" class="content-section active">
@@ -105,6 +106,12 @@ window.renderViewer = function (container, user) {
 
             <div id="v-recent" class="content-section">
                 <div class="films-grid v-recentFilms"></div>
+            </div>
+            
+             <div id="chooseMovie" class="content-section">
+                <h2 class="chart-title">Choose a Random Movie</h2>
+                <button class="random-btn " id="randomMovieBtn">Pick a Movie</button>
+                <div class="random-movie" id="randomMovie"></div>
             </div>
         </div>
     `;
@@ -155,6 +162,12 @@ window.renderViewer = function (container, user) {
     // recent
     const recent = [...watchedData].sort((a, b) => new Date(b.Date) - new Date(a.Date)).slice(0, 20);
     q('.v-recentFilms').innerHTML = recent.map(f => { const r = ratingsData.find(rr => rr.Name === f.Name && rr.Year === f.Year); const rev = reviewsData.find(rr => rr.Name === f.Name && rr.Year === f.Year); return `<div class="film-card"><div class="film-header"><div><h3 class="film-title">${f.Name}</h3><p class="film-year">${f.Year}</p></div></div>${r ? `<div class="film-rating">${renderStars(parseFloat(r.Rating))}</div>` : ''}${rev && rev.Review ? `<div class="film-review">"${rev.Review}"</div>` : ''}<p class="film-date">Watched on ${new Date(f.Date).toLocaleDateString('es-ES')}</p><a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`; }).join('');
+
+    q('#randomMovieBtn').addEventListener('click', () => {
+        const randomIndex = Math.floor(Math.random() * watchlistData.length);
+        const randomMovie = watchlistData[randomIndex];
+        q('#randomMovie').innerHTML = `<div class="film-card"><div class="film-header"><div><h3 class="film-title">${randomMovie.Name}</h3><p class="film-year">${randomMovie.Year}</p></div></div><a href="${randomMovie['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`;
+    });
 
     // tabs (scoped)
     container.querySelectorAll('.viewer-tabs .tab').forEach(tab => {

@@ -69,7 +69,8 @@ async function processZipFile(file) {
             ratings: [],
             reviews: [],
             watchlist: [],
-            likes: []
+            likes: [],
+            enabled: true
         };
 
         // Extract all CSV files
@@ -108,11 +109,14 @@ function renderUserCards() {
             : '0.0';
 
         return `
-                    <div class="user-card">
-                        <button class="remove-user" onclick="removeUser(${index})">×</button>
+                    <div class="user-card ${!user.enabled ? 'user-card-disabled' : ''}">
+                        <div style="position: absolute; top: 1rem; right: 1rem; display: flex; gap: 0.5rem; z-index: 10;">
+                            <button class="toggle-user-btn" onclick="toggleUserEnabled(${index})" title="${user.enabled ? 'Disable' : 'Enable'}">${user.enabled ? '👁️' : '🚫'}</button>
+                            <button class="remove-user" onclick="removeUser(${index})">×</button>
+                        </div>
                         <div class="user-header">
                             <h3 class="user-name">${user.name}</h3>
-                            <p class="user-meta">Letterboxd User</p>
+                            <p class="user-meta">Letterboxd User ${!user.enabled ? '(Disabled)' : ''}</p>
                         </div>
                         <div class="user-stats">
                             <div class="stat-item">
@@ -155,13 +159,22 @@ function removeUser(index) {
     }
 }
 
+// Toggle user enabled/disabled
+function toggleUserEnabled(index) {
+    userData[index].enabled = !userData[index].enabled;
+    renderUserCards();
+    updateComparison();
+    updateUI();
+}
+
 // Update comparison charts
 function updateComparison() {
-    if (userData.length === 0) return;
+    const enabledUsers = userData.filter(u => u.enabled);
+    if (enabledUsers.length === 0) return;
 
     // Watched comparison
-    const maxWatched = Math.max(...userData.map(u => u.watched.length));
-    document.getElementById('watchedComparison').innerHTML = userData.map(user => `
+    const maxWatched = Math.max(...enabledUsers.map(u => u.watched.length));
+    document.getElementById('watchedComparison').innerHTML = enabledUsers.map(user => `
                 <div class="user-bar-row">
                     <div class="user-label">${user.name}</div>
                     <div class="bar-track">
@@ -173,13 +186,13 @@ function updateComparison() {
             `).join('');
 
     // Rating comparison
-    const ratings = userData.map(u => {
+    const ratings = enabledUsers.map(u => {
         return u.ratings.length > 0
             ? u.ratings.reduce((sum, f) => sum + parseFloat(f.Rating || 0), 0) / u.ratings.length
             : 0;
     });
     const maxRating = Math.max(...ratings, 5);
-    document.getElementById('ratingComparison').innerHTML = userData.map((user, i) => `
+    document.getElementById('ratingComparison').innerHTML = enabledUsers.map((user, i) => `
                 <div class="user-bar-row">
                     <div class="user-label">${user.name}</div>
                     <div class="bar-track">
@@ -191,8 +204,8 @@ function updateComparison() {
             `).join('');
 
     // Reviews comparison
-    const maxReviews = Math.max(...userData.map(u => u.reviews.length), 1);
-    document.getElementById('reviewsComparison').innerHTML = userData.map(user => `
+    const maxReviews = Math.max(...enabledUsers.map(u => u.reviews.length), 1);
+    document.getElementById('reviewsComparison').innerHTML = enabledUsers.map(user => `
                 <div class="user-bar-row">
                     <div class="user-label">${user.name}</div>
                     <div class="bar-track">
@@ -204,8 +217,8 @@ function updateComparison() {
             `).join('');
 
     // Watchlist comparison
-    const maxWatchlist = Math.max(...userData.map(u => u.watchlist.length), 1);
-    document.getElementById('watchlistComparison').innerHTML = userData.map(user => `
+    const maxWatchlist = Math.max(...enabledUsers.map(u => u.watchlist.length), 1);
+    document.getElementById('watchlistComparison').innerHTML = enabledUsers.map(user => `
                 <div class="user-bar-row">
                     <div class="user-label">${user.name}</div>
                     <div class="bar-track">
@@ -225,14 +238,20 @@ function updateUI() {
 
     if (hasData) {
         updateUserSelect();
+        buildMovieIndex();
+        buildWatchlistIndex();
     }
 }
 
 // Update user selector
 function updateUserSelect() {
     const select = document.getElementById('userSelect');
+    const enabledUsers = userData.filter(u => u.enabled);
     select.innerHTML = '<option value="">Select a user...</option>' +
-        userData.map((user, i) => `<option value="${i}">${user.name}</option>`).join('');
+        enabledUsers.map((user, i) => {
+            const originalIndex = userData.indexOf(user);
+            return `<option value="${originalIndex}">${user.name}</option>`;
+        }).join('');
 }
 
 // Mode toggle
@@ -269,4 +288,163 @@ document.getElementById('userSelect').addEventListener('change', (e) => {
     } else {
         viewerContainer.innerHTML = '';
     }
+});
+
+// Movie Search in Comparison Mode
+let allMovies = [];
+let watchlistIntersection = [];
+
+function buildMovieIndex() {
+    const enabledUsers = userData.filter(u => u.enabled);
+    const movieMap = new Map();
+
+    enabledUsers.forEach(user => {
+        user.watched.forEach(film => {
+            const key = `${film.Name}|${film.Year}`;
+            if (!movieMap.has(key)) {
+                movieMap.set(key, {
+                    name: film.Name,
+                    year: film.Year,
+                    uri: film['Letterboxd URI'],
+                    users: []
+                });
+            }
+            movieMap.get(key).users.push({
+                userName: user.name,
+                rating: user.ratings.find(r => r.Name === film.Name && r.Year === film.Year)?.Rating || null,
+                review: user.reviews.find(r => r.Name === film.Name && r.Year === film.Year)?.Review || null
+            });
+        });
+    });
+
+    allMovies = Array.from(movieMap.values()).sort((a, b) =>
+        a.name.localeCompare(b.name)
+    );
+}
+
+function buildWatchlistIndex() {
+    const enabledUsers = userData.filter(u => u.enabled);
+    if (enabledUsers.length === 0) {
+        watchlistIntersection = [];
+        return;
+    }
+
+    // Start with first enabled user's watchlist
+    const firstUserWatchlist = new Set(
+        enabledUsers[0].watchlist.map(f => `${f.Name}|${f.Year}`)
+    );
+
+    // Find intersection: movies in ALL enabled users' watchlists
+    const intersection = Array.from(firstUserWatchlist).filter(movieKey => {
+        return enabledUsers.every(user => {
+            return user.watchlist.some(f => `${f.Name}|${f.Year}` === movieKey);
+        });
+    });
+
+    // Map intersection keys to full movie objects
+    watchlistIntersection = intersection.map(movieKey => {
+        const [name, year] = movieKey.split('|');
+        const users = enabledUsers.map(user => {
+            const film = user.watchlist.find(f => f.Name === name && f.Year === year);
+            // Check if user has watched this movie
+            const watchedFilm = user.watched.find(w => w.Name === name && w.Year === year);
+            const ratingFilm = user.ratings.find(r => r.Name === name && r.Year === year);
+            const reviewFilm = user.reviews.find(r => r.Name === name && r.Year === year);
+
+            return {
+                userName: user.name,
+                rating: ratingFilm?.Rating || null,
+                review: reviewFilm?.Review || null,
+                hasWatched: !!watchedFilm
+            };
+        });
+
+        return {
+            name: name,
+            year: year,
+            uri: enabledUsers[0].watchlist.find(f => `${f.Name}|${f.Year}` === movieKey)?.['Letterboxd URI'],
+            users: users
+        };
+    }).sort((a, b) => a.name.localeCompare(b.name));
+}
+
+const movieSearchInput = document.getElementById('movieSearchInput');
+const movieSearchResults = document.getElementById('movieSearchResults');
+const movieComparisonContainer = document.getElementById('movieComparisonContainer');
+
+movieSearchInput.addEventListener('input', (e) => {
+    const query = e.target.value.toLowerCase().trim();
+
+    if (query.length < 2) {
+        movieSearchResults.style.display = 'none';
+        return;
+    }
+
+    const results = allMovies.filter(m =>
+        m.name.toLowerCase().includes(query)
+    ).slice(0, 10);
+
+    if (results.length === 0) {
+        movieSearchResults.innerHTML = '<div style="padding: 1rem; color: var(--silver);">No movies found</div>';
+        movieSearchResults.style.display = 'block';
+        return;
+    }
+
+    movieSearchResults.innerHTML = results.map(movie => `
+        <div class="movie-search-result-item" onclick="selectMovieForComparison('${movie.name.replace(/'/g, "\\'")}', '${movie.year}')">
+            <div class="movie-search-result-title">${movie.name}</div>
+            <div class="movie-search-result-year">${movie.year} • Watched by ${movie.users.length} user(s)</div>
+        </div>
+    `).join('');
+    movieSearchResults.style.display = 'block';
+});
+
+function selectMovieForComparison(movieName, movieYear) {
+    const movie = allMovies.find(m => m.name === movieName && m.year === movieYear);
+
+    if (!movie) return;
+
+    const comparisonHTML = movie.users.map(userMovie => `
+        <div class="user-bar-row">
+            <div class="user-label">${userMovie.userName}</div>
+            <div style="flex: 1;">
+                ${userMovie.rating ? `<div style="color: var(--gold); margin-bottom: 0.5rem;">★ ${userMovie.rating}</div>` : '<div style="color: var(--silver); margin-bottom: 0.5rem;">Not rated</div>'}
+                ${userMovie.review ? `<div style="color: var(--cream); font-size: 0.85rem; font-style: italic; background: rgba(212, 175, 55, 0.05); padding: 0.5rem; border-radius: 4px;">\"${userMovie.review}\"</div>` : ''}
+            </div>
+        </div>
+    `).join('');
+
+    document.getElementById('selectedMovieTitle').textContent = `${movie.name} (${movie.year})`;
+    document.getElementById('movieComparisonData').innerHTML = comparisonHTML;
+    movieComparisonContainer.style.display = 'block';
+    movieSearchResults.style.display = 'none';
+    movieSearchInput.value = '';
+}
+
+// Random movie in Comparison Mode
+document.getElementById('randomMovieComparisonBtn').addEventListener('click', () => {
+    if (watchlistIntersection.length === 0) {
+        alert('No common movies in all users\' watchlists. Please load user data first.');
+        return;
+    }
+
+    const randomIndex = Math.floor(Math.random() * watchlistIntersection.length);
+    const randomMovie = watchlistIntersection[randomIndex];
+
+    const comparisonHTML = randomMovie.users.map(userMovie => `
+        <div class="user-bar-row">
+            <div class="user-label">${userMovie.userName}</div>
+            <div style="flex: 1;">
+                ${userMovie.hasWatched ?
+            `<div style="color: var(--gold); margin-bottom: 0.5rem;">✓ Watched - ${userMovie.rating ? `★ ${userMovie.rating}` : 'Not rated'}</div>` :
+            '<div style="color: var(--silver); margin-bottom: 0.5rem;">📋 In Watchlist (Not watched yet)</div>'
+        }
+                ${userMovie.review ? `<div style="color: var(--cream); font-size: 0.85rem; font-style: italic; background: rgba(212, 175, 55, 0.05); padding: 0.5rem; border-radius: 4px;">\"${userMovie.review}\"</div>` : ''}
+            </div>
+        </div>
+    `).join('');
+
+    document.getElementById('randomMovieTitleComparison').textContent = `${randomMovie.name} (${randomMovie.year})`;
+    document.getElementById('randomMovieComparisonData').innerHTML = comparisonHTML;
+    document.getElementById('randomMovieComparisonContainer').style.display = 'block';
 });

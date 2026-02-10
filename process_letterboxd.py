@@ -193,7 +193,13 @@ class LetterboxdProcessor:
         
         print(f"  Fetching posters for {len(movies_without_poster)} movies...")
         
+        # add some delay to avoid rate limiting
+
         for movie_key in movies_without_poster[:10]:  # Limit to avoid rate limiting
+            # add random delay between 1-3 seconds
+            import time
+            import random
+            time.sleep(random.uniform(1, 3))
             movie = self.data["movies"][movie_key]
             poster_url = self._get_poster_from_letterboxd_uri(movie["uri"])
             

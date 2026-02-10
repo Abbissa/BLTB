@@ -916,3 +916,17 @@ option {
     background: #1a1226;
     color: #f5e6d3;
 }
+
+.movie-search-result-poster {
+    width: 40px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-right: 1rem;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+}
+
+.movie-search-result-item {
+    display: flex;
+    align-items: flex-start;
+}

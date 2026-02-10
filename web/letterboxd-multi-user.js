@@ -1,6 +1,44 @@
 const userData = [];
 let currentMode = 'comparison';
 let selectedUser = null;
+let moviesDatabase = {}; // Loaded from data.json
+
+// Load precomputed data on page load
+async function loadPrecomputedData() {
+    try {
+        const response = await fetch('./data.json');
+        if (response.ok) {
+            const data = await response.json();
+            moviesDatabase = data.movies || {};
+
+            // Load preexisting users
+            if (data.users && Array.isArray(data.users)) {
+                data.users.forEach(user => {
+                    if (!userData.find(u => u.name === user.name)) {
+                        userData.push({
+                            name: user.name,
+                            watched: user.watched || [],
+                            ratings: user.ratings || [],
+                            reviews: user.reviews || [],
+                            watchlist: user.watchlist || [],
+                            likes: user.likes || [],
+                            enabled: user.enabled !== false
+                        });
+                    }
+                });
+
+                if (userData.length > 0) {
+                    console.log(`Loaded ${userData.length} users from data.json`);
+                    renderUserCards();
+                    updateComparison();
+                    updateUI();
+                }
+            }
+        }
+    } catch (error) {
+        console.log('No precomputed data found (data.json). Using manual upload mode.');
+    }
+}
 
 // Parse CSV helper
 function parseCSV(text) {
@@ -302,10 +340,12 @@ function buildMovieIndex() {
         user.watched.forEach(film => {
             const key = `${film.Name}|${film.Year}`;
             if (!movieMap.has(key)) {
+                const dbMovie = moviesDatabase[key];
                 movieMap.set(key, {
                     name: film.Name,
                     year: film.Year,
                     uri: film['Letterboxd URI'],
+                    poster: dbMovie?.poster || null,
                     users: []
                 });
             }
@@ -344,6 +384,7 @@ function buildWatchlistIndex() {
     // Map intersection keys to full movie objects
     watchlistIntersection = intersection.map(movieKey => {
         const [name, year] = movieKey.split('|');
+        const dbMovie = moviesDatabase[movieKey];
         const users = enabledUsers.map(user => {
             const film = user.watchlist.find(f => f.Name === name && f.Year === year);
             // Check if user has watched this movie
@@ -363,6 +404,7 @@ function buildWatchlistIndex() {
             name: name,
             year: year,
             uri: enabledUsers[0].watchlist.find(f => `${f.Name}|${f.Year}` === movieKey)?.['Letterboxd URI'],
+            poster: dbMovie?.poster || null,
             users: users
         };
     }).sort((a, b) => a.name.localeCompare(b.name));
@@ -392,8 +434,11 @@ movieSearchInput.addEventListener('input', (e) => {
 
     movieSearchResults.innerHTML = results.map(movie => `
         <div class="movie-search-result-item" onclick="selectMovieForComparison('${movie.name.replace(/'/g, "\\'")}', '${movie.year}')">
-            <div class="movie-search-result-title">${movie.name}</div>
-            <div class="movie-search-result-year">${movie.year} • Watched by ${movie.users.length} user(s)</div>
+            ${movie.poster ? `<img src="${movie.poster}" alt="${movie.name}" class="movie-search-result-poster">` : ''}
+            <div>
+                <div class="movie-search-result-title">${movie.name}</div>
+                <div class="movie-search-result-year">${movie.year} • Watched by ${movie.users.length} user(s)</div>
+            </div>
         </div>
     `).join('');
     movieSearchResults.style.display = 'block';

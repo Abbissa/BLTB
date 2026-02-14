@@ -197,7 +197,7 @@ function removeUser(index) {
     }
 }
 
-// Toggle user enabled/disabled
+// Toggle user enabled status
 function toggleUserEnabled(index) {
     userData[index].enabled = !userData[index].enabled;
     renderUserCards();
@@ -205,91 +205,62 @@ function toggleUserEnabled(index) {
     updateUI();
 }
 
-// Update comparison charts
+// Update comparison
 function updateComparison() {
     const enabledUsers = userData.filter(u => u.enabled);
+
     if (enabledUsers.length === 0) return;
 
-    // Watched comparison
-    const maxWatched = Math.max(...enabledUsers.map(u => u.watched.length));
-    document.getElementById('watchedComparison').innerHTML = enabledUsers.map(user => `
-                <div class="user-bar-row">
-                    <div class="user-label">${user.name}</div>
-                    <div class="bar-track">
-                        <div class="bar-fill" style="width: ${(user.watched.length / maxWatched) * 100}%">
-                            <span class="bar-value">${user.watched.length}</span>
-                        </div>
-                    </div>
-                </div>
-            `).join('');
+    buildMovieIndex();
+    buildWatchlistIndex();
 
-    // Rating comparison
-    const ratings = enabledUsers.map(u => {
-        return u.ratings.length > 0
-            ? u.ratings.reduce((sum, f) => sum + parseFloat(f.Rating || 0), 0) / u.ratings.length
-            : 0;
-    });
-    const maxRating = Math.max(...ratings, 5);
-    document.getElementById('ratingComparison').innerHTML = enabledUsers.map((user, i) => `
-                <div class="user-bar-row">
-                    <div class="user-label">${user.name}</div>
-                    <div class="bar-track">
-                        <div class="bar-fill" style="width: ${(ratings[i] / maxRating) * 100}%">
-                            <span class="bar-value">${ratings[i].toFixed(1)}</span>
-                        </div>
-                    </div>
-                </div>
-            `).join('');
+    // Total films watched
+    renderComparisonBar('watchedComparison', enabledUsers, u => u.watched.length, 'films');
 
-    // Reviews comparison
-    const maxReviews = Math.max(...enabledUsers.map(u => u.reviews.length), 1);
-    document.getElementById('reviewsComparison').innerHTML = enabledUsers.map(user => `
-                <div class="user-bar-row">
-                    <div class="user-label">${user.name}</div>
-                    <div class="bar-track">
-                        <div class="bar-fill" style="width: ${(user.reviews.length / maxReviews) * 100}%">
-                            <span class="bar-value">${user.reviews.length}</span>
-                        </div>
-                    </div>
-                </div>
-            `).join('');
+    // Average rating
+    renderComparisonBar('ratingComparison', enabledUsers, u => {
+        const avg = u.ratings.length ? (u.ratings.reduce((s, f) => s + parseFloat(f.Rating || 0), 0) / u.ratings.length) : 0;
+        return parseFloat(avg.toFixed(1));
+    }, 'stars', 5);
 
-    // Watchlist comparison
-    const maxWatchlist = Math.max(...enabledUsers.map(u => u.watchlist.length), 1);
-    document.getElementById('watchlistComparison').innerHTML = enabledUsers.map(user => `
-                <div class="user-bar-row">
-                    <div class="user-label">${user.name}</div>
-                    <div class="bar-track">
-                        <div class="bar-fill" style="width: ${(user.watchlist.length / maxWatchlist) * 100}%">
-                            <span class="bar-value">${user.watchlist.length}</span>
-                        </div>
-                    </div>
-                </div>
-            `).join('');
+    // Reviews written
+    renderComparisonBar('reviewsComparison', enabledUsers, u => u.reviews.length, 'reviews');
+
+    // Watchlist size
+    renderComparisonBar('watchlistComparison', enabledUsers, u => u.watchlist.length, 'films');
 }
 
-// Update UI visibility
+function renderComparisonBar(containerId, users, getValue, unit, maxOverride = null) {
+    const container = document.getElementById(containerId);
+    const values = users.map(u => ({ name: u.name, value: getValue(u) }));
+    const max = maxOverride || Math.max(...values.map(v => v.value), 1);
+
+    container.innerHTML = values.map(({ name, value }) => {
+        const pct = (value / max) * 100;
+        return `
+                    <div class="comparison-row">
+                        <div class="comparison-label">${name}</div>
+                        <div class="comparison-bar">
+                            <div class="comparison-bar-fill" style="width: ${pct}%">
+                                <span class="comparison-value">${value} ${unit}</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+    }).join('');
+}
+
+// Update UI
 function updateUI() {
     const hasData = userData.length > 0;
     document.getElementById('emptyState').style.display = hasData ? 'none' : 'block';
     document.getElementById('modeToggle').style.display = hasData ? 'block' : 'none';
 
-    if (hasData) {
-        updateUserSelect();
-        buildMovieIndex();
-        buildWatchlistIndex();
-    }
-}
-
-// Update user selector
-function updateUserSelect() {
-    const select = document.getElementById('userSelect');
+    // Update user select dropdown
+    const userSelect = document.getElementById('userSelect');
     const enabledUsers = userData.filter(u => u.enabled);
-    select.innerHTML = '<option value="">Select a user...</option>' +
-        enabledUsers.map((user, i) => {
-            const originalIndex = userData.indexOf(user);
-            return `<option value="${originalIndex}">${user.name}</option>`;
-        }).join('');
+    userSelect.innerHTML = '<option value="">Select a user...</option>' +
+        enabledUsers.map((u, i) => `<option value="${i}">${u.name}</option>`).join('');
 }
 
 // Mode toggle
@@ -449,15 +420,27 @@ function selectMovieForComparison(movieName, movieYear) {
 
     if (!movie) return;
 
-    const comparisonHTML = movie.users.map(userMovie => `
-        <div class="user-bar-row">
-            <div class="user-label">${userMovie.userName}</div>
-            <div style="flex: 1;">
-                ${userMovie.rating ? `<div style="color: var(--gold); margin-bottom: 0.5rem;">★ ${userMovie.rating}</div>` : '<div style="color: var(--silver); margin-bottom: 0.5rem;">Not rated</div>'}
-                ${userMovie.review ? `<div style="color: var(--cream); font-size: 0.85rem; font-style: italic; background: rgba(212, 175, 55, 0.05); padding: 0.5rem; border-radius: 4px;">\"${userMovie.review}\"</div>` : ''}
-            </div>
+    // Show poster if available
+    const posterHTML = movie.poster ? `
+        <div class="movie-comparison-poster">
+            <img src="${movie.poster}" alt="${movie.name}">
         </div>
-    `).join('');
+    ` : '';
+
+    const comparisonHTML = `
+        ${posterHTML}
+        <div class="movie-comparison-details">
+            ${movie.users.map(userMovie => `
+                <div class="user-bar-row">
+                    <div class="user-label">${userMovie.userName}</div>
+                    <div style="flex: 1;">
+                        ${userMovie.rating ? `<div style="color: var(--gold); margin-bottom: 0.5rem;">★ ${userMovie.rating}</div>` : '<div style="color: var(--silver); margin-bottom: 0.5rem;">Not rated</div>'}
+                        ${userMovie.review ? `<div style="color: var(--cream); font-size: 0.85rem; font-style: italic; background: rgba(212, 175, 55, 0.05); padding: 0.5rem; border-radius: 4px;">"${userMovie.review}"</div>` : ''}
+                    </div>
+                </div>
+            `).join('')}
+        </div>
+    `;
 
     document.getElementById('selectedMovieTitle').textContent = `${movie.name} (${movie.year})`;
     document.getElementById('movieComparisonData').innerHTML = comparisonHTML;
@@ -476,18 +459,30 @@ document.getElementById('randomMovieComparisonBtn').addEventListener('click', ()
     const randomIndex = Math.floor(Math.random() * watchlistIntersection.length);
     const randomMovie = watchlistIntersection[randomIndex];
 
-    const comparisonHTML = randomMovie.users.map(userMovie => `
-        <div class="user-bar-row">
-            <div class="user-label">${userMovie.userName}</div>
-            <div style="flex: 1;">
-                ${userMovie.hasWatched ?
+    // Show poster if available
+    const posterHTML = randomMovie.poster ? `
+        <div class="movie-comparison-poster">
+            <img src="${randomMovie.poster}" alt="${randomMovie.name}">
+        </div>
+    ` : '';
+
+    const comparisonHTML = `
+        ${posterHTML}
+        <div class="movie-comparison-details">
+            ${randomMovie.users.map(userMovie => `
+                <div class="user-bar-row">
+                    <div class="user-label">${userMovie.userName}</div>
+                    <div style="flex: 1;">
+                        ${userMovie.hasWatched ?
             `<div style="color: var(--gold); margin-bottom: 0.5rem;">✓ Watched - ${userMovie.rating ? `★ ${userMovie.rating}` : 'Not rated'}</div>` :
             '<div style="color: var(--silver); margin-bottom: 0.5rem;">📋 In Watchlist (Not watched yet)</div>'
         }
-                ${userMovie.review ? `<div style="color: var(--cream); font-size: 0.85rem; font-style: italic; background: rgba(212, 175, 55, 0.05); padding: 0.5rem; border-radius: 4px;">\"${userMovie.review}\"</div>` : ''}
-            </div>
+                        ${userMovie.review ? `<div style="color: var(--cream); font-size: 0.85rem; font-style: italic; background: rgba(212, 175, 55, 0.05); padding: 0.5rem; border-radius: 4px;">"${userMovie.review}"</div>` : ''}
+                    </div>
+                </div>
+            `).join('')}
         </div>
-    `).join('');
+    `;
 
     document.getElementById('randomMovieTitleComparison').textContent = `${randomMovie.name} (${randomMovie.year})`;
     document.getElementById('randomMovieComparisonData').innerHTML = comparisonHTML;

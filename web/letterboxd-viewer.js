@@ -10,6 +10,13 @@ function renderStars(rating) {
     return stars;
 }
 
+// Helper function to get poster from global moviesDatabase
+function getPoster(filmName, filmYear) {
+    if (typeof moviesDatabase === 'undefined') return null;
+    const key = `${filmName}|${filmYear}`;
+    return moviesDatabase[key]?.poster || null;
+}
+
 window.renderViewer = function (container, user) {
     if (!container) return;
 
@@ -137,7 +144,7 @@ window.renderViewer = function (container, user) {
     const ratingHTML = ['5', '4.5', '4', '3.5', '3', '2.5', '2', '1.5', '1', '0.5'].map(r => {
         const count = ratingCounts[r] || 0;
         const pct = (count / maxCount) * 100;
-        return `<div class="bar-row"><div class="bar-label">${renderStars(parseFloat(r))}</div><div class="bar-track"><div class="bar-fill" style="width:${pct}%"><span class="bar-value">${count}</span></div></div></div>`;
+        return `<div class="bar-row"><div class="bar-label">${renderStars(parseFloat(r))}</div><div class="bar-track"><div class="comparison-bar-fill" style="width:${pct}%"><span class="comparison-value">${count}</span></div></div></div>`;
     }).join('');
     q('.v-ratingDistribution').innerHTML = ratingHTML;
 
@@ -146,48 +153,129 @@ window.renderViewer = function (container, user) {
     watchedData.forEach(f => { yearCounts[f.Year] = (yearCounts[f.Year] || 0) + 1; });
     const sortedYears = Object.entries(yearCounts).sort((a, b) => b[1] - a[1]).slice(0, 10);
     const maxYear = Math.max(...sortedYears.map(y => y[1]), 1);
-    const yearHTML = sortedYears.map(([y, c]) => `<div class="bar-row"><div class="bar-label">${y}</div><div class="bar-track"><div class="bar-fill" style="width:${(c / maxYear) * 100}%"><span class="bar-value">${c}</span></div></div></div>`).join('');
+    const yearHTML = sortedYears.map(([y, c]) => `<div class="bar-row"><div class="bar-label">${y}</div><div class="bar-track"><div class="comparison-bar-fill" style="width:${(c / maxYear) * 100}%"><span class="comparison-value">${c}</span></div></div></div>`).join('');
     q('.v-yearDistribution').innerHTML = yearHTML;
 
-    // rated films
+    // rated films with posters
     const sortedRatings = [...ratingsData].sort((a, b) => parseFloat(b.Rating) - parseFloat(a.Rating));
-    q('.v-ratedFilms').innerHTML = sortedRatings.map(f => `<div class="film-card" data-rating="${f.Rating}"><div class="film-header"><div><h3 class="film-title">${f.Name}</h3><p class="film-year">${f.Year}</p></div></div><div class="film-rating">${renderStars(parseFloat(f.Rating))}</div><p class="film-date">Rated on ${new Date(f.Date).toLocaleDateString('es-ES')}</p><a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`).join('');
+    q('.v-ratedFilms').innerHTML = sortedRatings.map(f => {
+        const poster = getPoster(f.Name, f.Year);
+        return `<div class="film-card" data-rating="${f.Rating}">
+        ${poster ? `
+                    <div class="film-poster-container">
+                    <img src="${poster}" alt="${f.Name}" class="film-poster" loading="lazy">
+                    </div>
+                ` : ''}
+                <div class="film-header"><div><h3 class="film-title">${f.Name}</h3><p class="film-year">${f.Year}</p></div>
+                </div><div class="film-rating">${renderStars(parseFloat(f.Rating))}</div><p class="film-date">Rated on ${new Date(f.Date).toLocaleDateString('es-ES')}
+                
+                </p><a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`;
+    }).join('');
 
-    // reviews
-    q('.v-reviewedFilms').innerHTML = reviewsData.map(f => `
-        <div class="film-card">
-            <div class="film-header">
-                <div>
-                    <h3 class="film-title">${f.Name}</h3>
-                    <p class="film-year">${f.Year}</p>
+
+    // reviews with posters
+    q('.v-reviewedFilms').innerHTML = reviewsData.map(f => {
+        const poster = getPoster(f.Name, f.Year);
+        return `
+            <div class="film-card">
+                ${poster ? `
+                    <div class="film-poster-container">
+                        <img src="${poster}" alt="${f.Name}" class="film-poster" loading="lazy">
+                    </div>
+                ` : ''}
+                <div class="film-content">
+                    <div class="film-header">
+                        <div>
+                            <h3 class="film-title">${f.Name}</h3>
+                            <p class="film-year">${f.Year}</p>
+                        </div>
+                    </div>
+                    ${f.Rating ? `<div class="film-rating">${renderStars(parseFloat(f.Rating))}</div>` : ''}
+                    ${f.Review ? `<div class="film-review">"${f.Review}"</div>` : ''}
+                    <p class="film-date">Watched on ${new Date(f['Watched Date'] || f.Date).toLocaleDateString('es-ES')}</p>
+                    <a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a>
                 </div>
             </div>
-        ${f.Rating ? `<div class="film-rating">${renderStars(parseFloat(f.Rating))}</div>` : ''}
-        ${f.Review ? `<div class="film-review">"${f.Review}"</div>` : ''}
-        <p class="film-date">Watched on ${new Date(f['Watched Date'] || f.Date).toLocaleDateString('es-ES')}</p>
-        <a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`).join('');
+        `;
+    }).join('');
 
-    // watchlist
-    q('.v-watchlistFilms').innerHTML = watchlistData.map(f => `
-        <div class="film-card">
-            <div class="film-header">
-                <div>
-                    <h3 class="film-title">${f.Name}</h3>
-                    <p class="film-year">${f.Year}</p>
-                    <p class="film-year">Marked on ${new Date(f['Watched Date'] || f.Date).toLocaleDateString('es-ES')}</p>
+    // watchlist with posters
+    q('.v-watchlistFilms').innerHTML = watchlistData.map(f => {
+        const poster = getPoster(f.Name, f.Year);
+        return `
+            <div class="film-card">
+                ${poster ? `
+                    <div class="film-poster-container">
+                        <img src="${poster}" alt="${f.Name}" class="film-poster" loading="lazy">
+                    </div>
+                ` : ''}
+                <div class="film-content">
+                    <div class="film-header">
+                        <div>
+                            <h3 class="film-title">${f.Name}</h3>
+                            <p class="film-year">${f.Year}</p>
+                            <p class="film-year">Marked on ${new Date(f['Watched Date'] || f.Date).toLocaleDateString('es-ES')}</p>
+                        </div>
+                    </div>
+                    <a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a>
                 </div>
             </div>
-            <a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a>
-        </div>`).join('');
+        `;
+    }).join('');
 
-    // recent
+    // recent with posters
     const recent = [...watchedData].sort((a, b) => new Date(b.Date) - new Date(a.Date)).slice(0, 20);
-    q('.v-recentFilms').innerHTML = recent.map(f => { const r = ratingsData.find(rr => rr.Name === f.Name && rr.Year === f.Year); const rev = reviewsData.find(rr => rr.Name === f.Name && rr.Year === f.Year); return `<div class="film-card"><div class="film-header"><div><h3 class="film-title">${f.Name}</h3><p class="film-year">${f.Year}</p></div></div>${r ? `<div class="film-rating">${renderStars(parseFloat(r.Rating))}</div>` : ''}${rev && rev.Review ? `<div class="film-review">"${rev.Review}"</div>` : ''}<p class="film-date">Watched on ${new Date(f.Date).toLocaleDateString('es-ES')}</p><a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`; }).join('');
+    q('.v-recentFilms').innerHTML = recent.map(f => {
+        const r = ratingsData.find(rr => rr.Name === f.Name && rr.Year === f.Year);
+        const rev = reviewsData.find(rr => rr.Name === f.Name && rr.Year === f.Year);
+        const poster = getPoster(f.Name, f.Year);
+        return `
+            <div class="film-card">
+                ${poster ? `
+                    <div class="film-poster-container">
+                        <img src="${poster}" alt="${f.Name}" class="film-poster" loading="lazy">
+                    </div>
+                ` : ''}
+                <div class="film-content">
+                    <div class="film-header">
+                        <div>
+                            <h3 class="film-title">${f.Name}</h3>
+                            <p class="film-year">${f.Year}</p>
+                        </div>
+                    </div>
+                    ${r ? `<div class="film-rating">${renderStars(parseFloat(r.Rating))}</div>` : ''}
+                    ${rev && rev.Review ? `<div class="film-review">"${rev.Review}"</div>` : ''}
+                    <p class="film-date">Watched on ${new Date(f.Date).toLocaleDateString('es-ES')}</p>
+                    <a href="${f['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a>
+                </div>
+            </div>
+        `;
+    }).join('');
 
+    // Random movie button with poster
     q('#randomMovieBtn').addEventListener('click', () => {
         const randomIndex = Math.floor(Math.random() * watchlistData.length);
         const randomMovie = watchlistData[randomIndex];
-        q('#randomMovie').innerHTML = `<div class="film-card"><div class="film-header"><div><h3 class="film-title">${randomMovie.Name}</h3><p class="film-year">${randomMovie.Year}</p></div></div><a href="${randomMovie['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a></div>`;
+        const poster = getPoster(randomMovie.Name, randomMovie.Year);
+
+        q('#randomMovie').innerHTML = `
+            <div class="film-card random-movie-card">
+                ${poster ? `
+                    <div class="film-poster-container">
+                        <img src="${poster}" alt="${randomMovie.Name}" class="film-poster" loading="lazy">
+                    </div>
+                ` : ''}
+                <div class="film-content">
+                    <div class="film-header">
+                        <div>
+                            <h3 class="film-title">${randomMovie.Name}</h3>
+                            <p class="film-year">${randomMovie.Year}</p>
+                        </div>
+                    </div>
+                    <a href="${randomMovie['Letterboxd URI']}" target="_blank" class="film-link">View on Letterboxd →</a>
+                </div>
+            </div>
+        `;
     });
 
     // tabs (scoped)

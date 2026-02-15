@@ -1490,6 +1490,42 @@
           "Name": "Dungeons & Dragons: Honor Among Thieves",
           "Year": "2023",
           "Letterboxd URI": "https://boxd.it/hN1A"
+        },
+        {
+          "Date": "2026-02-08",
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/iAFu"
+        },
+        {
+          "Date": "2026-02-09",
+          "Name": "The Birds",
+          "Year": "1963",
+          "Letterboxd URI": "https://boxd.it/2a6m"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Prisoners of the Ghostland",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/j0NY"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "Hamnet",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/woVy"
+        },
+        {
+          "Date": "2026-02-16",
+          "Name": "Shark Tale",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/1VYe"
+        },
+        {
+          "Date": "2026-02-16",
+          "Name": "Red Eye",
+          "Year": "2005",
+          "Letterboxd URI": "https://boxd.it/1TNy"
         }
       ],
       "ratings": [
@@ -1526,13 +1562,6 @@
           "Name": "Pride & Prejudice",
           "Year": "2005",
           "Letterboxd URI": "https://boxd.it/24u8",
-          "Rating": "5"
-        },
-        {
-          "Date": "2024-08-07",
-          "Name": "Sense and Sensibility",
-          "Year": "1995",
-          "Letterboxd URI": "https://boxd.it/244E",
           "Rating": "5"
         },
         {
@@ -2983,6 +3012,55 @@
           "Year": "2023",
           "Letterboxd URI": "https://boxd.it/hN1A",
           "Rating": "4.5"
+        },
+        {
+          "Date": "2026-02-08",
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/iAFu",
+          "Rating": "5"
+        },
+        {
+          "Date": "2026-02-09",
+          "Name": "The Birds",
+          "Year": "1963",
+          "Letterboxd URI": "https://boxd.it/2a6m",
+          "Rating": "3"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Prisoners of the Ghostland",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/j0NY",
+          "Rating": "1.5"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "Hamnet",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/woVy",
+          "Rating": "3.5"
+        },
+        {
+          "Date": "2026-02-14",
+          "Name": "Sense and Sensibility",
+          "Year": "1995",
+          "Letterboxd URI": "https://boxd.it/244E",
+          "Rating": "5"
+        },
+        {
+          "Date": "2026-02-16",
+          "Name": "Shark Tale",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/1VYe",
+          "Rating": "3"
+        },
+        {
+          "Date": "2026-02-16",
+          "Name": "Red Eye",
+          "Year": "2005",
+          "Letterboxd URI": "https://boxd.it/1TNy",
+          "Rating": "3"
         }
       ],
       "reviews": [
@@ -3117,6 +3195,28 @@
           "Review": "Está bien, pero existe la peli",
           "Tags": "",
           "Watched Date": "2026-02-01"
+        },
+        {
+          "Date": "2026-02-08",
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/d29B5H",
+          "Rating": "5",
+          "Rewatch": "",
+          "Review": "Cuatro maravillosas películas en una",
+          "Tags": "",
+          "Watched Date": "2026-02-07"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Prisoners of the Ghostland",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/d47OIV",
+          "Rating": "1.5",
+          "Rewatch": "",
+          "Review": "A ratos parece que haya una peli al fondo",
+          "Tags": "",
+          "Watched Date": "2026-02-09"
         }
       ],
       "watchlist": [
@@ -4279,12 +4379,6 @@
           "Letterboxd URI": "https://boxd.it/HDHS"
         },
         {
-          "Date": "2025-08-05",
-          "Name": "Prisoners of the Ghostland",
-          "Year": "2021",
-          "Letterboxd URI": "https://boxd.it/j0NY"
-        },
-        {
           "Date": "2025-08-17",
           "Name": "Words Bubble Up Like Soda Pop",
           "Year": "2020",
@@ -4610,12 +4704,6 @@
         },
         {
           "Date": "2026-01-12",
-          "Name": "One Cut of the Dead",
-          "Year": "2017",
-          "Letterboxd URI": "https://boxd.it/iAFu"
-        },
-        {
-          "Date": "2026-01-12",
           "Name": "Crash",
           "Year": "1996",
           "Letterboxd URI": "https://boxd.it/29n2"
@@ -4673,12 +4761,6 @@
           "Name": "The Beast",
           "Year": "2023",
           "Letterboxd URI": "https://boxd.it/yqmk"
-        },
-        {
-          "Date": "2026-01-14",
-          "Name": "The Birds",
-          "Year": "1963",
-          "Letterboxd URI": "https://boxd.it/2a6m"
         },
         {
           "Date": "2026-01-14",
@@ -5150,12 +5232,6 @@
         },
         {
           "Date": "2026-01-28",
-          "Name": "Gaua (The Night)",
-          "Year": "2025",
-          "Letterboxd URI": "https://boxd.it/QDWm"
-        },
-        {
-          "Date": "2026-01-28",
           "Name": "8½",
           "Year": "1963",
           "Letterboxd URI": "https://boxd.it/2aqm"
@@ -5342,12 +5418,6 @@
         },
         {
           "Date": "2026-02-07",
-          "Name": "Hamnet",
-          "Year": "2025",
-          "Letterboxd URI": "https://boxd.it/woVy"
-        },
-        {
-          "Date": "2026-02-07",
           "Name": "Iron Lung",
           "Year": "2026",
           "Letterboxd URI": "https://boxd.it/GdtI"
@@ -5477,6 +5547,174 @@
           "Name": "Ultraman",
           "Year": "1966",
           "Letterboxd URI": "https://boxd.it/txEU"
+        },
+        {
+          "Date": "2026-02-09",
+          "Name": "Monkey Man",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/kvsO"
+        },
+        {
+          "Date": "2026-02-09",
+          "Name": "When Evil Lurks",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/rXBe"
+        },
+        {
+          "Date": "2026-02-09",
+          "Name": "The Wicker Man",
+          "Year": "1973",
+          "Letterboxd URI": "https://boxd.it/1KnG"
+        },
+        {
+          "Date": "2026-02-09",
+          "Name": "Midnight Mass",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/wvVA"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Suicide Club",
+          "Year": "2001",
+          "Letterboxd URI": "https://boxd.it/1RkY"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Love Exposure",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/1pDe"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Red Post on Escher Street",
+          "Year": "2020",
+          "Letterboxd URI": "https://boxd.it/pdpi"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Why Don't You Play in Hell?",
+          "Year": "2013",
+          "Letterboxd URI": "https://boxd.it/4lnC"
+        },
+        {
+          "Date": "2026-02-10",
+          "Name": "Himizu",
+          "Year": "2011",
+          "Letterboxd URI": "https://boxd.it/3oFs"
+        },
+        {
+          "Date": "2026-02-11",
+          "Name": "The Rip",
+          "Year": "2026",
+          "Letterboxd URI": "https://boxd.it/NP5y"
+        },
+        {
+          "Date": "2026-02-11",
+          "Name": "River",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/H1sK"
+        },
+        {
+          "Date": "2026-02-11",
+          "Name": "The Spine of Night",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/tVjm"
+        },
+        {
+          "Date": "2026-02-11",
+          "Name": "The Seventh Seal",
+          "Year": "1957",
+          "Letterboxd URI": "https://boxd.it/2ahO"
+        },
+        {
+          "Date": "2026-02-11",
+          "Name": "Project Silence",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/rdQ8"
+        },
+        {
+          "Date": "2026-02-11",
+          "Name": "Terrified",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/hCyy"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "Legend of the Guardians: The Owls of Ga'Hoole",
+          "Year": "2010",
+          "Letterboxd URI": "https://boxd.it/ZUy"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "The Adults",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/EL1u"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "The Master",
+          "Year": "2012",
+          "Letterboxd URI": "https://boxd.it/2cBG"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "The Master",
+          "Year": "1992",
+          "Letterboxd URI": "https://boxd.it/1CSm"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "Jumper",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/20ss"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "Shaolin Soccer",
+          "Year": "2001",
+          "Letterboxd URI": "https://boxd.it/1T86"
+        },
+        {
+          "Date": "2026-02-12",
+          "Name": "The Man in the Iron Mask",
+          "Year": "1998",
+          "Letterboxd URI": "https://boxd.it/1YZO"
+        },
+        {
+          "Date": "2026-02-13",
+          "Name": "Los perros",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/gaQi"
+        },
+        {
+          "Date": "2026-02-13",
+          "Name": "The Legend of Hei",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/mWC6"
+        },
+        {
+          "Date": "2026-02-14",
+          "Name": "Me Before You",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/9n98"
+        },
+        {
+          "Date": "2026-02-14",
+          "Name": "Closer",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/270K"
+        },
+        {
+          "Date": "2026-02-14",
+          "Name": "The Astronaut",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/F54I"
+        },
+        {
+          "Date": "2026-02-16",
+          "Name": "Chime",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/KiS2"
         }
       ],
       "likes": [
@@ -6313,10 +6551,16 @@
           "Name": "Dungeons & Dragons: Honor Among Thieves",
           "Year": "2023",
           "Letterboxd URI": "https://boxd.it/hN1A"
+        },
+        {
+          "Date": "2026-02-08",
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/iAFu"
         }
       ],
       "enabled": true,
-      "updatedAt": "2026-02-13T20:53:22.011706"
+      "updatedAt": "2026-02-15T20:15:55.703938"
     }
   ],
   "movies": {
@@ -7000,7 +7244,7 @@
       "name": "A Quiet Place",
       "year": "2018",
       "uri": "https://boxd.it/fVJQ",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q3/l5/3i/91/a-quiet-place-1200-1200-675-675-crop-000000.jpg?v=faece69645",
       "users": [
         {
           "name": "cargaspar",
@@ -7013,7 +7257,7 @@
       "name": "Good Will Hunting",
       "year": "1997",
       "uri": "https://boxd.it/2ahY",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/30/pr/tv/eg/IMG_5729-1200-1200-675-675-crop-000000.jpg?v=75da5f7335",
       "users": [
         {
           "name": "cargaspar",
@@ -7026,7 +7270,7 @@
       "name": "Good Omens",
       "year": "2019",
       "uri": "https://boxd.it/jUOI",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9l/9y/ch/3u/IMG_3445-1200-1200-675-675-crop-000000.jpg?v=34115ceaa9",
       "users": [
         {
           "name": "cargaspar",
@@ -7039,7 +7283,7 @@
       "name": "Sleepy Hollow",
       "year": "1999",
       "uri": "https://boxd.it/26u0",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0t/ik/4m/ge/sleepy-hollow-130-1200-1200-675-675-crop-000000.jpg?v=665283fab5",
       "users": [
         {
           "name": "cargaspar",
@@ -7052,7 +7296,7 @@
       "name": "Edward Scissorhands",
       "year": "1990",
       "uri": "https://boxd.it/2aZc",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1i/t3/i8/lj/edward-scissorhands-1200-1200-675-675-crop-000000.jpg?v=5fb90c87db",
       "users": [
         {
           "name": "cargaspar",
@@ -7143,7 +7387,7 @@
       "name": "Harry Potter and the Prisoner of Azkaban",
       "year": "2004",
       "uri": "https://boxd.it/29Qy",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fz/2e/tt/dt/harry-potter-and-the-prisoner-of-azkaban-1200-1200-675-675-crop-000000.jpg?v=37f03daa65",
       "users": [
         {
           "name": "cargaspar",
@@ -7156,7 +7400,7 @@
       "name": "Harry Potter and the Philosopher's Stone",
       "year": "2001",
       "uri": "https://boxd.it/29QS",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/db/2x/a6/v6/harrypotter-1200-1200-675-675-crop-000000.jpg?v=7f87bbd1ff",
       "users": [
         {
           "name": "cargaspar",
@@ -7169,7 +7413,7 @@
       "name": "Harry Potter and the Deathly Hallows: Part 2",
       "year": "2011",
       "uri": "https://boxd.it/1RYk",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ym/d6/ci/3v/harry-potter-deathly-hallows-part2-30-1200-1200-675-675-crop-000000.jpg?v=fe841bea7e",
       "users": [
         {
           "name": "cargaspar",
@@ -7182,7 +7426,7 @@
       "name": "Harry Potter and the Order of the Phoenix",
       "year": "2007",
       "uri": "https://boxd.it/29Qe",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/z2/u4/ow/ba/harry-potter-order-phoenix-80-1200-1200-675-675-crop-000000.jpg?v=a3d0c19bdd",
       "users": [
         {
           "name": "cargaspar",
@@ -7195,7 +7439,7 @@
       "name": "Harry Potter and the Half-Blood Prince",
       "year": "2009",
       "uri": "https://boxd.it/29FU",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sx/kj/x6/ph/harry-potter-half-blood-prince-1200-1200-675-675-crop-000000.jpg?v=ca21989df2",
       "users": [
         {
           "name": "cargaspar",
@@ -7442,7 +7686,7 @@
       "name": "Elemental",
       "year": "2023",
       "uri": "https://boxd.it/ASiE",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/m5/2v/be/p5/elemental-1200-1200-675-675-crop-000000.jpg?v=854f77eca1",
       "users": [
         {
           "name": "cargaspar",
@@ -7455,7 +7699,7 @@
       "name": "Raya and the Last Dragon",
       "year": "2021",
       "uri": "https://boxd.it/jbkI",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/j4/cm/kj/5m/raya-1200-1200-675-675-crop-000000.jpg?v=6fb362dd7c",
       "users": [
         {
           "name": "cargaspar",
@@ -7468,7 +7712,7 @@
       "name": "The Mitchells vs. the Machines",
       "year": "2021",
       "uri": "https://boxd.it/i7xm",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/88/np/la/i2/mitchells-vs-machines-1200-1200-675-675-crop-000000.jpg?v=0ae0423949",
       "users": [
         {
           "name": "cargaspar",
@@ -7481,7 +7725,7 @@
       "name": "Soul",
       "year": "2020",
       "uri": "https://boxd.it/ioLA",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rc/nh/4l/3b/soul-2020-1200-1200-675-675-crop-000000.jpg?v=50b02092c1",
       "users": [
         {
           "name": "cargaspar",
@@ -7494,7 +7738,7 @@
       "name": "Onward",
       "year": "2020",
       "uri": "https://boxd.it/io92",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sz/jd/9k/gt/5A01566A-D3AA-4DAB-9C93-C37727F89319-1200-1200-675-675-crop-000000.jpg?v=24f4d28b90",
       "users": [
         {
           "name": "cargaspar",
@@ -10059,42 +10303,42 @@
       "name": "Solaris",
       "year": "2002",
       "uri": "https://boxd.it/27qS",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/p1/3x/vi/s0/solaris-2004-1200-1200-675-675-crop-000000.jpg?v=0a5973b902",
       "users": []
     },
     "Moomin|1969": {
       "name": "Moomin",
       "year": "1969",
       "uri": "https://boxd.it/u0GU",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/5/2/5/0/715250-moomin-0-230-0-345-crop.jpg?v=4c1ecb6c60",
       "users": []
     },
     "Song of the Sea|2014": {
       "name": "Song of the Sea",
       "year": "2014",
       "uri": "https://boxd.it/3Ic6",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8f/y9/0m/3t/song-sea-1200-1200-675-675-crop-000000.jpg?v=c9eb477a92",
       "users": []
     },
     "Ponyo|2008": {
       "name": "Ponyo",
       "year": "2008",
       "uri": "https://boxd.it/1S0A",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6o/0g/oh/t0/ponyo-1200-1200-675-675-crop-000000.jpg?v=94af09132b",
       "users": []
     },
     "Castle in the Sky|1986": {
       "name": "Castle in the Sky",
       "year": "1986",
       "uri": "https://boxd.it/1W4G",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8r/io/ok/0s/castle-in-the-sky-1200-1200-675-675-crop-000000.jpg?v=a2a32dc95b",
       "users": []
     },
     "Wolfwalkers|2020": {
       "name": "Wolfwalkers",
       "year": "2020",
       "uri": "https://boxd.it/fGrC",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6x/8p/iw/92/wolfwalkers-1200-1200-675-675-crop-000000.jpg?v=b0d96965df",
       "users": []
     },
     "My Neighbor Totoro|1988": {
@@ -10276,35 +10520,35 @@
       "name": "The Legend of Mor'du",
       "year": "2012",
       "uri": "https://boxd.it/4wwq",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fw/8o/sn/xh/4sl1MXRfBanh7hd5ciL94Rtqybf-1200-1200-675-675-crop-000000.jpg?v=0bd931c9f2",
       "users": []
     },
     "Polar|2019": {
       "name": "Polar",
       "year": "2019",
       "uri": "https://boxd.it/hoZg",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hl/zc/7t/nt/polar-2019-1200-1200-675-675-crop-000000.jpg?v=e669889d09",
       "users": []
     },
     "Into the Woods|2014": {
       "name": "Into the Woods",
       "year": "2014",
       "uri": "https://boxd.it/6DtW",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/z9/ya/na/bf/into-the-woods-2014-1200-1200-675-675-crop-000000.jpg?v=3d0ac10554",
       "users": []
     },
     "Annette|2021": {
       "name": "Annette",
       "year": "2021",
       "uri": "https://boxd.it/f0RS",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6x/9u/k2/4b/annette-1200-1200-675-675-crop-000000.jpg?v=10e60c75e9",
       "users": []
     },
     "Imperium|2016": {
       "name": "Imperium",
       "year": "2016",
       "uri": "https://boxd.it/d0N8",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hq/qt/lf/fr/imperium-1200-1200-675-675-crop-000000.jpg?v=e018f58266",
       "users": []
     },
     "Ballerina|2023": {
@@ -10493,42 +10737,42 @@
       "name": "The Evil Dead",
       "year": "1981",
       "uri": "https://boxd.it/29Go",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4o/ar/ra/46/the-evil-dead-1200-1200-675-675-crop-000000.jpg?v=0de3b8fd81",
       "users": []
     },
     "Evil Dead II|1987": {
       "name": "Evil Dead II",
       "year": "1987",
       "uri": "https://boxd.it/29Ge",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h8/ba/ow/2n/evil-dead-ii-1200-1200-675-675-crop-000000.jpg?v=814263e29a",
       "users": []
     },
     "Army of Darkness|1992": {
       "name": "Army of Darkness",
       "year": "1992",
       "uri": "https://boxd.it/29G4",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aj/s8/rg/re/army-of-darkness-1200-1200-675-675-crop-000000.jpg?v=4331563281",
       "users": []
     },
     "Free Guy|2021": {
       "name": "Free Guy",
       "year": "2021",
       "uri": "https://boxd.it/k8dm",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vv/co/4p/ck/free%20guy-1200-1200-675-675-crop-000000.jpg?v=3780d36fa1",
       "users": []
     },
     "A Quiet Place Part II|2020": {
       "name": "A Quiet Place Part II",
       "year": "2020",
       "uri": "https://boxd.it/iTx0",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3f/6v/ze/kq/a-quiet-place-part-ii-1200-1200-675-675-crop-000000.jpg?v=08d71f5971",
       "users": []
     },
     "The Midnight Gospel|2020": {
       "name": "The Midnight Gospel",
       "year": "2020",
       "uri": "https://boxd.it/xlUa",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4l/je/1b/q7/mU0O0AyJd41HasGMz5HYaOqNVCh-1200-1200-675-675-crop-000000.jpg?v=35efb6f737",
       "users": []
     },
     "All You Need Is Kill|2025": {
@@ -10619,42 +10863,42 @@
       "name": "Super Crooks",
       "year": "2021",
       "uri": "https://boxd.it/ym8o",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/8/8/2/4/818824-super-crooks-0-230-0-345-crop.jpg?v=399a56a315",
       "users": []
     },
     "Killing God|2017": {
       "name": "Killing God",
       "year": "2017",
       "uri": "https://boxd.it/gDy8",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/6/5/2/8/396528-to-kill-god-0-230-0-345-crop.jpg?v=23a5b45671",
       "users": []
     },
     "Birdman or (The Unexpected Virtue of Ignorance)|2014": {
       "name": "Birdman or (The Unexpected Virtue of Ignorance)",
       "year": "2014",
       "uri": "https://boxd.it/5RFA",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kx/4x/ga/yt/4C0B33C5-A2DE-4EB9-AC59-139B86E16F9D-1200-1200-675-675-crop-000000.jpg?v=7f65301aa9",
       "users": []
     },
     "Whiplash|2014": {
       "name": "Whiplash",
       "year": "2014",
       "uri": "https://boxd.it/7bQA",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sk/f3/f1/b2/whiplash-1200-1200-675-675-crop-000000.jpg?v=771f1a019d",
       "users": []
     },
     "The Dinner Game|1998": {
       "name": "The Dinner Game",
       "year": "1998",
       "uri": "https://boxd.it/1YJ2",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ds/6j/t8/6q/dinner%20game-1200-1200-675-675-crop-000000.jpg?v=3d54c36a21",
       "users": []
     },
     "28 Weeks Later|2007": {
       "name": "28 Weeks Later",
       "year": "2007",
       "uri": "https://boxd.it/28Bi",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/w6/8z/3s/9k/28-weeks-later-1200-1200-675-675-crop-000000.jpg?v=e37bde5dea",
       "users": []
     },
     "Requiem for a Dream|2000": {
@@ -10732,7 +10976,13 @@
       "year": "2021",
       "uri": "https://boxd.it/j0NY",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/tj/5u/jn/dq/prisoners-of-the-ghostland-1200-1200-675-675-crop-000000.jpg?v=c1846afe05",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "1.5",
+          "watched": true
+        }
+      ]
     },
     "Words Bubble Up Like Soda Pop|2020": {
       "name": "Words Bubble Up Like Soda Pop",
@@ -10857,42 +11107,42 @@
       "name": "Death of a Unicorn",
       "year": "2025",
       "uri": "https://boxd.it/HCPm",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/p7/gg/am/wq/unicorn-1200-1200-675-675-crop-000000.jpg?v=f6e9fae85a",
       "users": []
     },
     "A Normal Family|2023": {
       "name": "A Normal Family",
       "year": "2023",
       "uri": "https://boxd.it/AM2K",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7r/dk/1r/8t/normal-1200-1200-675-675-crop-000000.jpg?v=b1e294815d",
       "users": []
     },
     "In the Name of the Father|1993": {
       "name": "In the Name of the Father",
       "year": "1993",
       "uri": "https://boxd.it/20I6",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/eb/3d/to/4q/in-the-name-of-the-father-1200-1200-675-675-crop-000000.jpg?v=cd8ad54410",
       "users": []
     },
     "One Battle After Another|2025": {
       "name": "One Battle After Another",
       "year": "2025",
       "uri": "https://boxd.it/DUHM",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/9/5/1/2/7/7/tmdb/ev06XwWLSoTG2DkLlsllAhlWGsk-1200-1200-675-675-crop-000000.jpg?v=cf6bcc5601",
       "users": []
     },
     "The Running Man|2025": {
       "name": "The Running Man",
       "year": "2025",
       "uri": "https://boxd.it/u36A",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/76/9d/qq/sn/arPneKwUK8aHXx2Q552vJSW8xzc-1200-1200-675-675-crop-000000.jpg?v=5605098ac5",
       "users": []
     },
     "Bugonia|2025": {
       "name": "Bugonia",
       "year": "2025",
       "uri": "https://boxd.it/qeWY",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jf/rv/eq/r2/bug-1200-1200-675-675-crop-000000.jpg?v=9227b4cd8a",
       "users": []
     },
     "KPop Demon Hunters|2025": {
@@ -10962,42 +11212,42 @@
       "name": "No Other Choice",
       "year": "2025",
       "uri": "https://boxd.it/nKiA",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4o/6c/l2/97/3riD785Gv4hBiHRdkYmVy8rmZkP-1200-1200-675-675-crop-000000.jpg?v=f340977378",
       "users": []
     },
     "Detachment|2011": {
       "name": "Detachment",
       "year": "2011",
       "uri": "https://boxd.it/2BiY",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/st/gb/km/xc/detachment-110-1200-1200-675-675-crop-000000.jpg?v=ba6f4edadf",
       "users": []
     },
     "Billy Elliot|2000": {
       "name": "Billy Elliot",
       "year": "2000",
       "uri": "https://boxd.it/2bdy",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ei/td/su/6y/billy-elliot-1200-1200-675-675-crop-000000.jpg?v=da7078a163",
       "users": []
     },
     "Letters to Juliet|2010": {
       "name": "Letters to Juliet",
       "year": "2010",
       "uri": "https://boxd.it/19aK",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5b/4p/9x/wl/TvmWJAXX7rvBaA6KeVGXo0TJmH-1200-1200-675-675-crop-000000.jpg?v=7dad157fb6",
       "users": []
     },
     "The Conjuring: Last Rites|2025": {
       "name": "The Conjuring: Last Rites",
       "year": "2025",
       "uri": "https://boxd.it/Dh8e",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/9/3/6/0/6/5/tmdb/nEHQOeDgqbBob05fEZba9gSe9FK-1200-1200-675-675-crop-000000.jpg?v=c150d5c5ab",
       "users": []
     },
     "The Bad Guys|2022": {
       "name": "The Bad Guys",
       "year": "2022",
       "uri": "https://boxd.it/nkg4",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/87/py/j9/vb/bad%20guys-1200-1200-675-675-crop-000000.jpg?v=1f16e3fa48",
       "users": []
     },
     "Léon: The Professional|1994": {
@@ -11110,7 +11360,13 @@
       "year": "2017",
       "uri": "https://boxd.it/iAFu",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/pa/lu/wc/1q/one-cut-of-dead-1200-1200-675-675-crop-000000.jpg?v=68bd448040",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5",
+          "watched": true
+        }
+      ]
     },
     "Crash|1996": {
       "name": "Crash",
@@ -11144,42 +11400,42 @@
       "name": "Shutter",
       "year": "2004",
       "uri": "https://boxd.it/1JbY",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/y6/rz/zo/dp/shutter-1200-1200-675-675-crop-000000.jpg?v=d034ffe037",
       "users": []
     },
     "V/H/S/94|2021": {
       "name": "V/H/S/94",
       "year": "2021",
       "uri": "https://boxd.it/shhy",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dy/k5/y2/rh/gKyW3d11U0DiqZX3Hd1YWHCtoj-1200-1200-675-675-crop-000000.jpg?v=db3b23750f",
       "users": []
     },
     "Videodrome|1983": {
       "name": "Videodrome",
       "year": "1983",
       "uri": "https://boxd.it/29uC",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xa/04/29/l7/videodrome-1200-1200-675-675-crop-000000.jpg?v=0d3584f6b2",
       "users": []
     },
     "Slender Man|2018": {
       "name": "Slender Man",
       "year": "2018",
       "uri": "https://boxd.it/fBcs",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/no/no/jo/z4/slender-man-1200-1200-675-675-crop-000000.jpg?v=8850265237",
       "users": []
     },
     "The Bottom of the Sea|2003": {
       "name": "The Bottom of the Sea",
       "year": "2003",
       "uri": "https://boxd.it/7aKc",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4a/xd/2f/xq/f2x1uVCQwAP0Ta2Wb0jdP2LUTAj-1200-1200-675-675-crop-000000.jpg?v=5dc8bd83cc",
       "users": []
     },
     "The Beast|2023": {
       "name": "The Beast",
       "year": "2023",
       "uri": "https://boxd.it/yqmk",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/is/cr/ak/2e/TheBeast2023-1200-1200-675-675-crop-000000.jpg?v=79856b7bdc",
       "users": []
     },
     "The Birds|1963": {
@@ -11187,7 +11443,13 @@
       "year": "1963",
       "uri": "https://boxd.it/2a6m",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/z2/04/av/co/the-birds-1200-1200-675-675-crop-000000.jpg?v=0cc253d38c",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3",
+          "watched": true
+        }
+      ]
     },
     "It’s Better Not to Think About Anything|2019": {
       "name": "It’s Better Not to Think About Anything",
@@ -11263,49 +11525,49 @@
       "name": "The Baltimorons",
       "year": "2025",
       "uri": "https://boxd.it/SBYa",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/0/1/5/6/7/tmdb/ymRyzv5OLeDihlYypvpds3tGOfh-1200-1200-675-675-crop-000000.jpg?v=3c9d56c934",
       "users": []
     },
     "Sore: A Wife from the Future|2025": {
       "name": "Sore: A Wife from the Future",
       "year": "2025",
       "uri": "https://boxd.it/RjY0",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/7/0/8/1/4/tmdb/eSwE0jUlt9Hev96sdnWdsB2Bl48-1200-1200-675-675-crop-000000.jpg?v=46bfb861a9",
       "users": []
     },
     "The Blue Trail|2025": {
       "name": "The Blue Trail",
       "year": "2025",
       "uri": "https://boxd.it/IrKi",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/9/3/0/9/tmdb/kStM4ybSFKHtpdudcFZbDDrlT9Z-1200-1200-675-675-crop-000000.jpg?v=9d0c48dd24",
       "users": []
     },
     "Wake Up Dead Man|2025": {
       "name": "Wake Up Dead Man",
       "year": "2025",
       "uri": "https://boxd.it/uAKS",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/7/2/9/1/1/3/tmdb/J9iin5aGcbsMW8YlMxGJTN4odT-1200-1200-675-675-crop-000000.jpg?v=e117983ea4",
       "users": []
     },
     "Good News|2025": {
       "name": "Good News",
       "year": "2025",
       "uri": "https://boxd.it/NsY6",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/7/8/9/4/3/tmdb/dNYo4Qg3CnZFbzeet59d4cdhRkK-1200-1200-675-675-crop-000000.jpg?v=4af43a7468",
       "users": []
     },
     "Lost in Starlight|2025": {
       "name": "Lost in Starlight",
       "year": "2025",
       "uri": "https://boxd.it/I6Yo",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/1/3/2/4/tmdb/oSjccyNKClyqn5WQcWKtJ6QOgos-1200-1200-675-675-crop-000000.jpg?v=d705b66619",
       "users": []
     },
     "Lesbian Space Princess|2025": {
       "name": "Lesbian Space Princess",
       "year": "2025",
       "uri": "https://boxd.it/PgP6",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3g/yl/m1/p9/LSP_BountyHunterPromo_Kiki-1200-1200-675-675-crop-000000.jpg?v=8cea3d65a8",
       "users": []
     },
     "Materialists|2025": {
@@ -11368,42 +11630,42 @@
       "name": "The World of Love",
       "year": "2025",
       "uri": "https://boxd.it/Ohfm",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/2/7/0/tmdb/ngU92713nvaHFakggcEuFYmy8Sc-1200-1200-675-675-crop-000000.jpg?v=558d3cf2a6",
       "users": []
     },
     "Castration Movie Anthology ii. The Best of Both Worlds|2025": {
       "name": "Castration Movie Anthology ii. The Best of Both Worlds",
       "year": "2025",
       "uri": "https://boxd.it/VoSE",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/6/8/0/3/4/tmdb/1PI63GDOAWSJ0U8Y66PZplVhxEh-1200-1200-675-675-crop-000000.jpg?v=b106d8c569",
       "users": []
     },
     "Takopi's Original Sin|2025": {
       "name": "Takopi's Original Sin",
       "year": "2025",
       "uri": "https://boxd.it/Wduo",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/8/7/4/8/8/tmdb/hxCCkcJHskJc5YRpR2OGclpUE0x-1200-1200-675-675-crop-000000.jpg?v=59f82ae57c",
       "users": []
     },
     "Marvel Zombies|2025": {
       "name": "Marvel Zombies",
       "year": "2025",
       "uri": "https://boxd.it/XoiA",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/5/4/7/6/tmdb/ou1bLjE6ecN1sKA64aCYMKQQPqR-1200-1200-675-675-crop-000000.jpg?v=594cc7053c",
       "users": []
     },
     "Fairyland|2023": {
       "name": "Fairyland",
       "year": "2023",
       "uri": "https://boxd.it/BIcS",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kx/35/0m/va/h2GJgD8ecNxLlXIHgWnuoSBaSaP-1200-1200-675-675-crop-000000.jpg?v=90dd25445e",
       "users": []
     },
     "The Roses|2025": {
       "name": "The Roses",
       "year": "2025",
       "uri": "https://boxd.it/MjnI",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/5/1/4/2/5/tmdb/A5m0wi9rm4kxf9T5wFn3pBqaLtp-1200-1200-675-675-crop-000000.jpg?v=60016e2477",
       "users": []
     },
     "Another Simple Favor|2025": {
@@ -11459,42 +11721,42 @@
       "name": "Dead Poets Society",
       "year": "1989",
       "uri": "https://boxd.it/2aSg",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6e/ah/fr/pn/dead-poets-society-1200-1200-675-675-crop-000000.jpg?v=f2a7da1105",
       "users": []
     },
     "November|2017": {
       "name": "November",
       "year": "2017",
       "uri": "https://boxd.it/fxu8",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sf/kd/tj/jv/november-1200-1200-675-675-crop-000000.jpg?v=4244f7c15c",
       "users": []
     },
     "Hero|2002": {
       "name": "Hero",
       "year": "2002",
       "uri": "https://boxd.it/2bcq",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fs/r4/pb/0s/hero-1200-1200-675-675-crop-000000.jpg?v=ea0f09443c",
       "users": []
     },
     "The Voice of Hind Rajab|2025": {
       "name": "The Voice of Hind Rajab",
       "year": "2025",
       "uri": "https://boxd.it/UXdO",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qq/ee/vo/9k/alLKink1suM5FoLrXKBxnJzPmE8-1200-1200-675-675-crop-000000.jpg?v=4053f8617c",
       "users": []
     },
     "The Banshees of Inisherin|2022": {
       "name": "The Banshees of Inisherin",
       "year": "2022",
       "uri": "https://boxd.it/p7XS",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ys/e3/qp/ue/the-banshees-of-inisherin-1200-1200-675-675-crop-000000.jpg?v=3833cedbcc",
       "users": []
     },
     "The Cannonball Run|1981": {
       "name": "The Cannonball Run",
       "year": "1981",
       "uri": "https://boxd.it/1UdQ",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/km/h2/1q/96/the-cannonball-run-1200-1200-675-675-crop-000000.jpg?v=8a45e8e66a",
       "users": []
     },
     "Cannonball Run II|1984": {
@@ -11599,35 +11861,35 @@
       "name": "Death Does Not Exist",
       "year": "2025",
       "uri": "https://boxd.it/BkJo",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/9/7/8/3/889783-death-does-not-exist-0-230-0-345-crop.jpg?v=ac68d7ddf9",
       "users": []
     },
     "Ville Neuve|2018": {
       "name": "Ville Neuve",
       "year": "2018",
       "uri": "https://boxd.it/jAkS",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/6/7/9/1/466791-ville-neuve-0-230-0-345-crop.jpg?v=bec2eeff5b",
       "users": []
     },
     "Archipelago|2021": {
       "name": "Archipelago",
       "year": "2021",
       "uri": "https://boxd.it/tg3M",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2x/51/nh/c1/archi-1200-1200-675-675-crop-000000.jpg?v=165cfad643",
       "users": []
     },
     "MOM|2020": {
       "name": "MOM",
       "year": "2020",
       "uri": "https://boxd.it/qgaM",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/5/8/7/0/625870-mom-0-230-0-345-crop.jpg?v=faa25bb068",
       "users": []
     },
     "Affairs of the Art|2021": {
       "name": "Affairs of the Art",
       "year": "2021",
       "uri": "https://boxd.it/rSbU",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ie/uj/o6/sa/affairs-1200-1200-675-675-crop-000000.jpg?v=25fe4267cf",
       "users": []
     },
     "Peel|2020": {
@@ -11753,7 +12015,7 @@
       "name": "The Shadow's Edge",
       "year": "2025",
       "uri": "https://boxd.it/SxME",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/9/9/9/5/8/tmdb/i3UQNKxVNhRH7R70VblmAXdn1Ag-1200-1200-675-675-crop-000000.jpg?v=2072e54d85",
       "users": []
     },
     "Luck|2022": {
@@ -11942,42 +12204,48 @@
       "name": "Everything Is Illuminated",
       "year": "2005",
       "uri": "https://boxd.it/2ayg",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/do/8h/y1/b6/eveyrthing%20is%20illuminated-1200-1200-675-675-crop-000000.jpg?v=1c66644777",
       "users": []
     },
     "Hamnet|2025": {
       "name": "Hamnet",
       "year": "2025",
       "uri": "https://boxd.it/woVy",
-      "poster": null,
-      "users": []
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/7/7/2/2/3/2/tmdb/yt9m5CiU2MZkQoNl1kqLPODNR4t-1200-1200-675-675-crop-000000.jpg?v=a019dfb99b",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3.5",
+          "watched": true
+        }
+      ]
     },
     "Iron Lung|2026": {
       "name": "Iron Lung",
       "year": "2026",
       "uri": "https://boxd.it/GdtI",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dv/gj/py/o7/h1iMimR9uG8dGezlO7dRtFPXWX5-1200-1200-675-675-crop-000000.jpg?v=17729b642f",
       "users": []
     },
     "The Secret Agent|2025": {
       "name": "The Secret Agent",
       "year": "2025",
       "uri": "https://boxd.it/KkUE",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/0/4/3/4/8/tmdb/NPJlNm5PixViH4dmH7pBnAgkzy-1200-1200-675-675-crop-000000.jpg?v=a48f74bf3c",
       "users": []
     },
     "Atonement|2007": {
       "name": "Atonement",
       "year": "2007",
       "uri": "https://boxd.it/24ui",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9c/ja/t9/wi/atonement-1200-1200-675-675-crop-000000.jpg?v=ffe69fb03c",
       "users": []
     },
     "Sherlock: A Study in Pink|2010": {
       "name": "Sherlock: A Study in Pink",
       "year": "2010",
       "uri": "https://boxd.it/mueU",
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nx/3f/e6/vh/u8xvgVzTQjAeRu68sI9JJHeQSuA-1200-1200-675-675-crop-000000.jpg?v=9d75755273",
       "users": []
     },
     "Sherlock: The Reichenbach Fall|2012": {
@@ -12105,7 +12373,229 @@
       "uri": "https://boxd.it/txEU",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/f8/jq/fr/33/nQViCFfoObO5Xs8oHVjyfF4rHeL-1200-1200-675-675-crop-000000.jpg?v=654839f4e5",
       "users": []
+    },
+    "Shark Tale|2004": {
+      "name": "Shark Tale",
+      "year": "2004",
+      "uri": "https://boxd.it/1VYe",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/es/jj/xa/dh/shark-tale-1200-1200-675-675-crop-000000.jpg?v=bf3494a679",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3",
+          "watched": true
+        }
+      ]
+    },
+    "Red Eye|2005": {
+      "name": "Red Eye",
+      "year": "2005",
+      "uri": "https://boxd.it/1TNy",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/to/fs/sd/red-eye-1200-1200-675-675-crop-000000.jpg?v=67783023c1",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3",
+          "watched": true
+        }
+      ]
+    },
+    "Monkey Man|2024": {
+      "name": "Monkey Man",
+      "year": "2024",
+      "uri": "https://boxd.it/kvsO",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ka/ly/yp/rr/monkey-man-1200-1200-675-675-crop-000000.jpg?v=39110197d4",
+      "users": []
+    },
+    "When Evil Lurks|2023": {
+      "name": "When Evil Lurks",
+      "year": "2023",
+      "uri": "https://boxd.it/rXBe",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/gc/ep/ai/4u/when%20evil-1200-1200-675-675-crop-000000.jpg?v=ca5b533f39",
+      "users": []
+    },
+    "The Wicker Man|1973": {
+      "name": "The Wicker Man",
+      "year": "1973",
+      "uri": "https://boxd.it/1KnG",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vx/bd/dl/zs/the-wicker-man-1200-1200-675-675-crop-000000.jpg?v=2bc0ea2ce4",
+      "users": []
+    },
+    "Midnight Mass|2021": {
+      "name": "Midnight Mass",
+      "year": "2021",
+      "uri": "https://boxd.it/wvVA",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/lf/2n/tt/t2/midnight-mass-1200-1200-675-675-crop-000000.jpg?v=04b4fd7f2a",
+      "users": []
+    },
+    "Suicide Club|2001": {
+      "name": "Suicide Club",
+      "year": "2001",
+      "uri": "https://boxd.it/1RkY",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4b/wg/8h/py/suicide%20club-1200-1200-675-675-crop-000000.jpg?v=8c5064ad69",
+      "users": []
+    },
+    "Love Exposure|2008": {
+      "name": "Love Exposure",
+      "year": "2008",
+      "uri": "https://boxd.it/1pDe",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ld/mm/hw/zb/love-exposure-1200-1200-675-675-crop-000000.jpg?v=796abd8d52",
+      "users": []
+    },
+    "Red Post on Escher Street|2020": {
+      "name": "Red Post on Escher Street",
+      "year": "2020",
+      "uri": "https://boxd.it/pdpi",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/x5/2q/cz/2v/Red%20Post%20on%20Escher%20Street-1200-1200-675-675-crop-000000.jpg?v=c33fe7b121",
+      "users": []
+    },
+    "Why Don't You Play in Hell?|2013": {
+      "name": "Why Don't You Play in Hell?",
+      "year": "2013",
+      "uri": "https://boxd.it/4lnC",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qa/2k/7o/i6/why-dont-you-play-in-hell-1200-1200-675-675-crop-000000.jpg?v=7f7da68903",
+      "users": []
+    },
+    "Himizu|2011": {
+      "name": "Himizu",
+      "year": "2011",
+      "uri": "https://boxd.it/3oFs",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ub/r3/qz/5i/himizu-1200-1200-675-675-crop-000000.jpg?v=b171c91ef9",
+      "users": []
+    },
+    "The Rip|2026": {
+      "name": "The Rip",
+      "year": "2026",
+      "uri": "https://boxd.it/NP5y",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4h/ub/up/lj/rip-1200-1200-675-675-crop-000000.jpg?v=fad44a38de",
+      "users": []
+    },
+    "River|2023": {
+      "name": "River",
+      "year": "2023",
+      "uri": "https://boxd.it/H1sK",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wo/m9/oa/7k/river-1200-1200-675-675-crop-000000.jpg?v=a957d903e1",
+      "users": []
+    },
+    "The Spine of Night|2021": {
+      "name": "The Spine of Night",
+      "year": "2021",
+      "uri": "https://boxd.it/tVjm",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/43/7m/0n/lr/the-spine-of-night-1200-1200-675-675-crop-000000.jpg?v=8765db8c7b",
+      "users": []
+    },
+    "The Seventh Seal|1957": {
+      "name": "The Seventh Seal",
+      "year": "1957",
+      "uri": "https://boxd.it/2ahO",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3v/h4/2e/6c/seventh-seal-1200-1200-675-675-crop-000000.jpg?v=5f87461e1b",
+      "users": []
+    },
+    "Project Silence|2023": {
+      "name": "Project Silence",
+      "year": "2023",
+      "uri": "https://boxd.it/rdQ8",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vn/c6/t7/j1/project-1200-1200-675-675-crop-000000.jpg?v=daa97f613d",
+      "users": []
+    },
+    "Terrified|2017": {
+      "name": "Terrified",
+      "year": "2017",
+      "uri": "https://boxd.it/hCyy",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/st/8d/u5/gj/w2FjGEuRouW6FN0smYH4yetNU7b-1200-1200-675-675-crop-000000.jpg?v=a0e7e1cff0",
+      "users": []
+    },
+    "Legend of the Guardians: The Owls of Ga'Hoole|2010": {
+      "name": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "year": "2010",
+      "uri": "https://boxd.it/ZUy",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0j/p8/l8/op/legend-of-the-guardians-the-owls-of-gahoole-1200-1200-675-675-crop-000000.jpg?v=056fa4965e",
+      "users": []
+    },
+    "The Adults|2023": {
+      "name": "The Adults",
+      "year": "2023",
+      "uri": "https://boxd.it/EL1u",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jf/g0/id/2m/full_ADULTS-02-Clean-16x9-1200-1200-675-675-crop-000000.jpg?v=6431c86e86",
+      "users": []
+    },
+    "The Master|2012": {
+      "name": "The Master",
+      "year": "2012",
+      "uri": "https://boxd.it/2cBG",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/92/da/pm/v9/master-1200-1200-675-675-crop-000000.jpg?v=88afbd7335",
+      "users": []
+    },
+    "The Master|1992": {
+      "name": "The Master",
+      "year": "1992",
+      "uri": "https://boxd.it/1CSm",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/mh/jl/dq/a4/aPYQAYQzHUDhxYwCFjVZOso1kca-1200-1200-675-675-crop-000000.jpg?v=627aebfa23",
+      "users": []
+    },
+    "Jumper|2008": {
+      "name": "Jumper",
+      "year": "2008",
+      "uri": "https://boxd.it/20ss",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vu/9o/yc/z0/jumper-1200-1200-675-675-crop-000000.jpg?v=4f7de74d23",
+      "users": []
+    },
+    "Shaolin Soccer|2001": {
+      "name": "Shaolin Soccer",
+      "year": "2001",
+      "uri": "https://boxd.it/1T86",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/va/25/bs/vu/shaolin%20soccer-1200-1200-675-675-crop-000000.jpg?v=09a2815490",
+      "users": []
+    },
+    "The Man in the Iron Mask|1998": {
+      "name": "The Man in the Iron Mask",
+      "year": "1998",
+      "uri": "https://boxd.it/1YZO",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nb/7l/9v/cg/maniniron-1200-1200-675-675-crop-000000.jpg?v=dacd8a7558",
+      "users": []
+    },
+    "Los perros|2017": {
+      "name": "Los perros",
+      "year": "2017",
+      "uri": "https://boxd.it/gaQi",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/5/4/9/3/385493-los-perros-0-230-0-345-crop.jpg?v=9a78dd3f40",
+      "users": []
+    },
+    "The Legend of Hei|2019": {
+      "name": "The Legend of Hei",
+      "year": "2019",
+      "uri": "https://boxd.it/mWC6",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/el/ni/hw/ad/legend-of-hei-1200-1200-675-675-crop-000000.jpg?v=8651e340a5",
+      "users": []
+    },
+    "Me Before You|2016": {
+      "name": "Me Before You",
+      "year": "2016",
+      "uri": "https://boxd.it/9n98",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/iy/ia/kq/zs/me-before-you-1200-1200-675-675-crop-000000.jpg?v=53f8ac43a6",
+      "users": []
+    },
+    "Closer|2004": {
+      "name": "Closer",
+      "year": "2004",
+      "uri": "https://boxd.it/270K",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/mr/uv/nt/f1/closer-1200-1200-675-675-crop-000000.jpg?v=a57631dbf3",
+      "users": []
+    },
+    "The Astronaut|2025": {
+      "name": "The Astronaut",
+      "year": "2025",
+      "uri": "https://boxd.it/F54I",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dk/ao/lg/jr/IMG_0084-1200-1200-675-675-crop-000000.jpg?v=25d83d739c",
+      "users": []
+    },
+    "Chime|2024": {
+      "name": "Chime",
+      "year": "2024",
+      "uri": "https://boxd.it/KiS2",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/to/5k/p1/am/chime-1200-1200-675-675-crop-000000.jpg?v=55041b169a",
+      "users": []
     }
   },
-  "lastUpdated": "2026-02-13T22:50:30.725915"
+  "lastUpdated": "2026-02-15T20:17:14.259816"
 }

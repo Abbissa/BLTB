@@ -176,8 +176,92 @@ class LetterboxdProcessor:
                     "users": []
                 }
                 movies_added += 1
-        
-        print(f"  Movies processed: {movies_added} new")
+        print(f"  Recover data from rss feed for {username}...")
+         # fetch rss feed for lastest updates from letterboxd https://letterboxd.com/username/rss/
+         # with: 
+         # <item> <title>The Housemaid, 2025 - ½</title> <link>https://letterboxd.com/cargaspar/film/the-housemaid-2025/</link> <guid isPermaLink="false">letterboxd-review-1204525729</guid> <pubDate>Mon, 16 Feb 2026 08:25:20 +1300</pubDate> <letterboxd:watchedDate>2026-02-15</letterboxd:watchedDate> <letterboxd:rewatch>No</letterboxd:rewatch> <letterboxd:filmTitle>The Housemaid</letterboxd:filmTitle> <letterboxd:filmYear>2025</letterboxd:filmYear> <letterboxd:memberRating>0.5</letterboxd:memberRating> <letterboxd:memberLike>No</letterboxd:memberLike> <tmdb:movieId>1368166</tmdb:movieId> <description><![CDATA[ <p><img src="https://a.ltrbxd.com/resized/film-poster/1/2/5/5/3/1/9/1255319-the-housemaid-2025-0-600-0-900-crop.jpg?v=b054fee6ec"/></p> <p>sosa</p> ]]></description> <dc:creator>Cargaspar</dc:creator> </item>
+        url = f"https://letterboxd.com/{self.data['users'][0]['name']}/rss/"
+        feed = feedparser.parse(url)
+        for entry in feed.entries:
+            # print whole entry with key value format
+            # add movie to reviews, liked, watched if not already there
+
+            film_title = entry.get('letterboxd_filmtitle', '')
+            film_year = entry.get('letterboxd_filmyear', '')
+            print(f"      Extracted film title: {film_title}, year: {film_year}")
+            watched_date = entry.get('letterboxd_watcheddate', '')
+            member_rating = entry.get('letterboxd_memberrating', '')
+            member_like = entry.get('letterboxd_memberlike', '')
+            # print whole entry for debugging k v
+            # for k, v in entry.items():
+                # print(f"        {k}: {v}")
+            # review for this case is sosa
+            # summary: <p><img src="https://a.ltrbxd.com/resized/film-poster/5/9/2/6/3/6/592636-deep-sea-0-600-0-900-crop.jpg?v=e1ff1f5958" /></p> <p>Segunda vez que la veo, segunda vez que lloro a mares. Es preciosa, sumado a la animación es inolvidable</p>
+            review = entry.get('summary', {})
+            review_detail =entry.get('summary_detail', {})
+            # now retrieve the text from the summary_detail from the second p tag
+            import re
+            review_text = re.findall(r'<p>(.*?)</p>', review)
+
+            review_text = review_text[1] if len(review_text) > 1 else ''
+            print(f"        Extracted summary: {review_detail}")
+            print(f"        Extracted review: {review}")
+            print(f"        Extracted review text: {review_text}")
+            # create movie in watched, reviwed and liked if applies an not exists
+            movie_key = f"{film_title}|{film_year}"
+            if movie_key not in self.data["movies"]:
+                self.data["movies"][movie_key] = {
+                    "name": film_title,
+                    "year": film_year,
+                    "uri": entry.get('link', ''),
+                    "poster": None,
+                    "users": []
+                }
+                movies_added += 1
+            # add user reference if not already there
+            if username not in [u["name"] for u in self.data["movies"][movie_key]["users"]]:
+                self.data["movies"][movie_key]["users"].append({
+                    "name": username,
+                    "rating": member_rating if member_rating else None,
+                    "watched": True if watched_date else False,
+                    "review": review_text if review_text else None,
+                    "liked": True if member_like == 'Yes' else False
+                })
+            # add to watched if not already there
+            if not any(w.get('Name') == film_title and w.get('Year') == film_year for w in user_data['watched']):
+                user_data['watched'].append({
+
+                    "Date": watched_date,
+                    "Name": film_title,
+                    "Year": film_year,
+                    "Letterboxd URI": entry.get('link', '')
+                })
+            # add to reviews if not already there if review_text exists and does not contain Watched
+            if review_text and 'Watched' not in review_text and not any(r.get('Name') == film_title and r.get('Year') == film_year for r in user_data['reviews']):
+                user_data['reviews'].append({
+                    "Name": film_title,
+                    "Year": film_year,
+                    "Letterboxd URI": entry.get('link', ''),
+                    "Review": review_text
+                })
+                watched_date = entry.get('letterboxd_watcheddate', '')
+
+            # add to ratings if not already there
+            if member_rating and not any(r.get('Name') == film_title and r.get('Year') == film_year for r in user_data['ratings']):
+                user_data['ratings'].append({
+                    "Date": watched_date,
+                    "Name": film_title,
+                    "Year": film_year,
+                    "Letterboxd URI": entry.get('link', ''),
+                    "Rating": member_rating
+                })
+            # add to likes if member_like is Yes and not already there
+            if member_like == 'Yes' and not any(l.get('Name') == film_title and l.get('Year') == film_year for l in user_data['likes']):
+                user_data['likes'].append({
+                    "Name": film_title,
+                    "Year": film_year,
+                    "Letterboxd URI": entry.get('link', '')
+                })
         
         # Fetch posters if enabled
         if self.fetch_posters:

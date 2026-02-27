@@ -1,0 +1,4191 @@
+{
+  "users": [
+    {
+      "name": "cargaspar",
+      "watched": [
+        {
+          "Name": "Old Film",
+          "Year": "2000",
+          "Letterboxd URI": "https://example.com"
+        },
+        {
+          "Name": "Return to Silent Hill",
+          "Year": "2026",
+          "Letterboxd URI": "https://letterboxd.com/film/return-to-silent-hill/"
+        },
+        {
+          "Name": "JUJUTSU KAISEN: Execution",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/jujutsu-kaisen-execution/"
+        },
+        {
+          "Name": "Chainsaw Man – The Movie: Reze Arc",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc/"
+        },
+        {
+          "Name": "Rental Family",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/rental-family-2025/"
+        },
+        {
+          "Name": "Hamnet",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/hamnet/"
+        },
+        {
+          "Name": "Weapons",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/weapons-2025/"
+        },
+        {
+          "Name": "Superman",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/superman-2025/"
+        },
+        {
+          "Name": "Echo Valley",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/echo-valley/"
+        },
+        {
+          "Name": "Thunderbolts*",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/thunderbolts/"
+        },
+        {
+          "Name": "Sinners",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/sinners-2025/"
+        },
+        {
+          "Name": "Mickey 17",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/mickey-17/"
+        },
+        {
+          "Name": "Captain America: Brave New World",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/captain-america-brave-new-world/"
+        },
+        {
+          "Name": "Mufasa: The Lion King",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/mufasa-the-lion-king/"
+        },
+        {
+          "Name": "Venom: The Last Dance",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/venom-the-last-dance/"
+        },
+        {
+          "Name": "Gladiator II",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/gladiator-ii/"
+        },
+        {
+          "Name": "The Wild Robot",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-wild-robot/"
+        },
+        {
+          "Name": "The Life of Chuck",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-life-of-chuck/"
+        },
+        {
+          "Name": "Deadpool & Wolverine",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/deadpool-wolverine/"
+        },
+        {
+          "Name": "Inside Out 2",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/inside-out-2-2024/"
+        },
+        {
+          "Name": "Look Back",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/look-back-2024/"
+        },
+        {
+          "Name": "The Substance",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-substance/"
+        },
+        {
+          "Name": "Challengers",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/challengers/"
+        },
+        {
+          "Name": "The Wonderful Story of Henry Sugar and Three More",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar-and-three-more/"
+        },
+        {
+          "Name": "Arcadian",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/arcadian/"
+        },
+        {
+          "Name": "The Human Hibernation",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-human-hibernation/"
+        },
+        {
+          "Name": "Schirkoa: In Lies We Trust",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/schirkoa-in-lies-we-trust/"
+        },
+        {
+          "Name": "I Saw the TV Glow",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/i-saw-the-tv-glow/"
+        },
+        {
+          "Name": "Poison",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/poison-2023/"
+        },
+        {
+          "Name": "The Rat Catcher",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-rat-catcher-2023/"
+        },
+        {
+          "Name": "The Swan",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-swan-2023/"
+        },
+        {
+          "Name": "The Creator",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-creator-2023/"
+        },
+        {
+          "Name": "Dream Scenario",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/dream-scenario/"
+        },
+        {
+          "Name": "The Peasants",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-peasants-2023/"
+        },
+        {
+          "Name": "Poor Things",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/poor-things-2023/"
+        },
+        {
+          "Name": "The Wonderful Story of Henry Sugar",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/"
+        },
+        {
+          "Name": "Oppenheimer",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/oppenheimer-2023/"
+        },
+        {
+          "Name": "Barbie",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/barbie/"
+        },
+        {
+          "Name": "Chang'an",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/changan/"
+        },
+        {
+          "Name": "Nimona",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/nimona-2023/"
+        },
+        {
+          "Name": "Spider-Man: Across the Spider-Verse",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/spider-man-across-the-spider-verse/"
+        },
+        {
+          "Name": "Elemental",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/elemental-2023/"
+        },
+        {
+          "Name": "Mars Express",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/mars-express/"
+        },
+        {
+          "Name": "Four Souls of Coyote",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/four-souls-of-coyote/"
+        },
+        {
+          "Name": "Dungeons & Dragons: Honor Among Thieves",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/dungeons-dragons-honor-among-thieves/"
+        },
+        {
+          "Name": "Deep Sea",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/deep-sea/"
+        },
+        {
+          "Name": "The Boy, the Mole, the Fox and the Horse",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-boy-the-mole-the-fox-and-the-horse/"
+        },
+        {
+          "Name": "Puss in Boots: The Last Wish",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/puss-in-boots-the-last-wish/"
+        },
+        {
+          "Name": "The Coffee Table",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-coffee-table/"
+        },
+        {
+          "Name": "Hundreds of Beavers",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/hundreds-of-beavers/"
+        },
+        {
+          "Name": "The Menu",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-menu-2022/"
+        },
+        {
+          "Name": "Weird: The Al Yankovic Story",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/weird-the-al-yankovic-story-2022/"
+        },
+        {
+          "Name": "The Sea Beast",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-sea-beast-2022/"
+        },
+        {
+          "Name": "Love, Death & Robots: The Very Pulse of the Machine",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/love-death-robots-the-very-pulse-of-the-machine/"
+        },
+        {
+          "Name": "Doctor Strange in the Multiverse of Madness",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/"
+        },
+        {
+          "Name": "Everything Everywhere All at Once",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/everything-everywhere-all-at-once/"
+        },
+        {
+          "Name": "Blue Thermal",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/blue-thermal/"
+        },
+        {
+          "Name": "The Weekend Away",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-weekend-away/"
+        },
+        {
+          "Name": "The Batman",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-batman/"
+        },
+        {
+          "Name": "Turning Red",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/turning-red/"
+        },
+        {
+          "Name": "Jujutsu Kaisen 0",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/jujutsu-kaisen-0/"
+        },
+        {
+          "Name": "Spider-Man: No Way Home",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/spider-man-no-way-home/"
+        },
+        {
+          "Name": "Don't Look Up",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/dont-look-up-2021/"
+        },
+        {
+          "Name": "JoJo's Bizarre Adventure: Stone Ocean",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/jojos-bizarre-adventure-stone-ocean/"
+        },
+        {
+          "Name": "Encanto",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/encanto/"
+        },
+        {
+          "Name": "Squid Game",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/squid-game/"
+        },
+        {
+          "Name": "Venom: Let There Be Carnage",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/venom-let-there-be-carnage/"
+        },
+        {
+          "Name": "Dune",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/dune-2021/"
+        },
+        {
+          "Name": "Shang-Chi and the Legend of the Ten Rings",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/"
+        },
+        {
+          "Name": "Belle",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/belle-2021/"
+        },
+        {
+          "Name": "The French Dispatch of the Liberty, Kansas Evening Sun",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-french-dispatch-of-the-liberty-kansas/"
+        },
+        {
+          "Name": "Luca",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/luca-2021/"
+        },
+        {
+          "Name": "The Mitchells vs. the Machines",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-mitchells-vs-the-machines/"
+        },
+        {
+          "Name": "Prisoners of the Ghostland",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/prisoners-of-the-ghostland/",
+          "Date": "2026-02-09"
+        },
+        {
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/one-cut-of-the-dead/",
+          "Date": "2026-02-07"
+        },
+        {
+          "Name": "Pride and Prejudice",
+          "Year": "1995",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/pride-and-prejudice-1995/",
+          "Date": "2026-02-01"
+        },
+        {
+          "Name": "Notting Hill",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/notting-hill/",
+          "Date": "2026-02-01"
+        },
+        {
+          "Name": "Snowpiercer",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/snowpiercer/",
+          "Date": "2025-09-16"
+        },
+        {
+          "Name": "Labyrinth",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/labyrinth/",
+          "Date": "2025-08-16"
+        }
+      ],
+      "ratings": [
+        {
+          "Name": "The Boy, the Mole, the Fox and the Horse",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-boy-the-mole-the-fox-and-the-horse/",
+          "Date": "2026-02-21",
+          "Rating": "4.5"
+        },
+        {
+          "Name": "Prisoners of the Ghostland",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/prisoners-of-the-ghostland/",
+          "Date": "2026-02-09",
+          "Rating": "1.5"
+        },
+        {
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/one-cut-of-the-dead/",
+          "Date": "2026-02-07",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "Dungeons & Dragons: Honor Among Thieves",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/dungeons-dragons-honor-among-thieves/",
+          "Date": "2025-11-06",
+          "Rating": "4.5"
+        },
+        {
+          "Name": "Pride and Prejudice",
+          "Year": "1995",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/pride-and-prejudice-1995/",
+          "Date": "2026-02-01",
+          "Rating": "3.5"
+        },
+        {
+          "Name": "Notting Hill",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/notting-hill/",
+          "Date": "2026-02-01",
+          "Rating": "4.0"
+        },
+        {
+          "Name": "Rental Family",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/rental-family-2025/",
+          "Date": "2026-01-15",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "I Saw the TV Glow",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/i-saw-the-tv-glow/",
+          "Date": "2026-01-06",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "Echo Valley",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/echo-valley/",
+          "Date": "2025-12-26",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "The Life of Chuck",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-life-of-chuck/",
+          "Date": "2025-10-23",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "Snowpiercer",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/snowpiercer/",
+          "Date": "2025-09-16",
+          "Rating": "2.0"
+        },
+        {
+          "Name": "Thunderbolts*",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/thunderbolts/",
+          "Date": "2025-09-16",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "Four Souls of Coyote",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/four-souls-of-coyote/",
+          "Date": "2025-08-28",
+          "Rating": "4.0"
+        },
+        {
+          "Name": "The Human Hibernation",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-human-hibernation/",
+          "Date": "2025-08-25",
+          "Rating": "4.0"
+        },
+        {
+          "Name": "Labyrinth",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/labyrinth/",
+          "Date": "2025-08-16",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "Schirkoa: In Lies We Trust",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/schirkoa-in-lies-we-trust/",
+          "Date": "2025-08-15",
+          "Rating": "5.0"
+        },
+        {
+          "Name": "Deep Sea",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/deep-sea/",
+          "Date": "2024-11-12",
+          "Rating": "5.0"
+        }
+      ],
+      "reviews": [
+        {
+          "Name": "The Boy, the Mole, the Fox and the Horse",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-boy-the-mole-the-fox-and-the-horse/",
+          "Review": "Pelicula simple y bonita, justo lo que necesitaba esta semana"
+        },
+        {
+          "Name": "Prisoners of the Ghostland",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/prisoners-of-the-ghostland/",
+          "Review": "A ratos parece que haya una peli al fondo"
+        },
+        {
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/one-cut-of-the-dead/",
+          "Review": "Cuatro maravillosas películas en una"
+        },
+        {
+          "Name": "Pride and Prejudice",
+          "Year": "1995",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/pride-and-prejudice-1995/",
+          "Review": "Está bien, pero existe la peli"
+        },
+        {
+          "Name": "Rental Family",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/rental-family-2025/",
+          "Review": "Eres un actor en la vida de otros"
+        },
+        {
+          "Name": "I Saw the TV Glow",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/i-saw-the-tv-glow/",
+          "Review": "Por favor Mr Melancholy sueltame el brazo"
+        },
+        {
+          "Name": "Echo Valley",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/echo-valley/",
+          "Review": "Ojalá tener una hija así"
+        },
+        {
+          "Name": "The Life of Chuck",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-life-of-chuck/",
+          "Review": "You contain multitudes"
+        },
+        {
+          "Name": "Snowpiercer",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/snowpiercer/",
+          "Review": "Elon Musk y el niño más pobre del mundo en el mismo tren, no creerás lo que sucedió a continuación"
+        },
+        {
+          "Name": "Thunderbolts*",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/thunderbolts/",
+          "Review": "La película de DC que más me ha gusta con diferencia"
+        },
+        {
+          "Name": "Four Souls of Coyote",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/four-souls-of-coyote/",
+          "Review": "Y dios creo el colonialismo"
+        },
+        {
+          "Name": "The Human Hibernation",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-human-hibernation/",
+          "Review": "<em>This review may contain spoilers.</em>"
+        },
+        {
+          "Name": "Labyrinth",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/labyrinth/",
+          "Review": "Tú madre es un oso hormiguero, ojo de pata"
+        },
+        {
+          "Name": "Schirkoa: In Lies We Trust",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/schirkoa-in-lies-we-trust/",
+          "Review": "No se que acabo de ver, pero definitivamente es una cosa."
+        },
+        {
+          "Name": "Deep Sea",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/deep-sea/",
+          "Review": "Segunda vez que la veo, segunda vez que lloro a mares. Es preciosa, sumado a la animación es inolvidable"
+        }
+      ],
+      "watchlist": [
+        {
+          "Name": "Reservoir Dogs",
+          "Year": "1992",
+          "Letterboxd URI": "https://letterboxd.com/film/reservoir-dogs/"
+        },
+        {
+          "Name": "Scream",
+          "Year": "1996",
+          "Letterboxd URI": "https://letterboxd.com/film/scream/"
+        },
+        {
+          "Name": "Premium Rush",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/premium-rush/"
+        },
+        {
+          "Name": "Frances Ha",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/frances-ha/"
+        },
+        {
+          "Name": "Little Miss Sunshine",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/little-miss-sunshine/"
+        },
+        {
+          "Name": "Portrait of a Lady on Fire",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/"
+        },
+        {
+          "Name": "Blue Valentine",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/blue-valentine/"
+        },
+        {
+          "Name": "Paris, Texas",
+          "Year": "1984",
+          "Letterboxd URI": "https://letterboxd.com/film/paris-texas/"
+        },
+        {
+          "Name": "The Virgin Suicides",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/the-virgin-suicides/"
+        },
+        {
+          "Name": "The Edge of Seventeen",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/the-edge-of-seventeen/"
+        },
+        {
+          "Name": "The Perks of Being a Wallflower",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/the-perks-of-being-a-wallflower/"
+        },
+        {
+          "Name": "Lady Bird",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/lady-bird/"
+        },
+        {
+          "Name": "Lars and the Real Girl",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/lars-and-the-real-girl/"
+        },
+        {
+          "Name": "Manchester by the Sea",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/manchester-by-the-sea/"
+        },
+        {
+          "Name": "American Beauty",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/american-beauty/"
+        },
+        {
+          "Name": "Magnolia",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/magnolia/"
+        },
+        {
+          "Name": "Locke",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/locke/"
+        },
+        {
+          "Name": "Sonny Boy",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/sonny-boy-2021/"
+        },
+        {
+          "Name": "A New Dawn",
+          "Year": "2026",
+          "Letterboxd URI": "https://letterboxd.com/film/a-new-dawn-2026/"
+        },
+        {
+          "Name": "Imprint",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/imprint-2006/"
+        },
+        {
+          "Name": "Kensuke's Kingdom",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/kensukes-kingdom/"
+        },
+        {
+          "Name": "Steve",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/steve-2025/"
+        },
+        {
+          "Name": "The Hunt",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/the-hunt-2012/"
+        },
+        {
+          "Name": "Sunshine",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/sunshine-2007/"
+        },
+        {
+          "Name": "Even Mice Belong in Heaven",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/even-mice-belong-in-heaven/"
+        },
+        {
+          "Name": "Mulholland Drive",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/mulholland-drive/"
+        },
+        {
+          "Name": "Children of the Sea",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/children-of-the-sea/"
+        },
+        {
+          "Name": "Primer",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/primer/"
+        },
+        {
+          "Name": "The Rabbi's Cat",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/the-rabbis-cat/"
+        },
+        {
+          "Name": "Decision to Leave",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/decision-to-leave/"
+        },
+        {
+          "Name": "Little Forest",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/little-forest/"
+        },
+        {
+          "Name": "Look Back",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/look-back-2024/"
+        },
+        {
+          "Name": "Suzume",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/suzume/"
+        },
+        {
+          "Name": "Trapezium",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/trapezium/"
+        },
+        {
+          "Name": "Fureru",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/fureru/"
+        },
+        {
+          "Name": "Blue Giant",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/blue-giant/"
+        },
+        {
+          "Name": "Blood: The Last Vampire",
+          "Year": "2000",
+          "Letterboxd URI": "https://letterboxd.com/film/blood-the-last-vampire/"
+        },
+        {
+          "Name": "Train Dreams",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/train-dreams/"
+        },
+        {
+          "Name": "Good Luck, Have Fun, Don't Die",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/good-luck-have-fun-dont-die/"
+        },
+        {
+          "Name": "Nirvanna the Band the Show the Movie",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/nirvanna-the-band-the-show-the-movie/"
+        },
+        {
+          "Name": "Look Back",
+          "Year": "",
+          "Letterboxd URI": "https://letterboxd.com/film/look-back-1/"
+        },
+        {
+          "Name": "Uncut Gems",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/uncut-gems/"
+        },
+        {
+          "Name": "Mondays: See You 'This' Week!",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/mondays-see-you-this-week/"
+        },
+        {
+          "Name": "Hoppers",
+          "Year": "2026",
+          "Letterboxd URI": "https://letterboxd.com/film/hoppers/"
+        },
+        {
+          "Name": "The In Between",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-in-between-2022/"
+        },
+        {
+          "Name": "Togo",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/togo/"
+        },
+        {
+          "Name": "One Minute in Hell",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/one-minute-in-hell/"
+        },
+        {
+          "Name": "Robin Hood: Prince of Thieves",
+          "Year": "1991",
+          "Letterboxd URI": "https://letterboxd.com/film/robin-hood-prince-of-thieves/"
+        },
+        {
+          "Name": "The Bucket List",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/the-bucket-list/"
+        },
+        {
+          "Name": "Unforgiven",
+          "Year": "1992",
+          "Letterboxd URI": "https://letterboxd.com/film/unforgiven/"
+        },
+        {
+          "Name": "Along Came a Spider",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/along-came-a-spider/"
+        },
+        {
+          "Name": "The Girl Without Hands",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/the-girl-without-hands/"
+        },
+        {
+          "Name": "Scenery",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/scenery-2025/"
+        },
+        {
+          "Name": "Paulie",
+          "Year": "1998",
+          "Letterboxd URI": "https://letterboxd.com/film/paulie/"
+        },
+        {
+          "Name": "Return to Oz",
+          "Year": "1985",
+          "Letterboxd URI": "https://letterboxd.com/film/return-to-oz/"
+        },
+        {
+          "Name": "The Happening",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/the-happening/"
+        },
+        {
+          "Name": "City of Ember",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/city-of-ember/"
+        },
+        {
+          "Name": "Wade",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/wade/"
+        },
+        {
+          "Name": "Mirror",
+          "Year": "1975",
+          "Letterboxd URI": "https://letterboxd.com/film/mirror/"
+        },
+        {
+          "Name": "Dreams",
+          "Year": "1990",
+          "Letterboxd URI": "https://letterboxd.com/film/dreams/"
+        },
+        {
+          "Name": "Shutter Island",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/shutter-island/"
+        },
+        {
+          "Name": "Tokyo!",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/tokyo/"
+        },
+        {
+          "Name": "Kin-dza-dza!",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/film/kin-dza-dza/"
+        },
+        {
+          "Name": "Ocean Waves",
+          "Year": "1993",
+          "Letterboxd URI": "https://letterboxd.com/film/ocean-waves/"
+        },
+        {
+          "Name": "Cure",
+          "Year": "1997",
+          "Letterboxd URI": "https://letterboxd.com/film/cure/"
+        },
+        {
+          "Name": "Mary and Max",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/mary-and-max/"
+        },
+        {
+          "Name": "Flowers of Evil",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/flowers-of-evil-2013/"
+        },
+        {
+          "Name": "Lost in Space",
+          "Year": "1998",
+          "Letterboxd URI": "https://letterboxd.com/film/lost-in-space/"
+        },
+        {
+          "Name": "Cirque du Freak: The Vampire's Assistant",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/cirque-du-freak-the-vampires-assistant/"
+        },
+        {
+          "Name": "My Best Friend Is a Vampire",
+          "Year": "1987",
+          "Letterboxd URI": "https://letterboxd.com/film/my-best-friend-is-a-vampire/"
+        },
+        {
+          "Name": "Remember Me",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/remember-me/"
+        },
+        {
+          "Name": "Dragonkeeper",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/dragonkeeper/"
+        },
+        {
+          "Name": "The Hedgehog",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/the-hedgehog/"
+        },
+        {
+          "Name": "Lord of Mysteries: The Fool",
+          "Year": "",
+          "Letterboxd URI": "https://letterboxd.com/film/lord-of-mysteries-the-fool/"
+        },
+        {
+          "Name": "The Shape of Water",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/the-shape-of-water/"
+        },
+        {
+          "Name": "The Butterfly Effect",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/the-butterfly-effect/"
+        },
+        {
+          "Name": "The Da Vinci Code",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/the-da-vinci-code/"
+        },
+        {
+          "Name": "The Little Prince",
+          "Year": "2015",
+          "Letterboxd URI": "https://letterboxd.com/film/the-little-prince-2015/"
+        },
+        {
+          "Name": "Sentimental Value",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/sentimental-value-2025/"
+        },
+        {
+          "Name": "Meet the Robinsons",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/meet-the-robinsons/"
+        },
+        {
+          "Name": "The Sadness",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-sadness-2021/"
+        },
+        {
+          "Name": "Planet Terror",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/planet-terror/"
+        },
+        {
+          "Name": "Chime",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/chime/"
+        },
+        {
+          "Name": "The Astronaut",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-astronaut-2025/"
+        },
+        {
+          "Name": "Closer",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/closer/"
+        },
+        {
+          "Name": "Me Before You",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/me-before-you/"
+        },
+        {
+          "Name": "The Legend of Hei",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/the-legend-of-hei/"
+        },
+        {
+          "Name": "Los perros",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/los-perros/"
+        },
+        {
+          "Name": "The Man in the Iron Mask",
+          "Year": "1998",
+          "Letterboxd URI": "https://letterboxd.com/film/the-man-in-the-iron-mask-1998/"
+        },
+        {
+          "Name": "Shaolin Soccer",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/shaolin-soccer/"
+        },
+        {
+          "Name": "Jumper",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/jumper/"
+        },
+        {
+          "Name": "The Master",
+          "Year": "1992",
+          "Letterboxd URI": "https://letterboxd.com/film/the-master/"
+        },
+        {
+          "Name": "The Master",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/the-master-2012/"
+        },
+        {
+          "Name": "The Adults",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-adults/"
+        },
+        {
+          "Name": "Legend of the Guardians: The Owls of Ga'Hoole",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/legend-of-the-guardians-the-owls-of-gahoole/"
+        },
+        {
+          "Name": "Terrified",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/terrified-2017/"
+        },
+        {
+          "Name": "Project Silence",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/project-silence/"
+        },
+        {
+          "Name": "The Seventh Seal",
+          "Year": "1957",
+          "Letterboxd URI": "https://letterboxd.com/film/the-seventh-seal/"
+        },
+        {
+          "Name": "The Spine of Night",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-spine-of-night/"
+        },
+        {
+          "Name": "River",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/river-2023-1/"
+        },
+        {
+          "Name": "The Rip",
+          "Year": "2026",
+          "Letterboxd URI": "https://letterboxd.com/film/the-rip-2026/"
+        },
+        {
+          "Name": "Himizu",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/himizu/"
+        },
+        {
+          "Name": "Why Don't You Play in Hell?",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/why-dont-you-play-in-hell/"
+        },
+        {
+          "Name": "Red Post on Escher Street",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/red-post-on-escher-street/"
+        },
+        {
+          "Name": "Love Exposure",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/love-exposure/"
+        },
+        {
+          "Name": "Suicide Club",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/suicide-club/"
+        },
+        {
+          "Name": "Midnight Mass",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/midnight-mass-2021/"
+        },
+        {
+          "Name": "The Wicker Man",
+          "Year": "1973",
+          "Letterboxd URI": "https://letterboxd.com/film/the-wicker-man/"
+        },
+        {
+          "Name": "When Evil Lurks",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/when-evil-lurks/"
+        },
+        {
+          "Name": "Monkey Man",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/monkey-man/"
+        },
+        {
+          "Name": "Ultraman",
+          "Year": "1966",
+          "Letterboxd URI": "https://letterboxd.com/film/ultraman-1966/"
+        },
+        {
+          "Name": "Ultraman: Rising",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/ultraman-rising/"
+        },
+        {
+          "Name": "Robot Carnival",
+          "Year": "1987",
+          "Letterboxd URI": "https://letterboxd.com/film/robot-carnival/"
+        },
+        {
+          "Name": "Beyond the Black Rainbow",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/beyond-the-black-rainbow/"
+        },
+        {
+          "Name": "The Neon Demon",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/the-neon-demon/"
+        },
+        {
+          "Name": "The Green Mile",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/the-green-mile/"
+        },
+        {
+          "Name": "A Good Person",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/a-good-person-2023/"
+        },
+        {
+          "Name": "Bruce Almighty",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/bruce-almighty/"
+        },
+        {
+          "Name": "Taxi Driver",
+          "Year": "1976",
+          "Letterboxd URI": "https://letterboxd.com/film/taxi-driver/"
+        },
+        {
+          "Name": "The Holdovers",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-holdovers/"
+        },
+        {
+          "Name": "Get Out",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/get-out-2017/"
+        },
+        {
+          "Name": "No Country for Old Men",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/no-country-for-old-men/"
+        },
+        {
+          "Name": "Prisoners",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/prisoners/"
+        },
+        {
+          "Name": "Bones and All",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/bones-and-all/"
+        },
+        {
+          "Name": "Glass",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/glass-2019/"
+        },
+        {
+          "Name": "The Phoenician Scheme",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-phoenician-scheme/"
+        },
+        {
+          "Name": "Sherlock: The Six Thatchers",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/sherlock-the-six-thatchers/"
+        },
+        {
+          "Name": "Sherlock: The Reichenbach Fall",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/sherlock-the-reichenbach-fall/"
+        },
+        {
+          "Name": "Sherlock: A Study in Pink",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/sherlock-a-study-in-pink/"
+        },
+        {
+          "Name": "Atonement",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/atonement/"
+        },
+        {
+          "Name": "The Secret Agent",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-secret-agent-2025/"
+        },
+        {
+          "Name": "Iron Lung",
+          "Year": "2026",
+          "Letterboxd URI": "https://letterboxd.com/film/iron-lung/"
+        },
+        {
+          "Name": "Everything Is Illuminated",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/everything-is-illuminated/"
+        },
+        {
+          "Name": "Niccolò",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/niccolo/"
+        },
+        {
+          "Name": "Tatsuki Fujimoto 17-26",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/tatsuki-fujimoto-17-26/"
+        },
+        {
+          "Name": "Genius Party Beyond",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/genius-party-beyond/"
+        },
+        {
+          "Name": "Memories",
+          "Year": "1995",
+          "Letterboxd URI": "https://letterboxd.com/film/memories/"
+        },
+        {
+          "Name": "Only Lovers Left Alive",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/only-lovers-left-alive/"
+        },
+        {
+          "Name": "Spotlight",
+          "Year": "2015",
+          "Letterboxd URI": "https://letterboxd.com/film/spotlight/"
+        },
+        {
+          "Name": "Angel's Egg",
+          "Year": "1985",
+          "Letterboxd URI": "https://letterboxd.com/film/angels-egg/"
+        },
+        {
+          "Name": "The Square",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/the-square-2017/"
+        },
+        {
+          "Name": "Butterfly Kisses",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/butterfly-kisses-2018/"
+        },
+        {
+          "Name": "Blood Quantum",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/blood-quantum/"
+        },
+        {
+          "Name": "The Fable",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-fable-2024/"
+        },
+        {
+          "Name": "The Triplets of Belleville",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/the-triplets-of-belleville/"
+        },
+        {
+          "Name": "Under the Silver Lake",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/under-the-silver-lake/"
+        },
+        {
+          "Name": "The Nice Guys",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/the-nice-guys/"
+        },
+        {
+          "Name": "The Descent",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/the-descent/"
+        },
+        {
+          "Name": "Turtles Can Fly",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/turtles-can-fly/"
+        },
+        {
+          "Name": "I Swear",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/i-swear/"
+        },
+        {
+          "Name": "The Losers",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/the-losers/"
+        },
+        {
+          "Name": "EuroTrip",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/eurotrip/"
+        },
+        {
+          "Name": "Lost in Translation",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/lost-in-translation/"
+        },
+        {
+          "Name": "Amélie",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/amelie/"
+        },
+        {
+          "Name": "Happy Gilmore",
+          "Year": "1996",
+          "Letterboxd URI": "https://letterboxd.com/film/happy-gilmore/"
+        },
+        {
+          "Name": "Come and See",
+          "Year": "1985",
+          "Letterboxd URI": "https://letterboxd.com/film/come-and-see/"
+        },
+        {
+          "Name": "Beau Is Afraid",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/beau-is-afraid/"
+        },
+        {
+          "Name": "Dark City",
+          "Year": "1998",
+          "Letterboxd URI": "https://letterboxd.com/film/dark-city-1998/"
+        },
+        {
+          "Name": "Luck",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/luck-2022/"
+        },
+        {
+          "Name": "The Shadow's Edge",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-shadows-edge-2025/"
+        },
+        {
+          "Name": "Svengali",
+          "Year": "1931",
+          "Letterboxd URI": "https://letterboxd.com/film/svengali/"
+        },
+        {
+          "Name": "North by Northwest",
+          "Year": "1959",
+          "Letterboxd URI": "https://letterboxd.com/film/north-by-northwest/"
+        },
+        {
+          "Name": "8½",
+          "Year": "1963",
+          "Letterboxd URI": "https://letterboxd.com/film/8-half/"
+        },
+        {
+          "Name": "My Father's Dragon",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/my-fathers-dragon/"
+        },
+        {
+          "Name": "The Girl from the Other Side",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-girl-from-the-other-side-2022/"
+        },
+        {
+          "Name": "Goodbye, Don Glees!",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/goodbye-don-glees/"
+        },
+        {
+          "Name": "Looking for Magical Doremi",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/looking-for-magical-doremi/"
+        },
+        {
+          "Name": "Summer Ghost",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/summer-ghost/"
+        },
+        {
+          "Name": "Waltz with Bashir",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/waltz-with-bashir/"
+        },
+        {
+          "Name": "Satoshi Kon: The Illusionist",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/satoshi-kon-the-illusionist/"
+        },
+        {
+          "Name": "Where Is Anne Frank",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/where-is-anne-frank/"
+        },
+        {
+          "Name": "Absolute Denial",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/absolute-denial/"
+        },
+        {
+          "Name": "My Little Goat",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/my-little-goat/"
+        },
+        {
+          "Name": "The Mark of Emi",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-mark-of-emi/"
+        },
+        {
+          "Name": "Easter Eggs",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/easter-eggs-2020/"
+        },
+        {
+          "Name": "Peel",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/peel-2020/"
+        },
+        {
+          "Name": "Affairs of the Art",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/affairs-of-the-art/"
+        },
+        {
+          "Name": "MOM",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/mom-2020/"
+        },
+        {
+          "Name": "Archipelago",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/archipelago-2021-1/"
+        },
+        {
+          "Name": "Ville Neuve",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/ville-neuve/"
+        },
+        {
+          "Name": "Death Does Not Exist",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/death-does-not-exist/"
+        },
+        {
+          "Name": "Poupelle of Chimney Town",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/poupelle-of-chimney-town/"
+        },
+        {
+          "Name": "Guillermo del Toro's Pinocchio",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/guillermo-del-toros-pinocchio/"
+        },
+        {
+          "Name": "The Siren",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-siren-2023/"
+        },
+        {
+          "Name": "Nayola",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/nayola/"
+        },
+        {
+          "Name": "Perlimps",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/perlimps/"
+        },
+        {
+          "Name": "Dragon Princess",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/dragon-princess-2021/"
+        },
+        {
+          "Name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/evangelion-3010-thrice-upon-a-time/"
+        },
+        {
+          "Name": "Flee",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/flee-2021/"
+        },
+        {
+          "Name": "The Deer King",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-deer-king/"
+        },
+        {
+          "Name": "Inu-Oh",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/inu-oh/"
+        },
+        {
+          "Name": "Caligula",
+          "Year": "1979",
+          "Letterboxd URI": "https://letterboxd.com/film/caligula/"
+        },
+        {
+          "Name": "Shaun of the Dead",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/shaun-of-the-dead/"
+        },
+        {
+          "Name": "Thirst",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/thirst-2009/"
+        },
+        {
+          "Name": "Cannonball Run II",
+          "Year": "1984",
+          "Letterboxd URI": "https://letterboxd.com/film/cannonball-run-ii/"
+        },
+        {
+          "Name": "The Cannonball Run",
+          "Year": "1981",
+          "Letterboxd URI": "https://letterboxd.com/film/the-cannonball-run/"
+        },
+        {
+          "Name": "The Banshees of Inisherin",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-banshees-of-inisherin/"
+        },
+        {
+          "Name": "The Voice of Hind Rajab",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-voice-of-hind-rajab/"
+        },
+        {
+          "Name": "Hero",
+          "Year": "2002",
+          "Letterboxd URI": "https://letterboxd.com/film/hero-2002/"
+        },
+        {
+          "Name": "November",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/november-2017/"
+        },
+        {
+          "Name": "Dead Poets Society",
+          "Year": "1989",
+          "Letterboxd URI": "https://letterboxd.com/film/dead-poets-society/"
+        },
+        {
+          "Name": "Perfect Days",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/perfect-days-2023/"
+        },
+        {
+          "Name": "Argo",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/argo/"
+        },
+        {
+          "Name": "The Mummy: Tomb of the Dragon Emperor",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/the-mummy-tomb-of-the-dragon-emperor/"
+        },
+        {
+          "Name": "Silent Friend",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/silent-friend/"
+        },
+        {
+          "Name": "The Mysterious Gaze of the Flamingo",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-mysterious-gaze-of-the-flamingo/"
+        },
+        {
+          "Name": "The Ballad of Wallis Island",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-ballad-of-wallis-island/"
+        },
+        {
+          "Name": "The Life of Chuck",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-life-of-chuck/"
+        },
+        {
+          "Name": "Another Simple Favor",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/another-simple-favor/"
+        },
+        {
+          "Name": "The Roses",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-roses-2025/"
+        },
+        {
+          "Name": "Fairyland",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/fairyland/"
+        },
+        {
+          "Name": "Marvel Zombies",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/marvel-zombies/"
+        },
+        {
+          "Name": "Takopi's Original Sin",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/takopis-original-sin/"
+        },
+        {
+          "Name": "Castration Movie Anthology ii. The Best of Both Worlds",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/castration-movie-anthology-ii-the-best-of/"
+        },
+        {
+          "Name": "The World of Love",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-world-of-love/"
+        },
+        {
+          "Name": "The Legend of Hei 2",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-legend-of-hei-2/"
+        },
+        {
+          "Name": "Tourist Family",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/tourist-family/"
+        },
+        {
+          "Name": "Better Off Dead",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/better-off-dead-2025/"
+        },
+        {
+          "Name": "The Son of a Thousand Men",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-son-of-a-thousand-men/"
+        },
+        {
+          "Name": "Arco",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/arco/"
+        },
+        {
+          "Name": "I Know What You Did Last Summer",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/i-know-what-you-did-last-summer-2025/"
+        },
+        {
+          "Name": "Sorry, Baby",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/sorry-baby-2025/"
+        },
+        {
+          "Name": "Materialists",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/materialists/"
+        },
+        {
+          "Name": "Lesbian Space Princess",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/lesbian-space-princess/"
+        },
+        {
+          "Name": "Lost in Starlight",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/lost-in-starlight/"
+        },
+        {
+          "Name": "Good News",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/good-news-2025/"
+        },
+        {
+          "Name": "Wake Up Dead Man",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/wake-up-dead-man/"
+        },
+        {
+          "Name": "The Blue Trail",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-blue-trail/"
+        },
+        {
+          "Name": "Sore: A Wife from the Future",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/sore-a-wife-from-the-future/"
+        },
+        {
+          "Name": "The Baltimorons",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-baltimorons/"
+        },
+        {
+          "Name": "Love Untangled",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/love-untangled/"
+        },
+        {
+          "Name": "Eternity",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/eternity-2025-1/"
+        },
+        {
+          "Name": "Frankenstein",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/frankenstein-2025/"
+        },
+        {
+          "Name": "Avatar: Fire and Ash",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/avatar-fire-and-ash/"
+        },
+        {
+          "Name": "Dhurandhar",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/dhurandhar/"
+        },
+        {
+          "Name": "Lokah Chapter 1: Chandra",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/lokah-chapter-1-chandra/"
+        },
+        {
+          "Name": "Bison Kaalamaadan",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/bison-kaalamaadan/"
+        },
+        {
+          "Name": "Ne Zha 2",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/ne-zha-2/"
+        },
+        {
+          "Name": "Little Amélie or the Character of Rain",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/little-amelie-or-the-character-of-rain/"
+        },
+        {
+          "Name": "It’s Better Not to Think About Anything",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/its-better-not-to-think-about-anything/"
+        },
+        {
+          "Name": "The Beast",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-beast-2023-1/"
+        },
+        {
+          "Name": "The Bottom of the Sea",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/the-bottom-of-the-sea/"
+        },
+        {
+          "Name": "Slender Man",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/slender-man/"
+        },
+        {
+          "Name": "Videodrome",
+          "Year": "1983",
+          "Letterboxd URI": "https://letterboxd.com/film/videodrome/"
+        },
+        {
+          "Name": "V/H/S/94",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/v-h-s-94/"
+        },
+        {
+          "Name": "Shutter",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/shutter/"
+        },
+        {
+          "Name": "[REC]",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/rec/"
+        },
+        {
+          "Name": "Creep",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/creep-2014/"
+        },
+        {
+          "Name": "Zero Day",
+          "Year": "2002",
+          "Letterboxd URI": "https://letterboxd.com/film/zero-day/"
+        },
+        {
+          "Name": "Crash",
+          "Year": "1996",
+          "Letterboxd URI": "https://letterboxd.com/film/crash/"
+        },
+        {
+          "Name": "Digging Up the Marrow",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/digging-up-the-marrow/"
+        },
+        {
+          "Name": "Tropical Malady",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/tropical-malady/"
+        },
+        {
+          "Name": "Pulse",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/pulse-2001/"
+        },
+        {
+          "Name": "V/H/S/2",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/v-h-s-2/"
+        },
+        {
+          "Name": "Lake Mungo",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/lake-mungo/"
+        },
+        {
+          "Name": "It Follows",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/it-follows/"
+        },
+        {
+          "Name": "V/H/S",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/v-h-s/"
+        },
+        {
+          "Name": "Grave Encounters",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/grave-encounters/"
+        },
+        {
+          "Name": "The Dirties",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/the-dirties/"
+        },
+        {
+          "Name": "Chronicle",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/chronicle/"
+        },
+        {
+          "Name": "Eraserhead",
+          "Year": "1977",
+          "Letterboxd URI": "https://letterboxd.com/film/eraserhead/"
+        },
+        {
+          "Name": "Cloverfield",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/cloverfield/"
+        },
+        {
+          "Name": "Caught Stealing",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/caught-stealing/"
+        },
+        {
+          "Name": "Johnny Mnemonic",
+          "Year": "1995",
+          "Letterboxd URI": "https://letterboxd.com/film/johnny-mnemonic/"
+        },
+        {
+          "Name": "Léon: The Professional",
+          "Year": "1994",
+          "Letterboxd URI": "https://letterboxd.com/film/leon-the-professional/"
+        },
+        {
+          "Name": "The Bad Guys",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/the-bad-guys-2022/"
+        },
+        {
+          "Name": "The Conjuring: Last Rites",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-conjuring-last-rites/"
+        },
+        {
+          "Name": "Letters to Juliet",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/letters-to-juliet/"
+        },
+        {
+          "Name": "Billy Elliot",
+          "Year": "2000",
+          "Letterboxd URI": "https://letterboxd.com/film/billy-elliot/"
+        },
+        {
+          "Name": "Detachment",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/detachment/"
+        },
+        {
+          "Name": "No Other Choice",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/no-other-choice-2025/"
+        },
+        {
+          "Name": "War of the Worlds",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/war-of-the-worlds/"
+        },
+        {
+          "Name": "Tokyo Godfathers",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/tokyo-godfathers/"
+        },
+        {
+          "Name": "Crocodile Dundee",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/film/crocodile-dundee/"
+        },
+        {
+          "Name": "Doctor Dolittle",
+          "Year": "1998",
+          "Letterboxd URI": "https://letterboxd.com/film/doctor-dolittle-1998/"
+        },
+        {
+          "Name": "Black Swan",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/black-swan/"
+        },
+        {
+          "Name": "Baramulla",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/baramulla/"
+        },
+        {
+          "Name": "Nightcrawler",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/nightcrawler/"
+        },
+        {
+          "Name": "The Black Phone",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-black-phone/"
+        },
+        {
+          "Name": "KPop Demon Hunters",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/kpop-demon-hunters/"
+        },
+        {
+          "Name": "Bugonia",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/bugonia/"
+        },
+        {
+          "Name": "The Running Man",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-running-man-2025/"
+        },
+        {
+          "Name": "One Battle After Another",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/one-battle-after-another/"
+        },
+        {
+          "Name": "In the Name of the Father",
+          "Year": "1993",
+          "Letterboxd URI": "https://letterboxd.com/film/in-the-name-of-the-father-1993/"
+        },
+        {
+          "Name": "A Normal Family",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/a-normal-family/"
+        },
+        {
+          "Name": "Death of a Unicorn",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/death-of-a-unicorn/"
+        },
+        {
+          "Name": "The Englishman Who Went Up a Hill But Came Down a Mountain",
+          "Year": "1995",
+          "Letterboxd URI": "https://letterboxd.com/film/the-englishman-who-went-up-a-hill-but-came-down-a-mountain/"
+        },
+        {
+          "Name": "Loving Vincent",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/loving-vincent/"
+        },
+        {
+          "Name": "Love Me If You Dare",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/love-me-if-you-dare/"
+        },
+        {
+          "Name": "Vanilla Sky",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/vanilla-sky/"
+        },
+        {
+          "Name": "Flow",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/flow-2024/"
+        },
+        {
+          "Name": "There Will Be Blood",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/there-will-be-blood/"
+        },
+        {
+          "Name": "Vertigo",
+          "Year": "1958",
+          "Letterboxd URI": "https://letterboxd.com/film/vertigo/"
+        },
+        {
+          "Name": "The Lego Batman Movie",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/the-lego-batman-movie/"
+        },
+        {
+          "Name": "Grave of the Fireflies",
+          "Year": "1988",
+          "Letterboxd URI": "https://letterboxd.com/film/grave-of-the-fireflies/"
+        },
+        {
+          "Name": "Kiki's Delivery Service",
+          "Year": "1989",
+          "Letterboxd URI": "https://letterboxd.com/film/kikis-delivery-service/"
+        },
+        {
+          "Name": "Before Sunset",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/before-sunset/"
+        },
+        {
+          "Name": "The Handmaiden",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/the-handmaiden/"
+        },
+        {
+          "Name": "When Harry Met Sally...",
+          "Year": "1989",
+          "Letterboxd URI": "https://letterboxd.com/film/when-harry-met-sally/"
+        },
+        {
+          "Name": "Howl's Moving Castle",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/howls-moving-castle/"
+        },
+        {
+          "Name": "The Naked Gun",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/the-naked-gun/"
+        },
+        {
+          "Name": "Airplane II: The Sequel",
+          "Year": "1982",
+          "Letterboxd URI": "https://letterboxd.com/film/airplane-ii-the-sequel/"
+        },
+        {
+          "Name": "Airplane!",
+          "Year": "1980",
+          "Letterboxd URI": "https://letterboxd.com/film/airplane/"
+        },
+        {
+          "Name": "Words Bubble Up Like Soda Pop",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/words-bubble-up-like-soda-pop/"
+        },
+        {
+          "Name": "I Am What I Am 2",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/i-am-what-i-am-2/"
+        },
+        {
+          "Name": "I Am What I Am",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/i-am-what-i-am/"
+        },
+        {
+          "Name": "Past Lives",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/past-lives/"
+        },
+        {
+          "Name": "28 Years Later",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/28-years-later/"
+        },
+        {
+          "Name": "Ziam",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/ziam/"
+        },
+        {
+          "Name": "The Thing",
+          "Year": "1982",
+          "Letterboxd URI": "https://letterboxd.com/film/the-thing/"
+        },
+        {
+          "Name": "Perfect Blue",
+          "Year": "1997",
+          "Letterboxd URI": "https://letterboxd.com/film/perfect-blue/"
+        },
+        {
+          "Name": "Top Gun: Maverick",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/top-gun-maverick/"
+        },
+        {
+          "Name": "Kuberaa",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/kuberaa/"
+        },
+        {
+          "Name": "Requiem for a Dream",
+          "Year": "2000",
+          "Letterboxd URI": "https://letterboxd.com/film/requiem-for-a-dream/"
+        },
+        {
+          "Name": "28 Weeks Later",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/28-weeks-later/"
+        },
+        {
+          "Name": "The Dinner Game",
+          "Year": "1998",
+          "Letterboxd URI": "https://letterboxd.com/film/the-dinner-game/"
+        },
+        {
+          "Name": "The Devil Wears Prada",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/the-devil-wears-prada/"
+        },
+        {
+          "Name": "Whiplash",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/whiplash-2014/"
+        },
+        {
+          "Name": "Birdman or (The Unexpected Virtue of Ignorance)",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/"
+        },
+        {
+          "Name": "Killing God",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/killing-god/"
+        },
+        {
+          "Name": "Super Crooks",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/super-crooks/"
+        },
+        {
+          "Name": "Three Thousand Years of Longing",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/three-thousand-years-of-longing/"
+        },
+        {
+          "Name": "My Year of Dicks",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/my-year-of-dicks/"
+        },
+        {
+          "Name": "Babylon",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/babylon-2022/"
+        },
+        {
+          "Name": "Heretic",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/heretic-2024/"
+        },
+        {
+          "Name": "Agatha All Along",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/agatha-all-along-2024/"
+        },
+        {
+          "Name": "Nosferatu",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/nosferatu-2024/"
+        },
+        {
+          "Name": "Juno",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/juno/"
+        },
+        {
+          "Name": "Dragon Quest: Your Story",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/dragon-quest-your-story/"
+        },
+        {
+          "Name": "Anne of Green Gables",
+          "Year": "1985",
+          "Letterboxd URI": "https://letterboxd.com/film/anne-of-green-gables-1985-1/"
+        },
+        {
+          "Name": "Akira",
+          "Year": "1988",
+          "Letterboxd URI": "https://letterboxd.com/film/akira/"
+        },
+        {
+          "Name": "Loop",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/loop-2020-1/"
+        },
+        {
+          "Name": "Fortune Favors Lady Nikuko",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/fortune-favors-lady-nikuko/"
+        },
+        {
+          "Name": "All You Need Is Kill",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/film/all-you-need-is-kill-2025/"
+        },
+        {
+          "Name": "Chang'an",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/changan/"
+        },
+        {
+          "Name": "Deep Sea",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/deep-sea/"
+        },
+        {
+          "Name": "The Midnight Gospel",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/the-midnight-gospel/"
+        },
+        {
+          "Name": "A Quiet Place Part II",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/a-quiet-place-part-ii/"
+        },
+        {
+          "Name": "Free Guy",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/free-guy/"
+        },
+        {
+          "Name": "Army of Darkness",
+          "Year": "1992",
+          "Letterboxd URI": "https://letterboxd.com/film/army-of-darkness/"
+        },
+        {
+          "Name": "Evil Dead II",
+          "Year": "1987",
+          "Letterboxd URI": "https://letterboxd.com/film/evil-dead-ii/"
+        },
+        {
+          "Name": "The Evil Dead",
+          "Year": "1981",
+          "Letterboxd URI": "https://letterboxd.com/film/the-evil-dead/"
+        },
+        {
+          "Name": "The Blair Witch Project",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/the-blair-witch-project/"
+        },
+        {
+          "Name": "The Dead Don't Die",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/the-dead-dont-die-2019/"
+        },
+        {
+          "Name": "White Noise",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/white-noise-2022/"
+        },
+        {
+          "Name": "Silence",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/silence/"
+        },
+        {
+          "Name": "The Last Duel",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-last-duel-2021/"
+        },
+        {
+          "Name": "Megalopolis",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/megalopolis-2024/"
+        },
+        {
+          "Name": "Oldboy",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/oldboy/"
+        },
+        {
+          "Name": "RRR",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/rrr/"
+        },
+        {
+          "Name": "The Pianist",
+          "Year": "2002",
+          "Letterboxd URI": "https://letterboxd.com/film/the-pianist/"
+        },
+        {
+          "Name": "Colossal",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/colossal-2016/"
+        },
+        {
+          "Name": "Annihilation",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/annihilation/"
+        },
+        {
+          "Name": "Eternal Sunshine of the Spotless Mind",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/"
+        },
+        {
+          "Name": "The Void",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/the-void-2016/"
+        },
+        {
+          "Name": "The Mist",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/the-mist/"
+        },
+        {
+          "Name": "In the Mouth of Madness",
+          "Year": "1994",
+          "Letterboxd URI": "https://letterboxd.com/film/in-the-mouth-of-madness/"
+        },
+        {
+          "Name": "The Empty Man",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/the-empty-man/"
+        },
+        {
+          "Name": "From Beyond",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/film/from-beyond/"
+        },
+        {
+          "Name": "Underwater",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/underwater-2020/"
+        },
+        {
+          "Name": "Bullet Train",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/bullet-train/"
+        },
+        {
+          "Name": "The Gentlemen",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/the-gentlemen/"
+        },
+        {
+          "Name": "Whatever Happened to Harold Smith?",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/whatever-happened-to-harold-smith/"
+        },
+        {
+          "Name": "Pacific Rim",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/pacific-rim/"
+        },
+        {
+          "Name": "Green Street Hooligans",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/green-street-hooligans/"
+        },
+        {
+          "Name": "Van Helsing",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/van-helsing/"
+        },
+        {
+          "Name": "Kiss of the Dragon",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/kiss-of-the-dragon/"
+        },
+        {
+          "Name": "The Musketeer",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/the-musketeer/"
+        },
+        {
+          "Name": "Brotherhood of the Wolf",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/brotherhood-of-the-wolf/"
+        },
+        {
+          "Name": "Ballerina",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/ballerina-2016/"
+        },
+        {
+          "Name": "Ballerina",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/ballerina-2023/"
+        },
+        {
+          "Name": "Imperium",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/imperium/"
+        },
+        {
+          "Name": "Annette",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/annette/"
+        },
+        {
+          "Name": "Into the Woods",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/into-the-woods-2014/"
+        },
+        {
+          "Name": "Polar",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/polar-2019/"
+        },
+        {
+          "Name": "The Legend of Mor'du",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/the-legend-of-mordu/"
+        },
+        {
+          "Name": "Wind",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/wind-2019/"
+        },
+        {
+          "Name": "Over the Hedge",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/over-the-hedge/"
+        },
+        {
+          "Name": "George of the Jungle",
+          "Year": "1997",
+          "Letterboxd URI": "https://letterboxd.com/film/george-of-the-jungle/"
+        },
+        {
+          "Name": "Slumberland",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/slumberland/"
+        },
+        {
+          "Name": "I Kill Giants",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/i-kill-giants/"
+        },
+        {
+          "Name": "Where the Wild Things Are",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/where-the-wild-things-are/"
+        },
+        {
+          "Name": "A Monster Calls",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/a-monster-calls/"
+        },
+        {
+          "Name": "Saturday Night",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/saturday-night-2024/"
+        },
+        {
+          "Name": "Bajirao Mastani",
+          "Year": "2015",
+          "Letterboxd URI": "https://letterboxd.com/film/bajirao-mastani/"
+        },
+        {
+          "Name": "Fargo",
+          "Year": "1996",
+          "Letterboxd URI": "https://letterboxd.com/film/fargo/"
+        },
+        {
+          "Name": "The American Society of Magical Negroes",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/the-american-society-of-magical-negroes/"
+        },
+        {
+          "Name": "Scavengers Reign",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/scavengers-reign/"
+        },
+        {
+          "Name": "House of Gucci",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/house-of-gucci/"
+        },
+        {
+          "Name": "The Lighthouse",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/the-lighthouse-2019/"
+        },
+        {
+          "Name": "Hancock",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/hancock/"
+        },
+        {
+          "Name": "Dìdi (弟弟)",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/film/didi-2024/"
+        },
+        {
+          "Name": "The Boy and the Heron",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/the-boy-and-the-heron/"
+        },
+        {
+          "Name": "Incantation",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/incantation-2022/"
+        },
+        {
+          "Name": "Sinbad: Legend of the Seven Seas",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/sinbad-legend-of-the-seven-seas/"
+        },
+        {
+          "Name": "Wizards: Tales of Arcadia",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/wizards-tales-of-arcadia/"
+        },
+        {
+          "Name": "Wizards",
+          "Year": "1977",
+          "Letterboxd URI": "https://letterboxd.com/film/wizards/"
+        },
+        {
+          "Name": "From Up on Poppy Hill",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/from-up-on-poppy-hill/"
+        },
+        {
+          "Name": "Only Yesterday",
+          "Year": "1991",
+          "Letterboxd URI": "https://letterboxd.com/film/only-yesterday/"
+        },
+        {
+          "Name": "Over the Moon",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/over-the-moon-2020/"
+        },
+        {
+          "Name": "My Neighbor Totoro",
+          "Year": "1988",
+          "Letterboxd URI": "https://letterboxd.com/film/my-neighbor-totoro/"
+        },
+        {
+          "Name": "Wolfwalkers",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/wolfwalkers/"
+        },
+        {
+          "Name": "Castle in the Sky",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/film/castle-in-the-sky/"
+        },
+        {
+          "Name": "Ponyo",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/ponyo/"
+        },
+        {
+          "Name": "Song of the Sea",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/song-of-the-sea/"
+        },
+        {
+          "Name": "Moomin",
+          "Year": "1969",
+          "Letterboxd URI": "https://letterboxd.com/film/moomin/"
+        },
+        {
+          "Name": "Solaris",
+          "Year": "2002",
+          "Letterboxd URI": "https://letterboxd.com/film/solaris-2002/"
+        },
+        {
+          "Name": "Oblivion",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/oblivion-2013/"
+        },
+        {
+          "Name": "Prince of Persia: The Sands of Time",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/prince-of-persia-the-sands-of-time/"
+        },
+        {
+          "Name": "The Three Musketeers",
+          "Year": "1993",
+          "Letterboxd URI": "https://letterboxd.com/film/the-three-musketeers-1993/"
+        },
+        {
+          "Name": "Blade",
+          "Year": "1998",
+          "Letterboxd URI": "https://letterboxd.com/film/blade/"
+        },
+        {
+          "Name": "Army of the Dead",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/army-of-the-dead-2021/"
+        },
+        {
+          "Name": "Sin City",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/sin-city/"
+        },
+        {
+          "Name": "Knowing",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/knowing/"
+        },
+        {
+          "Name": "9",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/9/"
+        },
+        {
+          "Name": "King Arthur: Legend of the Sword",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/king-arthur-legend-of-the-sword/"
+        },
+        {
+          "Name": "Beowulf",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/beowulf-2007/"
+        },
+        {
+          "Name": "Lupin the 3rd: Goemon's Blood Spray",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/lupin-the-3rd-goemons-blood-spray/"
+        },
+        {
+          "Name": "The Castle of Cagliostro",
+          "Year": "1979",
+          "Letterboxd URI": "https://letterboxd.com/film/the-castle-of-cagliostro/"
+        },
+        {
+          "Name": "Lupin III: The First",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/lupin-iii-the-first/"
+        },
+        {
+          "Name": "The Crow",
+          "Year": "1994",
+          "Letterboxd URI": "https://letterboxd.com/film/the-crow/"
+        },
+        {
+          "Name": "Spider-Man: Beyond the Spider-Verse",
+          "Year": "2027",
+          "Letterboxd URI": "https://letterboxd.com/film/spider-man-beyond-the-spider-verse/"
+        },
+        {
+          "Name": "John Wick: Chapter 4",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/john-wick-chapter-4/"
+        },
+        {
+          "Name": "John Wick: Chapter 3 – Parabellum",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/john-wick-chapter-3-parabellum/"
+        },
+        {
+          "Name": "John Wick: Chapter 2",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/john-wick-chapter-2/"
+        },
+        {
+          "Name": "John Wick",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/john-wick/"
+        },
+        {
+          "Name": "The Bourne Legacy",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/the-bourne-legacy/"
+        },
+        {
+          "Name": "The Bourne Supremacy",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/the-bourne-supremacy/"
+        },
+        {
+          "Name": "The Bourne Ultimatum",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/the-bourne-ultimatum/"
+        },
+        {
+          "Name": "The Bourne Identity",
+          "Year": "2002",
+          "Letterboxd URI": "https://letterboxd.com/film/the-bourne-identity-2002/"
+        },
+        {
+          "Name": "Jason Bourne",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/jason-bourne/"
+        },
+        {
+          "Name": "Knock at the Cabin",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/knock-at-the-cabin/"
+        },
+        {
+          "Name": "Little Women",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/little-women-2019/"
+        },
+        {
+          "Name": "Regression",
+          "Year": "2015",
+          "Letterboxd URI": "https://letterboxd.com/film/regression/"
+        },
+        {
+          "Name": "The Tale of Despereaux",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/the-tale-of-despereaux/"
+        },
+        {
+          "Name": "The Magic Roundabout",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/the-magic-roundabout/"
+        },
+        {
+          "Name": "Coraline",
+          "Year": "2009",
+          "Letterboxd URI": "https://letterboxd.com/film/coraline/"
+        },
+        {
+          "Name": "Corpse Bride",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/corpse-bride/"
+        },
+        {
+          "Name": "Fight Club",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/fight-club/"
+        },
+        {
+          "Name": "What We Do in the Shadows",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/what-we-do-in-the-shadows/"
+        },
+        {
+          "Name": "Becoming Jane",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/becoming-jane/"
+        },
+        {
+          "Name": "Everything Everywhere All at Once",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/everything-everywhere-all-at-once/"
+        },
+        {
+          "Name": "Pirates of the Caribbean: At World's End",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/pirates-of-the-caribbean-at-worlds-end/"
+        },
+        {
+          "Name": "Pirates of the Caribbean: Dead Man's Chest",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/"
+        },
+        {
+          "Name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/"
+        },
+        {
+          "Name": "The Lord of the Rings: The Two Towers",
+          "Year": "2002",
+          "Letterboxd URI": "https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/"
+        },
+        {
+          "Name": "The Lord of the Rings: The Return of the King",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/"
+        },
+        {
+          "Name": "The Lord of the Rings: The Fellowship of the Ring",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/"
+        },
+        {
+          "Name": "The Three Musketeers",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/the-three-musketeers-2011/"
+        },
+        {
+          "Name": "The Boy in the Bubble",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/the-boy-in-the-bubble-2011/"
+        },
+        {
+          "Name": "Die Hard",
+          "Year": "1988",
+          "Letterboxd URI": "https://letterboxd.com/film/die-hard/"
+        },
+        {
+          "Name": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/"
+        },
+        {
+          "Name": "I'm Coming Over",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/im-coming-over/"
+        },
+        {
+          "Name": "Not Waving but Drowning",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/not-waving-but-drowning/"
+        },
+        {
+          "Name": "The Man Who Killed Don Quixote",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/the-man-who-killed-don-quixote/"
+        },
+        {
+          "Name": "The Professor",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/the-professor-2018/"
+        },
+        {
+          "Name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/film/pirates-of-the-caribbean-dead-men-tell-no-tales/"
+        },
+        {
+          "Name": "Edward Scissorhands",
+          "Year": "1990",
+          "Letterboxd URI": "https://letterboxd.com/film/edward-scissorhands/"
+        },
+        {
+          "Name": "Victor Frankenstein",
+          "Year": "2015",
+          "Letterboxd URI": "https://letterboxd.com/film/victor-frankenstein/"
+        },
+        {
+          "Name": "Horns",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/horns/"
+        },
+        {
+          "Name": "Now You See Me 2",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/now-you-see-me-2/"
+        },
+        {
+          "Name": "The Woman in Black",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/the-woman-in-black-2012/"
+        },
+        {
+          "Name": "Sleepy Hollow",
+          "Year": "1999",
+          "Letterboxd URI": "https://letterboxd.com/film/sleepy-hollow/"
+        },
+        {
+          "Name": "Hook",
+          "Year": "1991",
+          "Letterboxd URI": "https://letterboxd.com/film/hook/"
+        },
+        {
+          "Name": "Miss Peregrine's Home for Peculiar Children",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/miss-peregrines-home-for-peculiar-children/"
+        },
+        {
+          "Name": "Lemony Snicket's A Series of Unfortunate Events",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/lemony-snickets-a-series-of-unfortunate-events/"
+        },
+        {
+          "Name": "Wendell & Wild",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/film/wendell-wild/"
+        },
+        {
+          "Name": "Four Weddings and a Funeral",
+          "Year": "1994",
+          "Letterboxd URI": "https://letterboxd.com/film/four-weddings-and-a-funeral/"
+        },
+        {
+          "Name": "Zoolander",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/zoolander/"
+        },
+        {
+          "Name": "The Illusionist",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/the-illusionist/"
+        },
+        {
+          "Name": "Napoleon Dynamite",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/napoleon-dynamite/"
+        },
+        {
+          "Name": "Big Fish",
+          "Year": "2003",
+          "Letterboxd URI": "https://letterboxd.com/film/big-fish/"
+        },
+        {
+          "Name": "Midnight in Paris",
+          "Year": "2011",
+          "Letterboxd URI": "https://letterboxd.com/film/midnight-in-paris/"
+        },
+        {
+          "Name": "Isle of Dogs",
+          "Year": "2018",
+          "Letterboxd URI": "https://letterboxd.com/film/isle-of-dogs-2018/"
+        },
+        {
+          "Name": "Moonrise Kingdom",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/moonrise-kingdom/"
+        },
+        {
+          "Name": "Asteroid City",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/film/asteroid-city/"
+        },
+        {
+          "Name": "The Royal Tenenbaums",
+          "Year": "2001",
+          "Letterboxd URI": "https://letterboxd.com/film/the-royal-tenenbaums/"
+        },
+        {
+          "Name": "Castello Cavalcanti",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/castello-cavalcanti/"
+        },
+        {
+          "Name": "Come Together",
+          "Year": "2016",
+          "Letterboxd URI": "https://letterboxd.com/film/come-together-2016/"
+        },
+        {
+          "Name": "Do You Like to Read?",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/do-you-like-to-read/"
+        },
+        {
+          "Name": "Boyhood",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/boyhood/"
+        },
+        {
+          "Name": "The Life Aquatic with Steve Zissou",
+          "Year": "2004",
+          "Letterboxd URI": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/"
+        },
+        {
+          "Name": "The Kings of Summer",
+          "Year": "2013",
+          "Letterboxd URI": "https://letterboxd.com/film/the-kings-of-summer/"
+        },
+        {
+          "Name": "Wolf Children",
+          "Year": "2012",
+          "Letterboxd URI": "https://letterboxd.com/film/wolf-children/"
+        },
+        {
+          "Name": "The Silent Sea",
+          "Year": "2021",
+          "Letterboxd URI": "https://letterboxd.com/film/the-silent-sea/"
+        },
+        {
+          "Name": "The Gangster, the Cop, the Devil",
+          "Year": "2019",
+          "Letterboxd URI": "https://letterboxd.com/film/the-gangster-the-cop-the-devil/"
+        },
+        {
+          "Name": "A Clockwork Orange",
+          "Year": "1971",
+          "Letterboxd URI": "https://letterboxd.com/film/a-clockwork-orange/"
+        },
+        {
+          "Name": "Whisper of the Heart",
+          "Year": "1995",
+          "Letterboxd URI": "https://letterboxd.com/film/whisper-of-the-heart/"
+        },
+        {
+          "Name": "Moloch",
+          "Year": "2020",
+          "Letterboxd URI": "https://letterboxd.com/film/moloch-2020/"
+        },
+        {
+          "Name": "Repo! The Genetic Opera",
+          "Year": "2008",
+          "Letterboxd URI": "https://letterboxd.com/film/repo-the-genetic-opera/"
+        },
+        {
+          "Name": "Pan's Labyrinth",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/pans-labyrinth/"
+        },
+        {
+          "Name": "Gurren Lagann",
+          "Year": "2007",
+          "Letterboxd URI": "https://letterboxd.com/film/gurren-lagann/"
+        },
+        {
+          "Name": "Hoodwinked!",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/hoodwinked/"
+        },
+        {
+          "Name": "Monster House",
+          "Year": "2006",
+          "Letterboxd URI": "https://letterboxd.com/film/monster-house/"
+        },
+        {
+          "Name": "The Secret World of Arrietty",
+          "Year": "2010",
+          "Letterboxd URI": "https://letterboxd.com/film/the-secret-world-of-arrietty/"
+        },
+        {
+          "Name": "Over the Garden Wall",
+          "Year": "2014",
+          "Letterboxd URI": "https://letterboxd.com/film/over-the-garden-wall-2014/"
+        },
+        {
+          "Name": "Zathura: A Space Adventure",
+          "Year": "2005",
+          "Letterboxd URI": "https://letterboxd.com/film/zathura-a-space-adventure/"
+        }
+      ],
+      "likes": [
+        {
+          "Name": "The Boy, the Mole, the Fox and the Horse",
+          "Year": "2022",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-boy-the-mole-the-fox-and-the-horse/"
+        },
+        {
+          "Name": "One Cut of the Dead",
+          "Year": "2017",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/one-cut-of-the-dead/"
+        },
+        {
+          "Name": "Dungeons & Dragons: Honor Among Thieves",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/dungeons-dragons-honor-among-thieves/"
+        },
+        {
+          "Name": "Rental Family",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/rental-family-2025/"
+        },
+        {
+          "Name": "I Saw the TV Glow",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/i-saw-the-tv-glow/"
+        },
+        {
+          "Name": "Echo Valley",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/echo-valley/"
+        },
+        {
+          "Name": "The Life of Chuck",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-life-of-chuck/"
+        },
+        {
+          "Name": "Thunderbolts*",
+          "Year": "2025",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/thunderbolts/"
+        },
+        {
+          "Name": "Four Souls of Coyote",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/four-souls-of-coyote/"
+        },
+        {
+          "Name": "Labyrinth",
+          "Year": "1986",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/labyrinth/"
+        },
+        {
+          "Name": "Schirkoa: In Lies We Trust",
+          "Year": "2024",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/schirkoa-in-lies-we-trust/"
+        },
+        {
+          "Name": "Deep Sea",
+          "Year": "2023",
+          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/deep-sea/"
+        }
+      ],
+      "enabled": true,
+      "updatedAt": "2026-02-27T19:49:55.528038"
+    }
+  ],
+  "movies": {
+    "Return to Silent Hill|2026": {
+      "name": "Return to Silent Hill",
+      "year": "2026",
+      "uri": "https://letterboxd.com/film/return-to-silent-hill/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "JUJUTSU KAISEN: Execution|2025": {
+      "name": "JUJUTSU KAISEN: Execution",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/jujutsu-kaisen-execution/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Chainsaw Man – The Movie: Reze Arc|2025": {
+      "name": "Chainsaw Man – The Movie: Reze Arc",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Rental Family|2025": {
+      "name": "Rental Family",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/rental-family-2025/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "Hamnet|2025": {
+      "name": "Hamnet",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/hamnet/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Weapons|2025": {
+      "name": "Weapons",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/weapons-2025/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Superman|2025": {
+      "name": "Superman",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/superman-2025/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Echo Valley|2025": {
+      "name": "Echo Valley",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/echo-valley/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "Thunderbolts*|2025": {
+      "name": "Thunderbolts*",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/thunderbolts/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "Sinners|2025": {
+      "name": "Sinners",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/sinners-2025/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Mickey 17|2025": {
+      "name": "Mickey 17",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/mickey-17/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Captain America: Brave New World|2025": {
+      "name": "Captain America: Brave New World",
+      "year": "2025",
+      "uri": "https://letterboxd.com/film/captain-america-brave-new-world/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Mufasa: The Lion King|2024": {
+      "name": "Mufasa: The Lion King",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/mufasa-the-lion-king/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Venom: The Last Dance|2024": {
+      "name": "Venom: The Last Dance",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/venom-the-last-dance/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Gladiator II|2024": {
+      "name": "Gladiator II",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/gladiator-ii/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Wild Robot|2024": {
+      "name": "The Wild Robot",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/the-wild-robot/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Life of Chuck|2024": {
+      "name": "The Life of Chuck",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/the-life-of-chuck/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "Deadpool & Wolverine|2024": {
+      "name": "Deadpool & Wolverine",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/deadpool-wolverine/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Inside Out 2|2024": {
+      "name": "Inside Out 2",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/inside-out-2-2024/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Look Back|2024": {
+      "name": "Look Back",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/look-back-2024/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Substance|2024": {
+      "name": "The Substance",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/the-substance/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Challengers|2024": {
+      "name": "Challengers",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/challengers/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Wonderful Story of Henry Sugar and Three More|2024": {
+      "name": "The Wonderful Story of Henry Sugar and Three More",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar-and-three-more/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Arcadian|2024": {
+      "name": "Arcadian",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/arcadian/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Human Hibernation|2024": {
+      "name": "The Human Hibernation",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/the-human-hibernation/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4.0",
+          "watched": true
+        }
+      ]
+    },
+    "Schirkoa: In Lies We Trust|2024": {
+      "name": "Schirkoa: In Lies We Trust",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/schirkoa-in-lies-we-trust/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "I Saw the TV Glow|2024": {
+      "name": "I Saw the TV Glow",
+      "year": "2024",
+      "uri": "https://letterboxd.com/film/i-saw-the-tv-glow/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "Poison|2023": {
+      "name": "Poison",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/poison-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Rat Catcher|2023": {
+      "name": "The Rat Catcher",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/the-rat-catcher-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Swan|2023": {
+      "name": "The Swan",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/the-swan-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Creator|2023": {
+      "name": "The Creator",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/the-creator-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Dream Scenario|2023": {
+      "name": "Dream Scenario",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/dream-scenario/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Peasants|2023": {
+      "name": "The Peasants",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/the-peasants-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Poor Things|2023": {
+      "name": "Poor Things",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/poor-things-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Wonderful Story of Henry Sugar|2023": {
+      "name": "The Wonderful Story of Henry Sugar",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Oppenheimer|2023": {
+      "name": "Oppenheimer",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/oppenheimer-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Barbie|2023": {
+      "name": "Barbie",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/barbie/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Chang'an|2023": {
+      "name": "Chang'an",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/changan/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Nimona|2023": {
+      "name": "Nimona",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/nimona-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Spider-Man: Across the Spider-Verse|2023": {
+      "name": "Spider-Man: Across the Spider-Verse",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/spider-man-across-the-spider-verse/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Elemental|2023": {
+      "name": "Elemental",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/elemental-2023/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Mars Express|2023": {
+      "name": "Mars Express",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/mars-express/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Four Souls of Coyote|2023": {
+      "name": "Four Souls of Coyote",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/four-souls-of-coyote/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4.0",
+          "watched": true
+        }
+      ]
+    },
+    "Dungeons & Dragons: Honor Among Thieves|2023": {
+      "name": "Dungeons & Dragons: Honor Among Thieves",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/dungeons-dragons-honor-among-thieves/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4.5",
+          "watched": true
+        }
+      ]
+    },
+    "Deep Sea|2023": {
+      "name": "Deep Sea",
+      "year": "2023",
+      "uri": "https://letterboxd.com/film/deep-sea/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "The Boy, the Mole, the Fox and the Horse|2022": {
+      "name": "The Boy, the Mole, the Fox and the Horse",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/the-boy-the-mole-the-fox-and-the-horse/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4.5",
+          "watched": true
+        }
+      ]
+    },
+    "Puss in Boots: The Last Wish|2022": {
+      "name": "Puss in Boots: The Last Wish",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Coffee Table|2022": {
+      "name": "The Coffee Table",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/the-coffee-table/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Hundreds of Beavers|2022": {
+      "name": "Hundreds of Beavers",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/hundreds-of-beavers/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Menu|2022": {
+      "name": "The Menu",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/the-menu-2022/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Weird: The Al Yankovic Story|2022": {
+      "name": "Weird: The Al Yankovic Story",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/weird-the-al-yankovic-story-2022/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Sea Beast|2022": {
+      "name": "The Sea Beast",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/the-sea-beast-2022/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Love, Death & Robots: The Very Pulse of the Machine|2022": {
+      "name": "Love, Death & Robots: The Very Pulse of the Machine",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/love-death-robots-the-very-pulse-of-the-machine/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Doctor Strange in the Multiverse of Madness|2022": {
+      "name": "Doctor Strange in the Multiverse of Madness",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Everything Everywhere All at Once|2022": {
+      "name": "Everything Everywhere All at Once",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Blue Thermal|2022": {
+      "name": "Blue Thermal",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/blue-thermal/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Weekend Away|2022": {
+      "name": "The Weekend Away",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/the-weekend-away/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Batman|2022": {
+      "name": "The Batman",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/the-batman/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Turning Red|2022": {
+      "name": "Turning Red",
+      "year": "2022",
+      "uri": "https://letterboxd.com/film/turning-red/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Jujutsu Kaisen 0|2021": {
+      "name": "Jujutsu Kaisen 0",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/jujutsu-kaisen-0/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Spider-Man: No Way Home|2021": {
+      "name": "Spider-Man: No Way Home",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/spider-man-no-way-home/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Don't Look Up|2021": {
+      "name": "Don't Look Up",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/dont-look-up-2021/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "JoJo's Bizarre Adventure: Stone Ocean|2021": {
+      "name": "JoJo's Bizarre Adventure: Stone Ocean",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/jojos-bizarre-adventure-stone-ocean/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Encanto|2021": {
+      "name": "Encanto",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/encanto/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Squid Game|2021": {
+      "name": "Squid Game",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/squid-game/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Venom: Let There Be Carnage|2021": {
+      "name": "Venom: Let There Be Carnage",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/venom-let-there-be-carnage/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Dune|2021": {
+      "name": "Dune",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/dune-2021/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Shang-Chi and the Legend of the Ten Rings|2021": {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Belle|2021": {
+      "name": "Belle",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/belle-2021/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The French Dispatch of the Liberty, Kansas Evening Sun|2021": {
+      "name": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/the-french-dispatch-of-the-liberty-kansas/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Luca|2021": {
+      "name": "Luca",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/luca-2021/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "The Mitchells vs. the Machines|2021": {
+      "name": "The Mitchells vs. the Machines",
+      "year": "2021",
+      "uri": "https://letterboxd.com/film/the-mitchells-vs-the-machines/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": null,
+          "watched": true
+        }
+      ]
+    },
+    "Prisoners of the Ghostland|2021": {
+      "name": "Prisoners of the Ghostland",
+      "year": "2021",
+      "uri": "https://letterboxd.com/cargaspar/film/prisoners-of-the-ghostland/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "1.5",
+          "watched": true
+        }
+      ]
+    },
+    "One Cut of the Dead|2017": {
+      "name": "One Cut of the Dead",
+      "year": "2017",
+      "uri": "https://letterboxd.com/cargaspar/film/one-cut-of-the-dead/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    },
+    "Pride and Prejudice|1995": {
+      "name": "Pride and Prejudice",
+      "year": "1995",
+      "uri": "https://letterboxd.com/cargaspar/film/pride-and-prejudice-1995/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3.5",
+          "watched": true
+        }
+      ]
+    },
+    "Notting Hill|1999": {
+      "name": "Notting Hill",
+      "year": "1999",
+      "uri": "https://letterboxd.com/cargaspar/film/notting-hill/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4.0",
+          "watched": true
+        }
+      ]
+    },
+    "Snowpiercer|2013": {
+      "name": "Snowpiercer",
+      "year": "2013",
+      "uri": "https://letterboxd.com/cargaspar/film/snowpiercer/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "2.0",
+          "watched": true
+        }
+      ]
+    },
+    "Labyrinth|1986": {
+      "name": "Labyrinth",
+      "year": "1986",
+      "uri": "https://letterboxd.com/cargaspar/film/labyrinth/",
+      "poster": null,
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5.0",
+          "watched": true
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2026-02-27T19:50:06.036516"
+}

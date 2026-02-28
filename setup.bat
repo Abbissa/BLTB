@@ -20,7 +20,7 @@ echo ✓ Python detected
 REM Check and install dependencies
 echo.
 echo Checking dependencies...
-python -m pip install feedparser requests --quiet
+python -m pip install feedparser requests cloudscraper beautifulsoup4 feedparser --quiet
 
 if errorlevel 1 (
     echo ⚠ Warning: Some dependencies might need manual installation

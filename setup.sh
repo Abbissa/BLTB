@@ -16,7 +16,7 @@ echo "✓ Python 3 detected"
 # Check if required packages are installed
 echo ""
 echo "Checking dependencies..."
-pip3 install feedparser requests --quiet
+pip3 install feedparser requests cloudscraper beautifulsoup4 feedparser --quiet
 
 if [ $? -eq 0 ]; then
     echo "✓ Dependencies installed"

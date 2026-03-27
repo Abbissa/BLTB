@@ -510,7 +510,7 @@
         {
           "Date": "2024-09-02",
           "Name": "The Magic Roundabout",
-          "Year": "2004",
+          "Year": "2005",
           "Letterboxd URI": "https://boxd.it/1K3G"
         },
         {
@@ -956,12 +956,6 @@
           "Name": "Oppenheimer",
           "Year": "2023",
           "Letterboxd URI": "https://boxd.it/wUow"
-        },
-        {
-          "Date": "2025-07-23",
-          "Name": "Little Miss Sunshine",
-          "Year": "2006",
-          "Letterboxd URI": "https://boxd.it/29EW"
         },
         {
           "Date": "2025-07-23",
@@ -1528,40 +1522,88 @@
           "Letterboxd URI": "https://boxd.it/1TNy"
         },
         {
-          "Date": "2026-02-21",
-          "Name": "The Boy, the Mole, the Fox and the Horse",
-          "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-boy-the-mole-the-fox-and-the-horse/"
-        },
-        {
-          "Name": "Love, Death & Robots: The Very Pulse of the Machine",
-          "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/film/love-death-robots-the-very-pulse-of-the-machine/",
-          "Rating": "5.0"
-        },
-        {
+          "Date": "2026-02-16",
           "Name": "Love, Death & Robots: The Secret War",
           "Year": "2019",
-          "Letterboxd URI": "https://letterboxd.com/film/love-death-robots-the-secret-war/",
-          "Rating": "5.0"
+          "Letterboxd URI": "https://boxd.it/lN0g"
         },
         {
-          "Name": "The Sorcerer's Apprentice",
-          "Year": "2010",
-          "Letterboxd URI": "https://letterboxd.com/film/the-sorcerers-apprentice-2010/",
-          "Rating": "4.0"
+          "Date": "2026-02-16",
+          "Name": "Love, Death & Robots: The Very Pulse of the Machine",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/AW5O"
         },
         {
-          "Name": "The Magic Roundabout",
-          "Year": "2005",
-          "Letterboxd URI": "https://letterboxd.com/film/the-magic-roundabout/",
-          "Rating": "5.0"
-        },
-        {
+          "Date": "2026-02-22",
           "Name": "Se7en",
           "Year": "1995",
-          "Letterboxd URI": "https://letterboxd.com/film/se7en/",
-          "Rating": "4.0"
+          "Letterboxd URI": "https://boxd.it/29zs"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "The Boy, the Mole, the Fox and the Horse",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/BBT6"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "The Sorcerer's Apprentice",
+          "Year": "2010",
+          "Letterboxd URI": "https://boxd.it/1sGg"
+        },
+        {
+          "Date": "2026-03-01",
+          "Name": "Tatsuki Fujimoto 17-26",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/YcZ0"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Man Who Killed Don Quixote",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/9rkY"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Man Who Killed Hitler and Then the Bigfoot",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/jhd4"
+        },
+        {
+          "Date": "2026-03-05",
+          "Name": "Jumper",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/20ss"
+        },
+        {
+          "Date": "2026-03-05",
+          "Name": "Kin-dza-dza!",
+          "Year": "1986",
+          "Letterboxd URI": "https://boxd.it/1CMS"
+        },
+        {
+          "Date": "2026-03-08",
+          "Name": "Detachment",
+          "Year": "2011",
+          "Letterboxd URI": "https://boxd.it/2BiY"
+        },
+        {
+          "Date": "2026-03-13",
+          "Name": "Scavengers Reign",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/K7fI"
+        },
+        {
+          "Date": "2026-03-15",
+          "Name": "The Seventh Seal",
+          "Year": "1957",
+          "Letterboxd URI": "https://boxd.it/2ahO"
+        },
+        {
+          "Date": "2026-03-22",
+          "Name": "Alone in the Wilderness",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/1O2C"
         }
       ],
       "ratings": [
@@ -1981,7 +2023,7 @@
         {
           "Date": "2024-09-02",
           "Name": "The Magic Roundabout",
-          "Year": "2004",
+          "Year": "2005",
           "Letterboxd URI": "https://boxd.it/1K3G",
           "Rating": "5"
         },
@@ -3099,11 +3141,102 @@
           "Rating": "3"
         },
         {
-          "Date": "2026-02-21",
+          "Date": "2026-02-16",
+          "Name": "Love, Death & Robots: The Secret War",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/lN0g",
+          "Rating": "5"
+        },
+        {
+          "Date": "2026-02-16",
+          "Name": "Love, Death & Robots: The Very Pulse of the Machine",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/AW5O",
+          "Rating": "5"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Se7en",
+          "Year": "1995",
+          "Letterboxd URI": "https://boxd.it/29zs",
+          "Rating": "4"
+        },
+        {
+          "Date": "2026-02-22",
           "Name": "The Boy, the Mole, the Fox and the Horse",
           "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-boy-the-mole-the-fox-and-the-horse/",
+          "Letterboxd URI": "https://boxd.it/BBT6",
           "Rating": "4.5"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "The Sorcerer's Apprentice",
+          "Year": "2010",
+          "Letterboxd URI": "https://boxd.it/1sGg",
+          "Rating": "4"
+        },
+        {
+          "Date": "2026-03-01",
+          "Name": "Tatsuki Fujimoto 17-26",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/YcZ0",
+          "Rating": "3.5"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Man Who Killed Don Quixote",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/9rkY",
+          "Rating": "4"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Man Who Killed Hitler and Then the Bigfoot",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/jhd4",
+          "Rating": "3"
+        },
+        {
+          "Date": "2026-03-05",
+          "Name": "Jumper",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/20ss",
+          "Rating": "3"
+        },
+        {
+          "Date": "2026-03-05",
+          "Name": "Kin-dza-dza!",
+          "Year": "1986",
+          "Letterboxd URI": "https://boxd.it/1CMS",
+          "Rating": "4"
+        },
+        {
+          "Date": "2026-03-08",
+          "Name": "Detachment",
+          "Year": "2011",
+          "Letterboxd URI": "https://boxd.it/2BiY",
+          "Rating": "5"
+        },
+        {
+          "Date": "2026-03-13",
+          "Name": "Scavengers Reign",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/K7fI",
+          "Rating": "5"
+        },
+        {
+          "Date": "2026-03-15",
+          "Name": "The Seventh Seal",
+          "Year": "1957",
+          "Letterboxd URI": "https://boxd.it/2ahO",
+          "Rating": "3.5"
+        },
+        {
+          "Date": "2026-03-22",
+          "Name": "Alone in the Wilderness",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/1O2C",
+          "Rating": "4"
         }
       ],
       "reviews": [
@@ -3262,10 +3395,70 @@
           "Watched Date": "2026-02-09"
         },
         {
+          "Date": "2026-02-22",
           "Name": "The Boy, the Mole, the Fox and the Horse",
           "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-boy-the-mole-the-fox-and-the-horse/",
-          "Review": "Pelicula simple y bonita, justo lo que necesitaba esta semana"
+          "Letterboxd URI": "https://boxd.it/df9SEL",
+          "Rating": "4.5",
+          "Rewatch": "",
+          "Review": "Pelicula simple y bonita, justo lo que necesitaba esta semana\r",
+          "Tags": "",
+          "Watched Date": "2026-02-21"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Man Who Killed Don Quixote",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/dnF63t",
+          "Rating": "4",
+          "Rewatch": "",
+          "Review": "Ojalá llegase Don Quijote a moverme a palos y llevarme de aventuras.\r\rMe la esperaba más esperpéntica, pero está guay igualmente.",
+          "Tags": "",
+          "Watched Date": "2026-03-03"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Man Who Killed Hitler and Then the Bigfoot",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/dodBtl",
+          "Rating": "3",
+          "Rewatch": "",
+          "Review": "Lo que puedes esperar, nada más, nada menos",
+          "Tags": "",
+          "Watched Date": "2026-03-04"
+        },
+        {
+          "Date": "2026-03-05",
+          "Name": "Kin-dza-dza!",
+          "Year": "1986",
+          "Letterboxd URI": "https://boxd.it/douEuv",
+          "Rating": "4",
+          "Rewatch": "",
+          "Review": "Cú? Cú, cu. Cú!",
+          "Tags": "",
+          "Watched Date": "2026-03-04"
+        },
+        {
+          "Date": "2026-03-13",
+          "Name": "Scavengers Reign",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/duK86x",
+          "Rating": "5",
+          "Rewatch": "",
+          "Review": "Ciencia ficción organica",
+          "Tags": "",
+          "Watched Date": "2026-03-12"
+        },
+        {
+          "Date": "2026-03-15",
+          "Name": "The Seventh Seal",
+          "Year": "1957",
+          "Letterboxd URI": "https://boxd.it/dvZD1d",
+          "Rating": "3.5",
+          "Rewatch": "",
+          "Review": "Si mi Vida dependiese de una partida de ajedrez yo también estaría muerto.",
+          "Tags": "",
+          "Watched Date": "2026-03-14"
         }
       ],
       "watchlist": [
@@ -3376,12 +3569,6 @@
           "Name": "Do You Like to Read?",
           "Year": "2012",
           "Letterboxd URI": "https://boxd.it/jMMY"
-        },
-        {
-          "Date": "2024-09-02",
-          "Name": "Come Together",
-          "Year": "2016",
-          "Letterboxd URI": "https://boxd.it/wVA4"
         },
         {
           "Date": "2024-09-02",
@@ -3523,12 +3710,6 @@
         },
         {
           "Date": "2024-09-02",
-          "Name": "The Man Who Killed Don Quixote",
-          "Year": "2018",
-          "Letterboxd URI": "https://boxd.it/9rkY"
-        },
-        {
-          "Date": "2024-09-02",
           "Name": "Not Waving but Drowning",
           "Year": "2012",
           "Letterboxd URI": "https://boxd.it/5NAc"
@@ -3638,7 +3819,7 @@
         {
           "Date": "2024-09-02",
           "Name": "The Magic Roundabout",
-          "Year": "2004",
+          "Year": "2005",
           "Letterboxd URI": "https://boxd.it/1K3G"
         },
         {
@@ -3922,12 +4103,6 @@
           "Name": "House of Gucci",
           "Year": "2021",
           "Letterboxd URI": "https://boxd.it/nVkC"
-        },
-        {
-          "Date": "2024-09-09",
-          "Name": "Scavengers Reign",
-          "Year": "2023",
-          "Letterboxd URI": "https://boxd.it/K7fI"
         },
         {
           "Date": "2024-09-12",
@@ -4632,12 +4807,6 @@
           "Letterboxd URI": "https://boxd.it/nKiA"
         },
         {
-          "Date": "2025-12-30",
-          "Name": "Detachment",
-          "Year": "2011",
-          "Letterboxd URI": "https://boxd.it/2BiY"
-        },
-        {
           "Date": "2026-01-08",
           "Name": "Billy Elliot",
           "Year": "2000",
@@ -5026,12 +5195,6 @@
           "Name": "Silent Friend",
           "Year": "2025",
           "Letterboxd URI": "https://boxd.it/IiEg"
-        },
-        {
-          "Date": "2026-01-15",
-          "Name": "The Housemaid",
-          "Year": "2025",
-          "Letterboxd URI": "https://boxd.it/QFEO"
         },
         {
           "Date": "2026-01-15",
@@ -5449,12 +5612,6 @@
         },
         {
           "Date": "2026-02-07",
-          "Name": "Tatsuki Fujimoto 17-26",
-          "Year": "2025",
-          "Letterboxd URI": "https://boxd.it/YcZ0"
-        },
-        {
-          "Date": "2026-02-07",
           "Name": "Niccolò",
           "Year": "2025",
           "Letterboxd URI": "https://boxd.it/XV2K"
@@ -5512,12 +5669,6 @@
           "Name": "Glass",
           "Year": "2019",
           "Letterboxd URI": "https://boxd.it/g3uO"
-        },
-        {
-          "Date": "2026-02-07",
-          "Name": "Bones and All",
-          "Year": "2022",
-          "Letterboxd URI": "https://boxd.it/tLd4"
         },
         {
           "Date": "2026-02-07",
@@ -5671,12 +5822,6 @@
         },
         {
           "Date": "2026-02-11",
-          "Name": "The Seventh Seal",
-          "Year": "1957",
-          "Letterboxd URI": "https://boxd.it/2ahO"
-        },
-        {
-          "Date": "2026-02-11",
           "Name": "Project Silence",
           "Year": "2023",
           "Letterboxd URI": "https://boxd.it/rdQ8"
@@ -5710,12 +5855,6 @@
           "Name": "The Master",
           "Year": "1992",
           "Letterboxd URI": "https://boxd.it/1CSm"
-        },
-        {
-          "Date": "2026-02-12",
-          "Name": "Jumper",
-          "Year": "2008",
-          "Letterboxd URI": "https://boxd.it/20ss"
         },
         {
           "Date": "2026-02-12",
@@ -5766,429 +5905,772 @@
           "Letterboxd URI": "https://boxd.it/KiS2"
         },
         {
-          "Name": "Pet Sematary",
-          "Year": "2019",
-          "Letterboxd URI": "https://letterboxd.com/film/pet-sematary-2019/"
-        },
-        {
-          "Name": "Shark Tale",
-          "Year": "2004",
-          "Letterboxd URI": "https://letterboxd.com/film/shark-tale/"
-        },
-        {
-          "Name": "Reservoir Dogs",
-          "Year": "1992",
-          "Letterboxd URI": "https://letterboxd.com/film/reservoir-dogs/"
-        },
-        {
-          "Name": "Scream",
-          "Year": "1996",
-          "Letterboxd URI": "https://letterboxd.com/film/scream/"
-        },
-        {
-          "Name": "Premium Rush",
-          "Year": "2012",
-          "Letterboxd URI": "https://letterboxd.com/film/premium-rush/"
-        },
-        {
-          "Name": "Frances Ha",
-          "Year": "2012",
-          "Letterboxd URI": "https://letterboxd.com/film/frances-ha/"
-        },
-        {
-          "Name": "Little Miss Sunshine",
-          "Year": "2006",
-          "Letterboxd URI": "https://letterboxd.com/film/little-miss-sunshine/"
-        },
-        {
-          "Name": "Portrait of a Lady on Fire",
-          "Year": "2019",
-          "Letterboxd URI": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/"
-        },
-        {
-          "Name": "Blue Valentine",
-          "Year": "2010",
-          "Letterboxd URI": "https://letterboxd.com/film/blue-valentine/"
-        },
-        {
-          "Name": "Paris, Texas",
-          "Year": "1984",
-          "Letterboxd URI": "https://letterboxd.com/film/paris-texas/"
-        },
-        {
-          "Name": "The Virgin Suicides",
-          "Year": "1999",
-          "Letterboxd URI": "https://letterboxd.com/film/the-virgin-suicides/"
-        },
-        {
-          "Name": "The Edge of Seventeen",
-          "Year": "2016",
-          "Letterboxd URI": "https://letterboxd.com/film/the-edge-of-seventeen/"
-        },
-        {
-          "Name": "The Perks of Being a Wallflower",
-          "Year": "2012",
-          "Letterboxd URI": "https://letterboxd.com/film/the-perks-of-being-a-wallflower/"
-        },
-        {
-          "Name": "Lady Bird",
-          "Year": "2017",
-          "Letterboxd URI": "https://letterboxd.com/film/lady-bird/"
-        },
-        {
-          "Name": "Lars and the Real Girl",
-          "Year": "2007",
-          "Letterboxd URI": "https://letterboxd.com/film/lars-and-the-real-girl/"
-        },
-        {
-          "Name": "Manchester by the Sea",
-          "Year": "2016",
-          "Letterboxd URI": "https://letterboxd.com/film/manchester-by-the-sea/"
-        },
-        {
-          "Name": "American Beauty",
-          "Year": "1999",
-          "Letterboxd URI": "https://letterboxd.com/film/american-beauty/"
-        },
-        {
-          "Name": "Magnolia",
-          "Year": "1999",
-          "Letterboxd URI": "https://letterboxd.com/film/magnolia/"
-        },
-        {
-          "Name": "Locke",
-          "Year": "2013",
-          "Letterboxd URI": "https://letterboxd.com/film/locke/"
-        },
-        {
-          "Name": "Sonny Boy",
-          "Year": "2021",
-          "Letterboxd URI": "https://letterboxd.com/film/sonny-boy-2021/"
-        },
-        {
-          "Name": "A New Dawn",
-          "Year": "2026",
-          "Letterboxd URI": "https://letterboxd.com/film/a-new-dawn-2026/"
-        },
-        {
-          "Name": "Imprint",
-          "Year": "2006",
-          "Letterboxd URI": "https://letterboxd.com/film/imprint-2006/"
-        },
-        {
-          "Name": "Kensuke's Kingdom",
-          "Year": "2023",
-          "Letterboxd URI": "https://letterboxd.com/film/kensukes-kingdom/"
-        },
-        {
-          "Name": "Steve",
-          "Year": "2025",
-          "Letterboxd URI": "https://letterboxd.com/film/steve-2025/"
-        },
-        {
-          "Name": "The Hunt",
-          "Year": "2012",
-          "Letterboxd URI": "https://letterboxd.com/film/the-hunt-2012/"
-        },
-        {
-          "Name": "Sunshine",
-          "Year": "2007",
-          "Letterboxd URI": "https://letterboxd.com/film/sunshine-2007/"
-        },
-        {
-          "Name": "Even Mice Belong in Heaven",
-          "Year": "2021",
-          "Letterboxd URI": "https://letterboxd.com/film/even-mice-belong-in-heaven/"
-        },
-        {
-          "Name": "Mulholland Drive",
-          "Year": "2001",
-          "Letterboxd URI": "https://letterboxd.com/film/mulholland-drive/"
-        },
-        {
-          "Name": "Children of the Sea",
-          "Year": "2019",
-          "Letterboxd URI": "https://letterboxd.com/film/children-of-the-sea/"
-        },
-        {
-          "Name": "Primer",
-          "Year": "2004",
-          "Letterboxd URI": "https://letterboxd.com/film/primer/"
-        },
-        {
-          "Name": "The Rabbi's Cat",
-          "Year": "2011",
-          "Letterboxd URI": "https://letterboxd.com/film/the-rabbis-cat/"
-        },
-        {
-          "Name": "Decision to Leave",
-          "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/film/decision-to-leave/"
-        },
-        {
-          "Name": "Little Forest",
-          "Year": "2018",
-          "Letterboxd URI": "https://letterboxd.com/film/little-forest/"
-        },
-        {
-          "Name": "Look Back",
-          "Year": "2024",
-          "Letterboxd URI": "https://letterboxd.com/film/look-back-2024/"
-        },
-        {
-          "Name": "Suzume",
-          "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/film/suzume/"
-        },
-        {
-          "Name": "Trapezium",
-          "Year": "2024",
-          "Letterboxd URI": "https://letterboxd.com/film/trapezium/"
-        },
-        {
-          "Name": "Fureru",
-          "Year": "2024",
-          "Letterboxd URI": "https://letterboxd.com/film/fureru/"
-        },
-        {
-          "Name": "Blue Giant",
-          "Year": "2023",
-          "Letterboxd URI": "https://letterboxd.com/film/blue-giant/"
-        },
-        {
-          "Name": "Blood: The Last Vampire",
-          "Year": "2000",
-          "Letterboxd URI": "https://letterboxd.com/film/blood-the-last-vampire/"
-        },
-        {
-          "Name": "Train Dreams",
-          "Year": "2025",
-          "Letterboxd URI": "https://letterboxd.com/film/train-dreams/"
-        },
-        {
-          "Name": "Good Luck, Have Fun, Don't Die",
-          "Year": "2025",
-          "Letterboxd URI": "https://letterboxd.com/film/good-luck-have-fun-dont-die/"
-        },
-        {
-          "Name": "Nirvanna the Band the Show the Movie",
-          "Year": "2025",
-          "Letterboxd URI": "https://letterboxd.com/film/nirvanna-the-band-the-show-the-movie/"
-        },
-        {
-          "Name": "Look Back",
-          "Year": "",
-          "Letterboxd URI": "https://letterboxd.com/film/look-back-1/"
-        },
-        {
-          "Name": "Uncut Gems",
-          "Year": "2019",
-          "Letterboxd URI": "https://letterboxd.com/film/uncut-gems/"
-        },
-        {
-          "Name": "Mondays: See You 'This' Week!",
-          "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/film/mondays-see-you-this-week/"
-        },
-        {
-          "Name": "Hoppers",
-          "Year": "2026",
-          "Letterboxd URI": "https://letterboxd.com/film/hoppers/"
-        },
-        {
-          "Name": "The In Between",
-          "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/film/the-in-between-2022/"
-        },
-        {
-          "Name": "Togo",
-          "Year": "2019",
-          "Letterboxd URI": "https://letterboxd.com/film/togo/"
-        },
-        {
-          "Name": "One Minute in Hell",
-          "Year": "2023",
-          "Letterboxd URI": "https://letterboxd.com/film/one-minute-in-hell/"
-        },
-        {
-          "Name": "Robin Hood: Prince of Thieves",
-          "Year": "1991",
-          "Letterboxd URI": "https://letterboxd.com/film/robin-hood-prince-of-thieves/"
-        },
-        {
-          "Name": "The Bucket List",
-          "Year": "2007",
-          "Letterboxd URI": "https://letterboxd.com/film/the-bucket-list/"
-        },
-        {
-          "Name": "Unforgiven",
-          "Year": "1992",
-          "Letterboxd URI": "https://letterboxd.com/film/unforgiven/"
-        },
-        {
-          "Name": "Along Came a Spider",
-          "Year": "2001",
-          "Letterboxd URI": "https://letterboxd.com/film/along-came-a-spider/"
-        },
-        {
-          "Name": "The Girl Without Hands",
-          "Year": "2016",
-          "Letterboxd URI": "https://letterboxd.com/film/the-girl-without-hands/"
-        },
-        {
-          "Name": "Scenery",
-          "Year": "2025",
-          "Letterboxd URI": "https://letterboxd.com/film/scenery-2025/"
-        },
-        {
-          "Name": "Paulie",
-          "Year": "1998",
-          "Letterboxd URI": "https://letterboxd.com/film/paulie/"
-        },
-        {
-          "Name": "Return to Oz",
-          "Year": "1985",
-          "Letterboxd URI": "https://letterboxd.com/film/return-to-oz/"
-        },
-        {
-          "Name": "The Happening",
-          "Year": "2008",
-          "Letterboxd URI": "https://letterboxd.com/film/the-happening/"
-        },
-        {
-          "Name": "City of Ember",
-          "Year": "2008",
-          "Letterboxd URI": "https://letterboxd.com/film/city-of-ember/"
-        },
-        {
-          "Name": "Wade",
-          "Year": "2020",
-          "Letterboxd URI": "https://letterboxd.com/film/wade/"
-        },
-        {
-          "Name": "Mirror",
-          "Year": "1975",
-          "Letterboxd URI": "https://letterboxd.com/film/mirror/"
-        },
-        {
-          "Name": "Dreams",
-          "Year": "1990",
-          "Letterboxd URI": "https://letterboxd.com/film/dreams/"
-        },
-        {
-          "Name": "Shutter Island",
-          "Year": "2010",
-          "Letterboxd URI": "https://letterboxd.com/film/shutter-island/"
-        },
-        {
-          "Name": "Tokyo!",
-          "Year": "2008",
-          "Letterboxd URI": "https://letterboxd.com/film/tokyo/"
-        },
-        {
-          "Name": "Kin-dza-dza!",
-          "Year": "1986",
-          "Letterboxd URI": "https://letterboxd.com/film/kin-dza-dza/"
-        },
-        {
-          "Name": "Ocean Waves",
-          "Year": "1993",
-          "Letterboxd URI": "https://letterboxd.com/film/ocean-waves/"
-        },
-        {
-          "Name": "Cure",
-          "Year": "1997",
-          "Letterboxd URI": "https://letterboxd.com/film/cure/"
-        },
-        {
-          "Name": "Mary and Max",
-          "Year": "2009",
-          "Letterboxd URI": "https://letterboxd.com/film/mary-and-max/"
-        },
-        {
-          "Name": "Flowers of Evil",
-          "Year": "2013",
-          "Letterboxd URI": "https://letterboxd.com/film/flowers-of-evil-2013/"
-        },
-        {
-          "Name": "Lost in Space",
-          "Year": "1998",
-          "Letterboxd URI": "https://letterboxd.com/film/lost-in-space/"
-        },
-        {
-          "Name": "Cirque du Freak: The Vampire's Assistant",
-          "Year": "2009",
-          "Letterboxd URI": "https://letterboxd.com/film/cirque-du-freak-the-vampires-assistant/"
-        },
-        {
-          "Name": "My Best Friend Is a Vampire",
-          "Year": "1987",
-          "Letterboxd URI": "https://letterboxd.com/film/my-best-friend-is-a-vampire/"
-        },
-        {
-          "Name": "Remember Me",
-          "Year": "2010",
-          "Letterboxd URI": "https://letterboxd.com/film/remember-me/"
-        },
-        {
-          "Name": "Dragonkeeper",
-          "Year": "2024",
-          "Letterboxd URI": "https://letterboxd.com/film/dragonkeeper/"
-        },
-        {
-          "Name": "The Hedgehog",
-          "Year": "2009",
-          "Letterboxd URI": "https://letterboxd.com/film/the-hedgehog/"
-        },
-        {
-          "Name": "Lord of Mysteries: The Fool",
-          "Year": "",
-          "Letterboxd URI": "https://letterboxd.com/film/lord-of-mysteries-the-fool/"
-        },
-        {
-          "Name": "The Shape of Water",
-          "Year": "2017",
-          "Letterboxd URI": "https://letterboxd.com/film/the-shape-of-water/"
-        },
-        {
-          "Name": "The Butterfly Effect",
-          "Year": "2004",
-          "Letterboxd URI": "https://letterboxd.com/film/the-butterfly-effect/"
-        },
-        {
-          "Name": "The Da Vinci Code",
-          "Year": "2006",
-          "Letterboxd URI": "https://letterboxd.com/film/the-da-vinci-code/"
-        },
-        {
-          "Name": "The Little Prince",
-          "Year": "2015",
-          "Letterboxd URI": "https://letterboxd.com/film/the-little-prince-2015/"
-        },
-        {
-          "Name": "Sentimental Value",
-          "Year": "2025",
-          "Letterboxd URI": "https://letterboxd.com/film/sentimental-value-2025/"
-        },
-        {
-          "Name": "Meet the Robinsons",
-          "Year": "2007",
-          "Letterboxd URI": "https://letterboxd.com/film/meet-the-robinsons/"
-        },
-        {
-          "Name": "The Sadness",
-          "Year": "2021",
-          "Letterboxd URI": "https://letterboxd.com/film/the-sadness-2021/"
-        },
-        {
+          "Date": "2026-02-16",
           "Name": "Planet Terror",
           "Year": "2007",
-          "Letterboxd URI": "https://letterboxd.com/film/planet-terror/"
+          "Letterboxd URI": "https://boxd.it/27Gw"
         },
         {
-          "Name": "The Magic Roundabout",
+          "Date": "2026-02-16",
+          "Name": "The Sadness",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/tcHe"
+        },
+        {
+          "Date": "2026-02-17",
+          "Name": "Meet the Robinsons",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/28Ym"
+        },
+        {
+          "Date": "2026-02-17",
+          "Name": "Sentimental Value",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/GwcG"
+        },
+        {
+          "Date": "2026-02-18",
+          "Name": "The Little Prince",
+          "Year": "2015",
+          "Letterboxd URI": "https://boxd.it/9WbS"
+        },
+        {
+          "Date": "2026-02-18",
+          "Name": "The Da Vinci Code",
+          "Year": "2006",
+          "Letterboxd URI": "https://boxd.it/2a3i"
+        },
+        {
+          "Date": "2026-02-18",
+          "Name": "The Butterfly Effect",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/27M0"
+        },
+        {
+          "Date": "2026-02-18",
+          "Name": "The Shape of Water",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/dZ5m"
+        },
+        {
+          "Date": "2026-02-19",
+          "Name": "Lord of Mysteries: The Fool",
+          "Year": "",
+          "Letterboxd URI": "https://boxd.it/WUn6"
+        },
+        {
+          "Date": "2026-02-19",
+          "Name": "The Hedgehog",
+          "Year": "2009",
+          "Letterboxd URI": "https://boxd.it/1ERg"
+        },
+        {
+          "Date": "2026-02-19",
+          "Name": "Dragonkeeper",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/lF7e"
+        },
+        {
+          "Date": "2026-02-19",
+          "Name": "Remember Me",
+          "Year": "2010",
+          "Letterboxd URI": "https://boxd.it/1zyI"
+        },
+        {
+          "Date": "2026-02-19",
+          "Name": "My Best Friend Is a Vampire",
+          "Year": "1987",
+          "Letterboxd URI": "https://boxd.it/1CmK"
+        },
+        {
+          "Date": "2026-02-19",
+          "Name": "Cirque du Freak: The Vampire's Assistant",
+          "Year": "2009",
+          "Letterboxd URI": "https://boxd.it/1xHo"
+        },
+        {
+          "Date": "2026-02-20",
+          "Name": "Lost in Space",
+          "Year": "1998",
+          "Letterboxd URI": "https://boxd.it/27ji"
+        },
+        {
+          "Date": "2026-02-20",
+          "Name": "Flowers of Evil",
+          "Year": "2013",
+          "Letterboxd URI": "https://boxd.it/q0mW"
+        },
+        {
+          "Date": "2026-02-20",
+          "Name": "Mary and Max",
+          "Year": "2009",
+          "Letterboxd URI": "https://boxd.it/1y2m"
+        },
+        {
+          "Date": "2026-02-20",
+          "Name": "Cure",
+          "Year": "1997",
+          "Letterboxd URI": "https://boxd.it/1blA"
+        },
+        {
+          "Date": "2026-02-20",
+          "Name": "Ocean Waves",
+          "Year": "1993",
+          "Letterboxd URI": "https://boxd.it/1CtQ"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Tokyo!",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/1ZxG"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Shutter Island",
+          "Year": "2010",
+          "Letterboxd URI": "https://boxd.it/1U82"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Dreams",
+          "Year": "1990",
+          "Letterboxd URI": "https://boxd.it/1ROu"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Mirror",
+          "Year": "1975",
+          "Letterboxd URI": "https://boxd.it/28Q8"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Wade",
+          "Year": "2020",
+          "Letterboxd URI": "https://boxd.it/qCnI"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "City of Ember",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/1POs"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "The Happening",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/200o"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Return to Oz",
+          "Year": "1985",
+          "Letterboxd URI": "https://boxd.it/1QHM"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Paulie",
+          "Year": "1998",
+          "Letterboxd URI": "https://boxd.it/1ajy"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "Decorado",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/EawA"
+        },
+        {
+          "Date": "2026-02-21",
+          "Name": "The Girl Without Hands",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/dThQ"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Along Came a Spider",
+          "Year": "2001",
+          "Letterboxd URI": "https://boxd.it/27yW"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Unforgiven",
+          "Year": "1992",
+          "Letterboxd URI": "https://boxd.it/6Z4"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "The Bucket List",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/20Ye"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Robin Hood: Prince of Thieves",
+          "Year": "1991",
+          "Letterboxd URI": "https://boxd.it/20hu"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "One Minute in Hell",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/XfYs"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Togo",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/mpjA"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "The In Between",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/uQiK"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Hoppers",
+          "Year": "2026",
+          "Letterboxd URI": "https://boxd.it/OFpg"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Mondays: See You 'This' Week!",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/Dn0K"
+        },
+        {
+          "Date": "2026-02-22",
+          "Name": "Uncut Gems",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/gXGc"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Look Back",
+          "Year": "",
+          "Letterboxd URI": "https://boxd.it/ZjRY"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Nirvanna the Band the Show the Movie",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/HG9a"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Good Luck, Have Fun, Don't Die",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/Glua"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Train Dreams",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/LdDo"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Blood: The Last Vampire",
+          "Year": "2000",
+          "Letterboxd URI": "https://boxd.it/29hy"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Blue Giant",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/xwJW"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Fureru",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/K4Vw"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Trapezium",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/Kc9A"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Suzume",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/yv7Y"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Look Back",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/LjA6"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Little Forest",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/fYHI"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "Decision to Leave",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/qp9e"
+        },
+        {
+          "Date": "2026-02-23",
+          "Name": "The Rabbi's Cat",
+          "Year": "2011",
+          "Letterboxd URI": "https://boxd.it/2A7g"
+        },
+        {
+          "Date": "2026-02-25",
+          "Name": "Primer",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/6YA"
+        },
+        {
+          "Date": "2026-02-25",
+          "Name": "Children of the Sea",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/lwe6"
+        },
+        {
+          "Date": "2026-02-26",
+          "Name": "Mulholland Drive",
+          "Year": "2001",
+          "Letterboxd URI": "https://boxd.it/297o"
+        },
+        {
+          "Date": "2026-02-26",
+          "Name": "Even Mice Belong in Heaven",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/lFNu"
+        },
+        {
+          "Date": "2026-02-26",
+          "Name": "Sunshine",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/28Xy"
+        },
+        {
+          "Date": "2026-02-26",
+          "Name": "The Hunt",
+          "Year": "2012",
+          "Letterboxd URI": "https://boxd.it/3wEC"
+        },
+        {
+          "Date": "2026-02-27",
+          "Name": "Steve",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/LekC"
+        },
+        {
+          "Date": "2026-02-27",
+          "Name": "Kensuke's Kingdom",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/lCpE"
+        },
+        {
+          "Date": "2026-02-27",
+          "Name": "Imprint",
+          "Year": "2006",
+          "Letterboxd URI": "https://boxd.it/al6e"
+        },
+        {
+          "Date": "2026-02-27",
+          "Name": "A New Dawn",
+          "Year": "2026",
+          "Letterboxd URI": "https://boxd.it/MPiU"
+        },
+        {
+          "Date": "2026-02-27",
+          "Name": "Sonny Boy",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/vYTQ"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Locke",
+          "Year": "2013",
+          "Letterboxd URI": "https://boxd.it/6hHC"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Magnolia",
+          "Year": "1999",
+          "Letterboxd URI": "https://boxd.it/2aze"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "American Beauty",
+          "Year": "1999",
+          "Letterboxd URI": "https://boxd.it/71Y"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Manchester by the Sea",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/b2L0"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Lars and the Real Girl",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/21tG"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Lady Bird",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/dGNE"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "The Perks of Being a Wallflower",
+          "Year": "2012",
+          "Letterboxd URI": "https://boxd.it/2ZA8"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "The Edge of Seventeen",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/d5nu"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "The Virgin Suicides",
+          "Year": "1999",
+          "Letterboxd URI": "https://boxd.it/28JG"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Paris, Texas",
+          "Year": "1984",
+          "Letterboxd URI": "https://boxd.it/29Ts"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Blue Valentine",
+          "Year": "2010",
+          "Letterboxd URI": "https://boxd.it/MxG"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Portrait of a Lady on Fire",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/jkPq"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Little Miss Sunshine",
+          "Year": "2006",
+          "Letterboxd URI": "https://boxd.it/29EW"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Frances Ha",
+          "Year": "2012",
+          "Letterboxd URI": "https://boxd.it/41Xg"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Premium Rush",
+          "Year": "2012",
+          "Letterboxd URI": "https://boxd.it/FQw"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Scream",
+          "Year": "1996",
+          "Letterboxd URI": "https://boxd.it/24EC"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Reservoir Dogs",
+          "Year": "1992",
+          "Letterboxd URI": "https://boxd.it/2agc"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Shark Tale",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/1VYe"
+        },
+        {
+          "Date": "2026-02-28",
+          "Name": "Pet Sematary",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/4W0q"
+        },
+        {
+          "Date": "2026-03-01",
+          "Name": "Homeless Home",
+          "Year": "2020",
+          "Letterboxd URI": "https://boxd.it/qEWK"
+        },
+        {
+          "Date": "2026-03-01",
+          "Name": "House",
+          "Year": "1977",
+          "Letterboxd URI": "https://boxd.it/1vsm"
+        },
+        {
+          "Date": "2026-03-01",
+          "Name": "Gone Girl",
+          "Year": "2014",
+          "Letterboxd URI": "https://boxd.it/6hQu"
+        },
+        {
+          "Date": "2026-03-01",
+          "Name": "Contact",
+          "Year": "1997",
+          "Letterboxd URI": "https://boxd.it/29OM"
+        },
+        {
+          "Date": "2026-03-02",
+          "Name": "The Station Agent",
+          "Year": "2003",
+          "Letterboxd URI": "https://boxd.it/27xu"
+        },
+        {
+          "Date": "2026-03-02",
+          "Name": "SCP: Black Meridian",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/Zitw"
+        },
+        {
+          "Date": "2026-03-03",
+          "Name": "Hardcore Henry",
+          "Year": "2015",
+          "Letterboxd URI": "https://boxd.it/aAIM"
+        },
+        {
+          "Date": "2026-03-03",
+          "Name": "Russian Ark",
+          "Year": "2002",
+          "Letterboxd URI": "https://boxd.it/1JQM"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "Get Smart",
+          "Year": "2008",
+          "Letterboxd URI": "https://boxd.it/1Tig"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Black Cauldron",
+          "Year": "1985",
+          "Letterboxd URI": "https://boxd.it/1UYW"
+        },
+        {
+          "Date": "2026-03-06",
+          "Name": "Memoir of a Snail",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/EgX8"
+        },
+        {
+          "Date": "2026-03-06",
+          "Name": "1408",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/25Vu"
+        },
+        {
+          "Date": "2026-03-06",
+          "Name": "Millennium Actress",
+          "Year": "2001",
+          "Letterboxd URI": "https://boxd.it/1fK0"
+        },
+        {
+          "Date": "2026-03-07",
+          "Name": "The Foreigner",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/dbRg"
+        },
+        {
+          "Date": "2026-03-07",
+          "Name": "We Live in Time",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/FC5u"
+        },
+        {
+          "Date": "2026-03-08",
+          "Name": "Robot on the Road",
+          "Year": "2015",
+          "Letterboxd URI": "https://boxd.it/d2nw"
+        },
+        {
+          "Date": "2026-03-11",
+          "Name": "The Dinner",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/T340"
+        },
+        {
+          "Date": "2026-03-13",
+          "Name": "Hush",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/d5ys"
+        },
+        {
+          "Date": "2026-03-13",
+          "Name": "The Human Centipede (First Sequence)",
+          "Year": "2009",
+          "Letterboxd URI": "https://boxd.it/18Tu"
+        },
+        {
+          "Date": "2026-03-13",
+          "Name": "The Wind Rises",
+          "Year": "2013",
+          "Letterboxd URI": "https://boxd.it/4JQS"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "I Believe in Unicorns",
+          "Year": "2014",
+          "Letterboxd URI": "https://boxd.it/7qGA"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "Bones and All",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/tLd4"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "On the Edge",
+          "Year": "2001",
+          "Letterboxd URI": "https://boxd.it/2N3G"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "The Color of Pomegranates",
+          "Year": "1969",
+          "Letterboxd URI": "https://boxd.it/1u94"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "Paranoid Park",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/27GQ"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "Stand by Me",
+          "Year": "1986",
+          "Letterboxd URI": "https://boxd.it/2aOe"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "Driving Lessons",
+          "Year": "2006",
+          "Letterboxd URI": "https://boxd.it/1TVi"
+        },
+        {
+          "Date": "2026-03-16",
+          "Name": "Chicago",
+          "Year": "2002",
+          "Letterboxd URI": "https://boxd.it/28zm"
+        },
+        {
+          "Date": "2026-03-17",
+          "Name": "The Contestant",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/IpS"
+        },
+        {
+          "Date": "2026-03-17",
+          "Name": "District B13",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/1XdY"
+        },
+        {
+          "Date": "2026-03-22",
+          "Name": "The Witches",
+          "Year": "1990",
+          "Letterboxd URI": "https://boxd.it/1WVg"
+        },
+        {
+          "Date": "2026-03-23",
+          "Name": "Smoking Causes Coughing",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/wVl4"
+        },
+        {
+          "Date": "2026-03-24",
+          "Name": "First Reformed",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/go9C"
+        },
+        {
+          "Date": "2026-03-24",
+          "Name": "Kes",
+          "Year": "1969",
+          "Letterboxd URI": "https://boxd.it/1Qi8"
+        },
+        {
+          "Date": "2026-03-24",
+          "Name": "Ghost World",
+          "Year": "2001",
+          "Letterboxd URI": "https://boxd.it/28Dy"
+        },
+        {
+          "Date": "2026-03-24",
+          "Name": "EO",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/txhc"
+        },
+        {
+          "Date": "2026-03-24",
+          "Name": "Resurrection",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/x9DG"
+        },
+        {
+          "Date": "2026-03-25",
+          "Name": "Orb: On the Movements of the Earth",
+          "Year": "2024",
+          "Letterboxd URI": "https://boxd.it/Ug3Q"
+        },
+        {
+          "Date": "2026-03-25",
+          "Name": "The Brothers Grimm",
           "Year": "2005",
-          "Letterboxd URI": "https://letterboxd.com/film/the-magic-roundabout/"
+          "Letterboxd URI": "https://boxd.it/24kW"
+        },
+        {
+          "Date": "2026-03-25",
+          "Name": "Lost Highway",
+          "Year": "1997",
+          "Letterboxd URI": "https://boxd.it/29Wc"
+        },
+        {
+          "Date": "2026-03-26",
+          "Name": "Always Watching: A Marble Hornets Story",
+          "Year": "2015",
+          "Letterboxd URI": "https://boxd.it/aLSy"
+        },
+        {
+          "Date": "2026-03-26",
+          "Name": "A Magnificent Life",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/vHWo"
+        },
+        {
+          "Date": "2026-03-26",
+          "Name": "Puparia",
+          "Year": "2020",
+          "Letterboxd URI": "https://boxd.it/sNym"
+        },
+        {
+          "Date": "2026-03-27",
+          "Name": "Unbelievable",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/noio"
+        },
+        {
+          "Date": "2026-03-27",
+          "Name": "Wood Job!",
+          "Year": "2014",
+          "Letterboxd URI": "https://boxd.it/8lvO"
         }
       ],
       "likes": [
@@ -6453,7 +6935,7 @@
         {
           "Date": "2024-09-02",
           "Name": "The Magic Roundabout",
-          "Year": "2004",
+          "Year": "2005",
           "Letterboxd URI": "https://boxd.it/1K3G"
         },
         {
@@ -7033,13 +7515,44 @@
           "Letterboxd URI": "https://boxd.it/iAFu"
         },
         {
+          "Date": "2026-02-16",
+          "Name": "Love, Death & Robots: The Secret War",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/lN0g"
+        },
+        {
+          "Date": "2026-02-16",
+          "Name": "Love, Death & Robots: The Very Pulse of the Machine",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/AW5O"
+        },
+        {
+          "Date": "2026-02-22",
           "Name": "The Boy, the Mole, the Fox and the Horse",
           "Year": "2022",
-          "Letterboxd URI": "https://letterboxd.com/cargaspar/film/the-boy-the-mole-the-fox-and-the-horse/"
+          "Letterboxd URI": "https://boxd.it/BBT6"
+        },
+        {
+          "Date": "2026-03-04",
+          "Name": "The Man Who Killed Don Quixote",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/9rkY"
+        },
+        {
+          "Date": "2026-03-08",
+          "Name": "Detachment",
+          "Year": "2011",
+          "Letterboxd URI": "https://boxd.it/2BiY"
+        },
+        {
+          "Date": "2026-03-13",
+          "Name": "Scavengers Reign",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/K7fI"
         }
       ],
       "enabled": true,
-      "updatedAt": "2026-02-28T00:25:28.530606"
+      "updatedAt": "2026-03-27T19:34:18.045217"
     },
     {
       "name": "pilipina",
@@ -13749,7 +14262,13 @@
       "year": "2018",
       "uri": "https://boxd.it/9rkY",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/9l/p4/0p/3j/the-man-who-killed-don-quixote-1200-1200-675-675-crop-000000.jpg?v=7a2ea92392",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4",
+          "watched": true
+        }
+      ]
     },
     "Not Waving but Drowning|2012": {
       "name": "Not Waving but Drowning",
@@ -14132,7 +14651,13 @@
       "year": "2023",
       "uri": "https://boxd.it/K7fI",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/0h/y6/rf/4o/sr-1200-1200-675-675-crop-000000.jpg?v=6c29e40bea",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5",
+          "watched": true
+        }
+      ]
     },
     "The American Society of Magical Negroes|2024": {
       "name": "The American Society of Magical Negroes",
@@ -14969,7 +15494,13 @@
       "year": "2011",
       "uri": "https://boxd.it/2BiY",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/st/gb/km/xc/detachment-110-1200-1200-675-675-crop-000000.jpg?v=ba6f4edadf",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "5",
+          "watched": true
+        }
+      ]
     },
     "Billy Elliot|2000": {
       "name": "Billy Elliot",
@@ -16000,7 +16531,13 @@
       "year": "2025",
       "uri": "https://boxd.it/YcZ0",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/39/iq/cc/18/4YrYmBx26WZgITKlcceaIz74vj3-1200-1200-675-675-crop-000000.jpg?v=50a0439d9f",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3.5",
+          "watched": true
+        }
+      ]
     },
     "Niccolò|2025": {
       "name": "Niccolò",
@@ -16304,7 +16841,13 @@
       "year": "1957",
       "uri": "https://boxd.it/2ahO",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/3v/h4/2e/6c/seventh-seal-1200-1200-675-675-crop-000000.jpg?v=5f87461e1b",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3.5",
+          "watched": true
+        }
+      ]
     },
     "Project Silence|2023": {
       "name": "Project Silence",
@@ -16353,7 +16896,13 @@
       "year": "2008",
       "uri": "https://boxd.it/20ss",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/vu/9o/yc/z0/jumper-1200-1200-675-675-crop-000000.jpg?v=4f7de74d23",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3",
+          "watched": true
+        }
+      ]
     },
     "Shaolin Soccer|2001": {
       "name": "Shaolin Soccer",
@@ -19359,7 +19908,872 @@
           "watched": true
         }
       ]
+    },
+    "The Man Who Killed Hitler and Then the Bigfoot|2018": {
+      "name": "The Man Who Killed Hitler and Then the Bigfoot",
+      "year": "2018",
+      "uri": "https://boxd.it/jhd4",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ck/qk/7q/rn/9AumMXASjqCWygqYNvN7bbWMv2m-1200-1200-675-675-crop-000000.jpg?v=994743a2be",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3",
+          "watched": true
+        }
+      ]
+    },
+    "Kin-dza-dza!|1986": {
+      "name": "Kin-dza-dza!",
+      "year": "1986",
+      "uri": "https://boxd.it/1CMS",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hx/at/24/zk/kin-dza-dza-1200-1200-675-675-crop-000000.jpg?v=5cc569f991",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4",
+          "watched": true
+        }
+      ]
+    },
+    "Alone in the Wilderness|2004": {
+      "name": "Alone in the Wilderness",
+      "year": "2004",
+      "uri": "https://boxd.it/1O2C",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9u/43/20/el/alone-1200-1200-675-675-crop-000000.jpg?v=93dfa4c745",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4",
+          "watched": true
+        }
+      ]
+    },
+    "Planet Terror|2007": {
+      "name": "Planet Terror",
+      "year": "2007",
+      "uri": "https://boxd.it/27Gw",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rl/pz/lg/xg/planet-terror-90-1200-1200-675-675-crop-000000.jpg?v=19429ecff1",
+      "users": []
+    },
+    "The Sadness|2021": {
+      "name": "The Sadness",
+      "year": "2021",
+      "uri": "https://boxd.it/tcHe",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aq/8k/na/od/sadness-1200-1200-675-675-crop-000000.jpg?v=18eb499ab0",
+      "users": []
+    },
+    "Sentimental Value|2025": {
+      "name": "Sentimental Value",
+      "year": "2025",
+      "uri": "https://boxd.it/GwcG",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6v/ar/g0/nb/w7s8q7sXbqao6Sp907kxSzUMpL1-1200-1200-675-675-crop-000000.jpg?v=b6153fb694",
+      "users": []
+    },
+    "The Little Prince|2015": {
+      "name": "The Little Prince",
+      "year": "2015",
+      "uri": "https://boxd.it/9WbS",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wm/dh/a8/sq/the-little-prince-1200-1200-675-675-crop-000000.jpg?v=189674e838",
+      "users": []
+    },
+    "The Da Vinci Code|2006": {
+      "name": "The Da Vinci Code",
+      "year": "2006",
+      "uri": "https://boxd.it/2a3i",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2v/5i/3o/ml/da-vinci-code-1200-1200-675-675-crop-000000.jpg?v=c5e345f06e",
+      "users": []
+    },
+    "The Butterfly Effect|2004": {
+      "name": "The Butterfly Effect",
+      "year": "2004",
+      "uri": "https://boxd.it/27M0",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/z8/cd/el/44/butterfly-effect-1200-1200-675-675-crop-000000.jpg?v=7744bee26e",
+      "users": []
+    },
+    "The Shape of Water|2017": {
+      "name": "The Shape of Water",
+      "year": "2017",
+      "uri": "https://boxd.it/dZ5m",
+      "poster": null,
+      "users": []
+    },
+    "Lord of Mysteries: The Fool|": {
+      "name": "Lord of Mysteries: The Fool",
+      "year": "",
+      "uri": "https://boxd.it/WUn6",
+      "poster": null,
+      "users": []
+    },
+    "The Hedgehog|2009": {
+      "name": "The Hedgehog",
+      "year": "2009",
+      "uri": "https://boxd.it/1ERg",
+      "poster": null,
+      "users": []
+    },
+    "Dragonkeeper|2024": {
+      "name": "Dragonkeeper",
+      "year": "2024",
+      "uri": "https://boxd.it/lF7e",
+      "poster": null,
+      "users": []
+    },
+    "Remember Me|2010": {
+      "name": "Remember Me",
+      "year": "2010",
+      "uri": "https://boxd.it/1zyI",
+      "poster": null,
+      "users": []
+    },
+    "My Best Friend Is a Vampire|1987": {
+      "name": "My Best Friend Is a Vampire",
+      "year": "1987",
+      "uri": "https://boxd.it/1CmK",
+      "poster": null,
+      "users": []
+    },
+    "Cirque du Freak: The Vampire's Assistant|2009": {
+      "name": "Cirque du Freak: The Vampire's Assistant",
+      "year": "2009",
+      "uri": "https://boxd.it/1xHo",
+      "poster": null,
+      "users": []
+    },
+    "Lost in Space|1998": {
+      "name": "Lost in Space",
+      "year": "1998",
+      "uri": "https://boxd.it/27ji",
+      "poster": null,
+      "users": []
+    },
+    "Flowers of Evil|2013": {
+      "name": "Flowers of Evil",
+      "year": "2013",
+      "uri": "https://boxd.it/q0mW",
+      "poster": null,
+      "users": []
+    },
+    "Mary and Max|2009": {
+      "name": "Mary and Max",
+      "year": "2009",
+      "uri": "https://boxd.it/1y2m",
+      "poster": null,
+      "users": []
+    },
+    "Cure|1997": {
+      "name": "Cure",
+      "year": "1997",
+      "uri": "https://boxd.it/1blA",
+      "poster": null,
+      "users": []
+    },
+    "Ocean Waves|1993": {
+      "name": "Ocean Waves",
+      "year": "1993",
+      "uri": "https://boxd.it/1CtQ",
+      "poster": null,
+      "users": []
+    },
+    "Tokyo!|2008": {
+      "name": "Tokyo!",
+      "year": "2008",
+      "uri": "https://boxd.it/1ZxG",
+      "poster": null,
+      "users": []
+    },
+    "Dreams|1990": {
+      "name": "Dreams",
+      "year": "1990",
+      "uri": "https://boxd.it/1ROu",
+      "poster": null,
+      "users": []
+    },
+    "Mirror|1975": {
+      "name": "Mirror",
+      "year": "1975",
+      "uri": "https://boxd.it/28Q8",
+      "poster": null,
+      "users": []
+    },
+    "Wade|2020": {
+      "name": "Wade",
+      "year": "2020",
+      "uri": "https://boxd.it/qCnI",
+      "poster": null,
+      "users": []
+    },
+    "City of Ember|2008": {
+      "name": "City of Ember",
+      "year": "2008",
+      "uri": "https://boxd.it/1POs",
+      "poster": null,
+      "users": []
+    },
+    "The Happening|2008": {
+      "name": "The Happening",
+      "year": "2008",
+      "uri": "https://boxd.it/200o",
+      "poster": null,
+      "users": []
+    },
+    "Return to Oz|1985": {
+      "name": "Return to Oz",
+      "year": "1985",
+      "uri": "https://boxd.it/1QHM",
+      "poster": null,
+      "users": []
+    },
+    "Paulie|1998": {
+      "name": "Paulie",
+      "year": "1998",
+      "uri": "https://boxd.it/1ajy",
+      "poster": null,
+      "users": []
+    },
+    "Decorado|2025": {
+      "name": "Decorado",
+      "year": "2025",
+      "uri": "https://boxd.it/EawA",
+      "poster": null,
+      "users": []
+    },
+    "The Girl Without Hands|2016": {
+      "name": "The Girl Without Hands",
+      "year": "2016",
+      "uri": "https://boxd.it/dThQ",
+      "poster": null,
+      "users": []
+    },
+    "Along Came a Spider|2001": {
+      "name": "Along Came a Spider",
+      "year": "2001",
+      "uri": "https://boxd.it/27yW",
+      "poster": null,
+      "users": []
+    },
+    "Unforgiven|1992": {
+      "name": "Unforgiven",
+      "year": "1992",
+      "uri": "https://boxd.it/6Z4",
+      "poster": null,
+      "users": []
+    },
+    "The Bucket List|2007": {
+      "name": "The Bucket List",
+      "year": "2007",
+      "uri": "https://boxd.it/20Ye",
+      "poster": null,
+      "users": []
+    },
+    "Robin Hood: Prince of Thieves|1991": {
+      "name": "Robin Hood: Prince of Thieves",
+      "year": "1991",
+      "uri": "https://boxd.it/20hu",
+      "poster": null,
+      "users": []
+    },
+    "One Minute in Hell|2023": {
+      "name": "One Minute in Hell",
+      "year": "2023",
+      "uri": "https://boxd.it/XfYs",
+      "poster": null,
+      "users": []
+    },
+    "Togo|2019": {
+      "name": "Togo",
+      "year": "2019",
+      "uri": "https://boxd.it/mpjA",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ld/ct/s0/fr/togo-1200-1200-675-675-crop-000000.jpg?v=4afa6d0ea5",
+      "users": []
+    },
+    "The In Between|2022": {
+      "name": "The In Between",
+      "year": "2022",
+      "uri": "https://boxd.it/uQiK",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dy/j4/6n/pz/i9rEpTqC6aIQOWOc4PDEEAE3hFe-1200-1200-675-675-crop-000000.jpg?v=031dbe451e",
+      "users": []
+    },
+    "Hoppers|2026": {
+      "name": "Hoppers",
+      "year": "2026",
+      "uri": "https://boxd.it/OFpg",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/0/7/5/5/7/tmdb/eHGuxEYWvtTUAaXu4hq6Co6h5GU-1200-1200-675-675-crop-000000.jpg?v=5306bf2934",
+      "users": []
+    },
+    "Mondays: See You 'This' Week!|2022": {
+      "name": "Mondays: See You 'This' Week!",
+      "year": "2022",
+      "uri": "https://boxd.it/Dn0K",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ck/2c/j7/7t/qtxccFr9lAE9eRNo3diQ4Auawho-1200-1200-675-675-crop-000000.jpg?v=287f743da5",
+      "users": []
+    },
+    "Uncut Gems|2019": {
+      "name": "Uncut Gems",
+      "year": "2019",
+      "uri": "https://boxd.it/gXGc",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jr/zc/xo/iw/uncut-gems-1200-1200-675-675-crop-000000.jpg?v=3ae14b9389",
+      "users": []
+    },
+    "Look Back|": {
+      "name": "Look Back",
+      "year": "",
+      "uri": "https://boxd.it/ZjRY",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/1/4/3/9/1461439-look-back-1-0-230-0-345-crop.jpg?v=4657da8c65",
+      "users": []
+    },
+    "Nirvanna the Band the Show the Movie|2025": {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": "2025",
+      "uri": "https://boxd.it/HG9a",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bl/ie/gg/tl/NIRVANNA%20-%20Still%208%20(10.24.25)%20-1200-1200-675-675-crop-000000.jpg?v=95b700442b",
+      "users": []
+    },
+    "Good Luck, Have Fun, Don't Die|2025": {
+      "name": "Good Luck, Have Fun, Don't Die",
+      "year": "2025",
+      "uri": "https://boxd.it/Glua",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/0/9/2/3/7/tmdb/pIISC3AFeMS20ieUfevg8CDWsst-1200-1200-675-675-crop-000000.jpg?v=8295f27487",
+      "users": []
+    },
+    "Train Dreams|2025": {
+      "name": "Train Dreams",
+      "year": "2025",
+      "uri": "https://boxd.it/LdDo",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/2/5/3/8/3/tmdb/kUAYBysrwhimuz5wYO6GgefRdD1-1200-1200-675-675-crop-000000.jpg?v=b8ca2f5113",
+      "users": []
+    },
+    "Blood: The Last Vampire|2000": {
+      "name": "Blood: The Last Vampire",
+      "year": "2000",
+      "uri": "https://boxd.it/29hy",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/84/j5/sq/o4/blood-the-last-vampire-1200-1200-675-675-crop-000000.jpg?v=d85b6450ab",
+      "users": []
+    },
+    "Blue Giant|2023": {
+      "name": "Blue Giant",
+      "year": "2023",
+      "uri": "https://boxd.it/xwJW",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7i/yn/2u/fg/blue%20giant-1200-1200-675-675-crop-000000.jpg?v=ca75c36f93",
+      "users": []
+    },
+    "Fureru|2024": {
+      "name": "Fureru",
+      "year": "2024",
+      "uri": "https://boxd.it/K4Vw",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/9/8/2/0/3/tmdb/jYcvdfOce89Vzisi0pOK9bLfIgT-1200-1200-675-675-crop-000000.jpg?v=6d849b244e",
+      "users": []
+    },
+    "Trapezium|2024": {
+      "name": "Trapezium",
+      "year": "2024",
+      "uri": "https://boxd.it/Kc9A",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9o/kf/hg/sz/fTprNmJWDOQLYrTQwAfey0V6tIv-1200-1200-675-675-crop-000000.jpg?v=a6f1b0f2e4",
+      "users": []
+    },
+    "Suzume|2022": {
+      "name": "Suzume",
+      "year": "2022",
+      "uri": "https://boxd.it/yv7Y",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wi/k1/cs/mn/suzume-1200-1200-675-675-crop-000000.jpg?v=9d6e30f1d6",
+      "users": []
+    },
+    "Little Forest|2018": {
+      "name": "Little Forest",
+      "year": "2018",
+      "uri": "https://boxd.it/fYHI",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2h/jm/x9/31/little-forest-1200-1200-675-675-crop-000000.jpg?v=5d1d1a7867",
+      "users": []
+    },
+    "Decision to Leave|2022": {
+      "name": "Decision to Leave",
+      "year": "2022",
+      "uri": "https://boxd.it/qp9e",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bw/j0/tm/6h/DTL1-1200-1200-675-675-crop-000000.jpg?v=40346cd56f",
+      "users": []
+    },
+    "The Rabbi's Cat|2011": {
+      "name": "The Rabbi's Cat",
+      "year": "2011",
+      "uri": "https://boxd.it/2A7g",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ys/hy/7n/lm/obtBUwnhRO8qcjCSB9iGvN9CCWz-1200-1200-675-675-crop-000000.jpg?v=bbb193d6f4",
+      "users": []
+    },
+    "Primer|2004": {
+      "name": "Primer",
+      "year": "2004",
+      "uri": "https://boxd.it/6YA",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b7/n2/t9/8m/primer-1200-1200-675-675-crop-000000.jpg?v=96f21d1163",
+      "users": []
+    },
+    "Children of the Sea|2019": {
+      "name": "Children of the Sea",
+      "year": "2019",
+      "uri": "https://boxd.it/lwe6",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/m7/23/se/kx/children-of-sea-1200-1200-675-675-crop-000000.jpg?v=24669e45d7",
+      "users": []
+    },
+    "Mulholland Drive|2001": {
+      "name": "Mulholland Drive",
+      "year": "2001",
+      "uri": "https://boxd.it/297o",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h2/6c/u6/vy/mulholland-drive-60-1200-1200-675-675-crop-000000.jpg?v=39351034b2",
+      "users": []
+    },
+    "Even Mice Belong in Heaven|2021": {
+      "name": "Even Mice Belong in Heaven",
+      "year": "2021",
+      "uri": "https://boxd.it/lFNu",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kh/ne/ia/sq/even-1200-1200-675-675-crop-000000.jpg?v=c1c99ea53a",
+      "users": []
+    },
+    "Sunshine|2007": {
+      "name": "Sunshine",
+      "year": "2007",
+      "uri": "https://boxd.it/28Xy",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/j7/rd/3s/r4/sunshine-2007a-1200-1200-675-675-crop-000000.jpg?v=02b4c9dbd2",
+      "users": []
+    },
+    "The Hunt|2012": {
+      "name": "The Hunt",
+      "year": "2012",
+      "uri": "https://boxd.it/3wEC",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yi/7a/tn/sp/the-hunt-2012-1200-1200-675-675-crop-000000.jpg?v=939df2aba9",
+      "users": []
+    },
+    "Steve|2025": {
+      "name": "Steve",
+      "year": "2025",
+      "uri": "https://boxd.it/LekC",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/2/5/6/5/1/tmdb/m5UwDL3nLNQn9UDfteylgFIpxCJ-1200-1200-675-675-crop-000000.jpg?v=1d65d30fb3",
+      "users": []
+    },
+    "Kensuke's Kingdom|2023": {
+      "name": "Kensuke's Kingdom",
+      "year": "2023",
+      "uri": "https://boxd.it/lCpE",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/tn/fn/d4/x9/kensuke-1200-1200-675-675-crop-000000.jpg?v=95c2d3b539",
+      "users": []
+    },
+    "Imprint|2006": {
+      "name": "Imprint",
+      "year": "2006",
+      "uri": "https://boxd.it/al6e",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/gb/ca/j3/0b/imprint-1200-1200-675-675-crop-000000.jpg?v=1ac8ed08a8",
+      "users": []
+    },
+    "A New Dawn|2026": {
+      "name": "A New Dawn",
+      "year": "2026",
+      "uri": "https://boxd.it/MPiU",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/6/3/6/9/6/tmdb/uuVLGMIIGwz9QbBlvDvGlfU5HkI-1200-1200-675-675-crop-000000.jpg?v=6c16e10a73",
+      "users": []
+    },
+    "Sonny Boy|2021": {
+      "name": "Sonny Boy",
+      "year": "2021",
+      "uri": "https://boxd.it/vYTQ",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7d/9k/nh/et/sonny-1200-1200-675-675-crop-000000.jpg?v=ebec07e0ac",
+      "users": []
+    },
+    "Locke|2013": {
+      "name": "Locke",
+      "year": "2013",
+      "uri": "https://boxd.it/6hHC",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qa/b5/gx/25/locke-1200-1200-675-675-crop-000000.jpg?v=115aedc779",
+      "users": []
+    },
+    "Magnolia|1999": {
+      "name": "Magnolia",
+      "year": "1999",
+      "uri": "https://boxd.it/2aze",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ad/tu/gu/7o/2BZDjOGRYVoVuUxtQcPOTWPk7JQ-1200-1200-675-675-crop-000000.jpg?v=a2c46cc90d",
+      "users": []
+    },
+    "American Beauty|1999": {
+      "name": "American Beauty",
+      "year": "1999",
+      "uri": "https://boxd.it/71Y",
+      "poster": null,
+      "users": []
+    },
+    "Manchester by the Sea|2016": {
+      "name": "Manchester by the Sea",
+      "year": "2016",
+      "uri": "https://boxd.it/b2L0",
+      "poster": null,
+      "users": []
+    },
+    "Lars and the Real Girl|2007": {
+      "name": "Lars and the Real Girl",
+      "year": "2007",
+      "uri": "https://boxd.it/21tG",
+      "poster": null,
+      "users": []
+    },
+    "The Perks of Being a Wallflower|2012": {
+      "name": "The Perks of Being a Wallflower",
+      "year": "2012",
+      "uri": "https://boxd.it/2ZA8",
+      "poster": null,
+      "users": []
+    },
+    "The Virgin Suicides|1999": {
+      "name": "The Virgin Suicides",
+      "year": "1999",
+      "uri": "https://boxd.it/28JG",
+      "poster": null,
+      "users": []
+    },
+    "Paris, Texas|1984": {
+      "name": "Paris, Texas",
+      "year": "1984",
+      "uri": "https://boxd.it/29Ts",
+      "poster": null,
+      "users": []
+    },
+    "Blue Valentine|2010": {
+      "name": "Blue Valentine",
+      "year": "2010",
+      "uri": "https://boxd.it/MxG",
+      "poster": null,
+      "users": []
+    },
+    "Portrait of a Lady on Fire|2019": {
+      "name": "Portrait of a Lady on Fire",
+      "year": "2019",
+      "uri": "https://boxd.it/jkPq",
+      "poster": null,
+      "users": []
+    },
+    "Frances Ha|2012": {
+      "name": "Frances Ha",
+      "year": "2012",
+      "uri": "https://boxd.it/41Xg",
+      "poster": null,
+      "users": []
+    },
+    "Premium Rush|2012": {
+      "name": "Premium Rush",
+      "year": "2012",
+      "uri": "https://boxd.it/FQw",
+      "poster": null,
+      "users": []
+    },
+    "Scream|1996": {
+      "name": "Scream",
+      "year": "1996",
+      "uri": "https://boxd.it/24EC",
+      "poster": null,
+      "users": []
+    },
+    "Reservoir Dogs|1992": {
+      "name": "Reservoir Dogs",
+      "year": "1992",
+      "uri": "https://boxd.it/2agc",
+      "poster": null,
+      "users": []
+    },
+    "Homeless Home|2020": {
+      "name": "Homeless Home",
+      "year": "2020",
+      "uri": "https://boxd.it/qEWK",
+      "poster": null,
+      "users": []
+    },
+    "House|1977": {
+      "name": "House",
+      "year": "1977",
+      "uri": "https://boxd.it/1vsm",
+      "poster": null,
+      "users": []
+    },
+    "Contact|1997": {
+      "name": "Contact",
+      "year": "1997",
+      "uri": "https://boxd.it/29OM",
+      "poster": null,
+      "users": []
+    },
+    "The Station Agent|2003": {
+      "name": "The Station Agent",
+      "year": "2003",
+      "uri": "https://boxd.it/27xu",
+      "poster": null,
+      "users": []
+    },
+    "SCP: Black Meridian|2025": {
+      "name": "SCP: Black Meridian",
+      "year": "2025",
+      "uri": "https://boxd.it/Zitw",
+      "poster": null,
+      "users": []
+    },
+    "Hardcore Henry|2015": {
+      "name": "Hardcore Henry",
+      "year": "2015",
+      "uri": "https://boxd.it/aAIM",
+      "poster": null,
+      "users": []
+    },
+    "Russian Ark|2002": {
+      "name": "Russian Ark",
+      "year": "2002",
+      "uri": "https://boxd.it/1JQM",
+      "poster": null,
+      "users": []
+    },
+    "Get Smart|2008": {
+      "name": "Get Smart",
+      "year": "2008",
+      "uri": "https://boxd.it/1Tig",
+      "poster": null,
+      "users": []
+    },
+    "The Black Cauldron|1985": {
+      "name": "The Black Cauldron",
+      "year": "1985",
+      "uri": "https://boxd.it/1UYW",
+      "poster": null,
+      "users": []
+    },
+    "Memoir of a Snail|2024": {
+      "name": "Memoir of a Snail",
+      "year": "2024",
+      "uri": "https://boxd.it/EgX8",
+      "poster": null,
+      "users": []
+    },
+    "1408|2007": {
+      "name": "1408",
+      "year": "2007",
+      "uri": "https://boxd.it/25Vu",
+      "poster": null,
+      "users": []
+    },
+    "Millennium Actress|2001": {
+      "name": "Millennium Actress",
+      "year": "2001",
+      "uri": "https://boxd.it/1fK0",
+      "poster": null,
+      "users": []
+    },
+    "The Foreigner|2017": {
+      "name": "The Foreigner",
+      "year": "2017",
+      "uri": "https://boxd.it/dbRg",
+      "poster": null,
+      "users": []
+    },
+    "We Live in Time|2024": {
+      "name": "We Live in Time",
+      "year": "2024",
+      "uri": "https://boxd.it/FC5u",
+      "poster": null,
+      "users": []
+    },
+    "Robot on the Road|2015": {
+      "name": "Robot on the Road",
+      "year": "2015",
+      "uri": "https://boxd.it/d2nw",
+      "poster": null,
+      "users": []
+    },
+    "The Dinner|2025": {
+      "name": "The Dinner",
+      "year": "2025",
+      "uri": "https://boxd.it/T340",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/1/1/9/8/2/tmdb/mZQbtLpzkxehUSEHen13EHgbJHl-1200-1200-675-675-crop-000000.jpg?v=73785b017d",
+      "users": []
+    },
+    "Hush|2016": {
+      "name": "Hush",
+      "year": "2016",
+      "uri": "https://boxd.it/d5ys",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/a8/j3/9x/79/hush-1200-1200-675-675-crop-000000.jpg?v=0da2a4e6c4",
+      "users": []
+    },
+    "The Human Centipede (First Sequence)|2009": {
+      "name": "The Human Centipede (First Sequence)",
+      "year": "2009",
+      "uri": "https://boxd.it/18Tu",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/oi/ug/j9/ms/human-centipede-first-sequence-1200-1200-675-675-crop-000000.jpg?v=353b067f9b",
+      "users": []
+    },
+    "The Wind Rises|2013": {
+      "name": "The Wind Rises",
+      "year": "2013",
+      "uri": "https://boxd.it/4JQS",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/m2/5e/vz/t8/the-wind-rises-1200-1200-675-675-crop-000000.jpg?v=2b25197092",
+      "users": []
+    },
+    "I Believe in Unicorns|2014": {
+      "name": "I Believe in Unicorns",
+      "year": "2014",
+      "uri": "https://boxd.it/7qGA",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/80/qf/cc/9o/i-believe-in-unicorns-1200-1200-675-675-crop-000000.jpg?v=67b0bd01e8",
+      "users": []
+    },
+    "On the Edge|2001": {
+      "name": "On the Edge",
+      "year": "2001",
+      "uri": "https://boxd.it/2N3G",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kz/7l/m8/g1/on%20the%20edge-1200-1200-675-675-crop-000000.jpg?v=7722b382bf",
+      "users": []
+    },
+    "The Color of Pomegranates|1969": {
+      "name": "The Color of Pomegranates",
+      "year": "1969",
+      "uri": "https://boxd.it/1u94",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kq/7d/as/nu/the-color-of-pomegranates-1200-1200-675-675-crop-000000.jpg?v=aa00f006dc",
+      "users": []
+    },
+    "Paranoid Park|2007": {
+      "name": "Paranoid Park",
+      "year": "2007",
+      "uri": "https://boxd.it/27GQ",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8a/1e/e3/1z/paranoid-park-1200-1200-675-675-crop-000000.jpg?v=ff2fcbc813",
+      "users": []
+    },
+    "Stand by Me|1986": {
+      "name": "Stand by Me",
+      "year": "1986",
+      "uri": "https://boxd.it/2aOe",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/9l/ks/8f/stand-by-me-1200-1200-675-675-crop-000000.jpg?v=3617274520",
+      "users": []
+    },
+    "Driving Lessons|2006": {
+      "name": "Driving Lessons",
+      "year": "2006",
+      "uri": "https://boxd.it/1TVi",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/lr/9p/wa/k6/driving-1200-1200-675-675-crop-000000.jpg?v=0c0cf98156",
+      "users": []
+    },
+    "Chicago|2002": {
+      "name": "Chicago",
+      "year": "2002",
+      "uri": "https://boxd.it/28zm",
+      "poster": null,
+      "users": []
+    },
+    "The Contestant|2007": {
+      "name": "The Contestant",
+      "year": "2007",
+      "uri": "https://boxd.it/IpS",
+      "poster": null,
+      "users": []
+    },
+    "District B13|2004": {
+      "name": "District B13",
+      "year": "2004",
+      "uri": "https://boxd.it/1XdY",
+      "poster": null,
+      "users": []
+    },
+    "The Witches|1990": {
+      "name": "The Witches",
+      "year": "1990",
+      "uri": "https://boxd.it/1WVg",
+      "poster": null,
+      "users": []
+    },
+    "Smoking Causes Coughing|2022": {
+      "name": "Smoking Causes Coughing",
+      "year": "2022",
+      "uri": "https://boxd.it/wVl4",
+      "poster": null,
+      "users": []
+    },
+    "First Reformed|2017": {
+      "name": "First Reformed",
+      "year": "2017",
+      "uri": "https://boxd.it/go9C",
+      "poster": null,
+      "users": []
+    },
+    "Kes|1969": {
+      "name": "Kes",
+      "year": "1969",
+      "uri": "https://boxd.it/1Qi8",
+      "poster": null,
+      "users": []
+    },
+    "Ghost World|2001": {
+      "name": "Ghost World",
+      "year": "2001",
+      "uri": "https://boxd.it/28Dy",
+      "poster": null,
+      "users": []
+    },
+    "EO|2022": {
+      "name": "EO",
+      "year": "2022",
+      "uri": "https://boxd.it/txhc",
+      "poster": null,
+      "users": []
+    },
+    "Resurrection|2025": {
+      "name": "Resurrection",
+      "year": "2025",
+      "uri": "https://boxd.it/x9DG",
+      "poster": null,
+      "users": []
+    },
+    "Orb: On the Movements of the Earth|2024": {
+      "name": "Orb: On the Movements of the Earth",
+      "year": "2024",
+      "uri": "https://boxd.it/Ug3Q",
+      "poster": null,
+      "users": []
+    },
+    "The Brothers Grimm|2005": {
+      "name": "The Brothers Grimm",
+      "year": "2005",
+      "uri": "https://boxd.it/24kW",
+      "poster": null,
+      "users": []
+    },
+    "Lost Highway|1997": {
+      "name": "Lost Highway",
+      "year": "1997",
+      "uri": "https://boxd.it/29Wc",
+      "poster": null,
+      "users": []
+    },
+    "Always Watching: A Marble Hornets Story|2015": {
+      "name": "Always Watching: A Marble Hornets Story",
+      "year": "2015",
+      "uri": "https://boxd.it/aLSy",
+      "poster": null,
+      "users": []
+    },
+    "A Magnificent Life|2025": {
+      "name": "A Magnificent Life",
+      "year": "2025",
+      "uri": "https://boxd.it/vHWo",
+      "poster": null,
+      "users": []
+    },
+    "Puparia|2020": {
+      "name": "Puparia",
+      "year": "2020",
+      "uri": "https://boxd.it/sNym",
+      "poster": null,
+      "users": []
+    },
+    "Unbelievable|2019": {
+      "name": "Unbelievable",
+      "year": "2019",
+      "uri": "https://boxd.it/noio",
+      "poster": null,
+      "users": []
+    },
+    "Wood Job!|2014": {
+      "name": "Wood Job!",
+      "year": "2014",
+      "uri": "https://boxd.it/8lvO",
+      "poster": null,
+      "users": []
     }
   },
-  "lastUpdated": "2026-02-28T00:26:14.359212"
+  "lastUpdated": "2026-03-27T19:57:31.885997"
 }

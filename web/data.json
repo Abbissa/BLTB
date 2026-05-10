@@ -1700,6 +1700,42 @@
           "Name": "Sunshine",
           "Year": "2007",
           "Letterboxd URI": "https://boxd.it/28Xy"
+        },
+        {
+          "Date": "2026-04-13",
+          "Name": "The Contestant",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/IpS"
+        },
+        {
+          "Date": "2026-04-25",
+          "Name": "Exit 8",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/S9Kk"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "The Crow",
+          "Year": "1994",
+          "Letterboxd URI": "https://boxd.it/1Yxq"
+        },
+        {
+          "Date": "2026-05-04",
+          "Name": "Life",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/dRqG"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "The Green Knight",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/kuy2"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "Passengers",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/8lFu"
         }
       ],
       "ratings": [
@@ -3356,13 +3392,6 @@
           "Rating": "5"
         },
         {
-          "Date": "2026-04-06",
-          "Name": "Perfect Blue",
-          "Year": "1997",
-          "Letterboxd URI": "https://boxd.it/1W7A",
-          "Rating": "0.5"
-        },
-        {
           "Date": "2026-04-07",
           "Name": "Heretic",
           "Year": "2024",
@@ -3445,6 +3474,55 @@
           "Year": "2007",
           "Letterboxd URI": "https://boxd.it/28Xy",
           "Rating": "3"
+        },
+        {
+          "Date": "2026-04-13",
+          "Name": "The Contestant",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/IpS",
+          "Rating": "3"
+        },
+        {
+          "Date": "2026-04-15",
+          "Name": "Perfect Blue",
+          "Year": "1997",
+          "Letterboxd URI": "https://boxd.it/1W7A",
+          "Rating": "0.5"
+        },
+        {
+          "Date": "2026-04-25",
+          "Name": "Exit 8",
+          "Year": "2025",
+          "Letterboxd URI": "https://boxd.it/S9Kk",
+          "Rating": "4"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "The Crow",
+          "Year": "1994",
+          "Letterboxd URI": "https://boxd.it/1Yxq",
+          "Rating": "4"
+        },
+        {
+          "Date": "2026-05-04",
+          "Name": "Life",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/dRqG",
+          "Rating": "3"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "The Green Knight",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/kuy2",
+          "Rating": "4"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "Passengers",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/8lFu",
+          "Rating": "0.5"
         }
       ],
       "reviews": [
@@ -3722,6 +3800,28 @@
           "Review": "Que guapa la nueva colonia lunar de Elon Musk",
           "Tags": "",
           "Watched Date": "2026-04-11"
+        },
+        {
+          "Date": "2026-04-13",
+          "Name": "The Contestant",
+          "Year": "2007",
+          "Letterboxd URI": "https://boxd.it/dX1YW7",
+          "Rating": "3",
+          "Rewatch": "",
+          "Review": "Capitalismo",
+          "Tags": "",
+          "Watched Date": "2026-04-12"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "Passengers",
+          "Year": "2016",
+          "Letterboxd URI": "https://boxd.it/ej0H4X",
+          "Rating": "0.5",
+          "Rewatch": "",
+          "Review": "Al principio te puede gustar, luego te planteas la historia desde el punto de vista de ella y ya no tanto",
+          "Tags": "",
+          "Watched Date": "2026-05-10"
         }
       ],
       "watchlist": [
@@ -4156,12 +4256,6 @@
           "Name": "Spider-Man: Beyond the Spider-Verse",
           "Year": "2027",
           "Letterboxd URI": "https://boxd.it/ykgU"
-        },
-        {
-          "Date": "2024-09-03",
-          "Name": "The Crow",
-          "Year": "1994",
-          "Letterboxd URI": "https://boxd.it/1Yxq"
         },
         {
           "Date": "2024-09-03",
@@ -6781,12 +6875,6 @@
         },
         {
           "Date": "2026-03-17",
-          "Name": "The Contestant",
-          "Year": "2007",
-          "Letterboxd URI": "https://boxd.it/IpS"
-        },
-        {
-          "Date": "2026-03-17",
           "Name": "District B13",
           "Year": "2004",
           "Letterboxd URI": "https://boxd.it/1XdY"
@@ -7072,6 +7160,186 @@
           "Name": "Race to Witch Mountain",
           "Year": "2009",
           "Letterboxd URI": "https://boxd.it/1PiQ"
+        },
+        {
+          "Date": "2026-04-13",
+          "Name": "Heroic Times",
+          "Year": "1983",
+          "Letterboxd URI": "https://boxd.it/7aSK"
+        },
+        {
+          "Date": "2026-04-13",
+          "Name": "The Third Man",
+          "Year": "1949",
+          "Letterboxd URI": "https://boxd.it/294E"
+        },
+        {
+          "Date": "2026-04-15",
+          "Name": "Perfect Blue",
+          "Year": "1997",
+          "Letterboxd URI": "https://boxd.it/1W7A"
+        },
+        {
+          "Date": "2026-04-15",
+          "Name": "Dogs Don't Wear Pants",
+          "Year": "2019",
+          "Letterboxd URI": "https://boxd.it/j42i"
+        },
+        {
+          "Date": "2026-04-15",
+          "Name": "Children of Men",
+          "Year": "2006",
+          "Letterboxd URI": "https://boxd.it/1Y2i"
+        },
+        {
+          "Date": "2026-04-17",
+          "Name": "Killer Klowns from Outer Space",
+          "Year": "1988",
+          "Letterboxd URI": "https://boxd.it/1Kpi"
+        },
+        {
+          "Date": "2026-04-17",
+          "Name": "Tales from Earthsea",
+          "Year": "2006",
+          "Letterboxd URI": "https://boxd.it/17ae"
+        },
+        {
+          "Date": "2026-04-17",
+          "Name": "Cloud Atlas",
+          "Year": "2012",
+          "Letterboxd URI": "https://boxd.it/2W60"
+        },
+        {
+          "Date": "2026-04-17",
+          "Name": "Perfume: The Story of a Murderer",
+          "Year": "2006",
+          "Letterboxd URI": "https://boxd.it/28LW"
+        },
+        {
+          "Date": "2026-04-22",
+          "Name": "Louis Theroux: Inside the Manosphere",
+          "Year": "2026",
+          "Letterboxd URI": "https://boxd.it/10VY6"
+        },
+        {
+          "Date": "2026-04-22",
+          "Name": "We Are All Trying Here",
+          "Year": "2026",
+          "Letterboxd URI": "https://boxd.it/12LXw"
+        },
+        {
+          "Date": "2026-04-23",
+          "Name": "Graveyard Rats",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/DkfM"
+        },
+        {
+          "Date": "2026-04-23",
+          "Name": "The NeverEnding Story II: The Next Chapter",
+          "Year": "1990",
+          "Letterboxd URI": "https://boxd.it/1dza"
+        },
+        {
+          "Date": "2026-04-23",
+          "Name": "The Dark Crystal",
+          "Year": "1982",
+          "Letterboxd URI": "https://boxd.it/1Tm8"
+        },
+        {
+          "Date": "2026-04-25",
+          "Name": "A Hundred Flowers",
+          "Year": "2022",
+          "Letterboxd URI": "https://boxd.it/zj46"
+        },
+        {
+          "Date": "2026-04-28",
+          "Name": "Kumaré",
+          "Year": "2012",
+          "Letterboxd URI": "https://boxd.it/3oJO"
+        },
+        {
+          "Date": "2026-04-28",
+          "Name": "Possibly in Michigan",
+          "Year": "1983",
+          "Letterboxd URI": "https://boxd.it/aXA2"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "Clayface",
+          "Year": "2026",
+          "Letterboxd URI": "https://boxd.it/RTVm"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "Possession",
+          "Year": "1981",
+          "Letterboxd URI": "https://boxd.it/1BPm"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "Let the Corpses Tan",
+          "Year": "2017",
+          "Letterboxd URI": "https://boxd.it/eWSs"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "Insidious",
+          "Year": "2010",
+          "Letterboxd URI": "https://boxd.it/H4k"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "The Devil's Pass",
+          "Year": "1958",
+          "Letterboxd URI": "https://boxd.it/dTT6"
+        },
+        {
+          "Date": "2026-05-04",
+          "Name": "The Toxic Avenger",
+          "Year": "2023",
+          "Letterboxd URI": "https://boxd.it/bgbq"
+        },
+        {
+          "Date": "2026-05-04",
+          "Name": "The Toxic Avenger",
+          "Year": "1984",
+          "Letterboxd URI": "https://boxd.it/1MAi"
+        },
+        {
+          "Date": "2026-05-04",
+          "Name": "The Toxic Avenger Part II",
+          "Year": "1989",
+          "Letterboxd URI": "https://boxd.it/1q6g"
+        },
+        {
+          "Date": "2026-05-04",
+          "Name": "The Toxic Avenger Part III: The Last Temptation of Toxie",
+          "Year": "1989",
+          "Letterboxd URI": "https://boxd.it/1q5C"
+        },
+        {
+          "Date": "2026-05-04",
+          "Name": "Brothers",
+          "Year": "2009",
+          "Letterboxd URI": "https://boxd.it/20WW"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "Hour of the Wolf",
+          "Year": "1968",
+          "Letterboxd URI": "https://boxd.it/1H9G"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "Mind Game",
+          "Year": "2004",
+          "Letterboxd URI": "https://boxd.it/1Bv2"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "The Cloverfield Paradox",
+          "Year": "2018",
+          "Letterboxd URI": "https://boxd.it/doVA"
         }
       ],
       "likes": [
@@ -7968,10 +8236,22 @@
           "Name": "Project Hail Mary",
           "Year": "2026",
           "Letterboxd URI": "https://boxd.it/pEeQ"
+        },
+        {
+          "Date": "2026-05-02",
+          "Name": "The Crow",
+          "Year": "1994",
+          "Letterboxd URI": "https://boxd.it/1Yxq"
+        },
+        {
+          "Date": "2026-05-10",
+          "Name": "The Green Knight",
+          "Year": "2021",
+          "Letterboxd URI": "https://boxd.it/kuy2"
         }
       ],
       "enabled": true,
-      "updatedAt": "2026-04-12T19:20:39.462571"
+      "updatedAt": "2026-05-10T14:05:48.423202"
     },
     {
       "name": "pilipina",
@@ -14872,7 +15152,13 @@
       "year": "1994",
       "uri": "https://boxd.it/1Yxq",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/sr/9o/x1/v2/the-crow-1200-1200-675-675-crop-000000.jpg?v=2db2b0f161",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4",
+          "watched": true
+        }
+      ]
     },
     "The Castle of Cagliostro|1979": {
       "name": "The Castle of Cagliostro",
@@ -21133,7 +21419,13 @@
       "year": "2007",
       "uri": "https://boxd.it/IpS",
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/7/4/17074-the-contestant-0-230-0-345-crop.jpg?v=e745fab7e1",
-      "users": []
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3",
+          "watched": true
+        }
+      ]
     },
     "District B13|2004": {
       "name": "District B13",
@@ -21547,7 +21839,262 @@
       "uri": "https://boxd.it/1PiQ",
       "poster": "https://a.ltrbxd.com/resized/sm/upload/3q/j0/em/tq/race-witch-mountain-1200-1200-675-675-crop-000000.jpg?v=f28180e111",
       "users": []
+    },
+    "Exit 8|2025": {
+      "name": "Exit 8",
+      "year": "2025",
+      "uri": "https://boxd.it/S9Kk",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/9/0/7/1/8/tmdb/ie827c44beNPNnxIOi8EM9mCI4A-1200-1200-675-675-crop-000000.jpg?v=9bedbd5352",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4",
+          "watched": true
+        }
+      ]
+    },
+    "Life|2017": {
+      "name": "Life",
+      "year": "2017",
+      "uri": "https://boxd.it/dRqG",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pt/te/gp/yg/life-1200-1200-675-675-crop-000000.jpg?v=2640c89e33",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "3",
+          "watched": true
+        }
+      ]
+    },
+    "The Green Knight|2021": {
+      "name": "The Green Knight",
+      "year": "2021",
+      "uri": "https://boxd.it/kuy2",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7i/cx/uh/of/the-green-knight-1200-1200-675-675-crop-000000.jpg?v=461f59fd0a",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "4",
+          "watched": true
+        }
+      ]
+    },
+    "Passengers|2016": {
+      "name": "Passengers",
+      "year": "2016",
+      "uri": "https://boxd.it/8lFu",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ki/g0/gy/nw/passengers-2016-1200-1200-675-675-crop-000000.jpg?v=b2a065e080",
+      "users": [
+        {
+          "name": "cargaspar",
+          "rating": "0.5",
+          "watched": true
+        }
+      ]
+    },
+    "Heroic Times|1983": {
+      "name": "Heroic Times",
+      "year": "1983",
+      "uri": "https://boxd.it/7aSK",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q4/1q/9l/pq/l3E6Qmg8R0bj2zNBj2gWTPJTNai-1200-1200-675-675-crop-000000.jpg?v=cf2168ed50",
+      "users": []
+    },
+    "The Third Man|1949": {
+      "name": "The Third Man",
+      "year": "1949",
+      "uri": "https://boxd.it/294E",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/o3/gz/sr/4b/4p0SUm1gvGcHskHHjMadt1TlIVi-1200-1200-675-675-crop-000000.jpg?v=0aeadce9fb",
+      "users": []
+    },
+    "Dogs Don't Wear Pants|2019": {
+      "name": "Dogs Don't Wear Pants",
+      "year": "2019",
+      "uri": "https://boxd.it/j42i",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8w/n0/hw/zb/dogs%20don't%20wear%20pants-1200-1200-675-675-crop-000000.jpg?v=11de59e05b",
+      "users": []
+    },
+    "Children of Men|2006": {
+      "name": "Children of Men",
+      "year": "2006",
+      "uri": "https://boxd.it/1Y2i",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6o/y1/nl/db/children-of-men-1200-1200-675-675-crop-000000.jpg?v=94f1a8ebf1",
+      "users": []
+    },
+    "Killer Klowns from Outer Space|1988": {
+      "name": "Killer Klowns from Outer Space",
+      "year": "1988",
+      "uri": "https://boxd.it/1Kpi",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dd/7b/ht/jj/killerklowns-1200-1200-675-675-crop-000000.jpg?v=9c0a28cac6",
+      "users": []
+    },
+    "Tales from Earthsea|2006": {
+      "name": "Tales from Earthsea",
+      "year": "2006",
+      "uri": "https://boxd.it/17ae",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/oj/i4/6m/dd/tales-from-earthsea-1200-1200-675-675-crop-000000.jpg?v=efe110285f",
+      "users": []
+    },
+    "Cloud Atlas|2012": {
+      "name": "Cloud Atlas",
+      "year": "2012",
+      "uri": "https://boxd.it/2W60",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yv/3q/8f/ee/cloud-atlas-1200-1200-675-675-crop-000000.jpg?v=deb5690a45",
+      "users": []
+    },
+    "Perfume: The Story of a Murderer|2006": {
+      "name": "Perfume: The Story of a Murderer",
+      "year": "2006",
+      "uri": "https://boxd.it/28LW",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wt/li/6w/bx/perfume-1200-1200-675-675-crop-000000.jpg?v=6046db6813",
+      "users": []
+    },
+    "Louis Theroux: Inside the Manosphere|2026": {
+      "name": "Louis Theroux: Inside the Manosphere",
+      "year": "2026",
+      "uri": "https://boxd.it/10VY6",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/9/9/9/1/7/tmdb/cmpiLnDIdxQNFZLZZFRj1rSo7fW-1200-1200-675-675-crop-000000.jpg?v=f12588e178",
+      "users": []
+    },
+    "We Are All Trying Here|2026": {
+      "name": "We Are All Trying Here",
+      "year": "2026",
+      "uri": "https://boxd.it/12LXw",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ty/09/tv/si/zOEfzdJnGshxmYpJmgzh333zm7x-1200-1200-675-675-crop-000000.jpg?v=015c9b666d",
+      "users": []
+    },
+    "Graveyard Rats|2022": {
+      "name": "Graveyard Rats",
+      "year": "2022",
+      "uri": "https://boxd.it/DkfM",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/je/tb/ie/b0/gavyard-1200-1200-675-675-crop-000000.jpg?v=cdd757745a",
+      "users": []
+    },
+    "The NeverEnding Story II: The Next Chapter|1990": {
+      "name": "The NeverEnding Story II: The Next Chapter",
+      "year": "1990",
+      "uri": "https://boxd.it/1dza",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/uc/sm/2c/4h/neverending-1200-1200-675-675-crop-000000.jpg?v=fecfa71b01",
+      "users": []
+    },
+    "The Dark Crystal|1982": {
+      "name": "The Dark Crystal",
+      "year": "1982",
+      "uri": "https://boxd.it/1Tm8",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/j5/r0/vy/ne/dark-crystal-1200-1200-675-675-crop-000000.jpg?v=d3a7568538",
+      "users": []
+    },
+    "A Hundred Flowers|2022": {
+      "name": "A Hundred Flowers",
+      "year": "2022",
+      "uri": "https://boxd.it/zj46",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6f/he/ev/ey/hundred-1200-1200-675-675-crop-000000.jpg?v=0eab14ab0b",
+      "users": []
+    },
+    "Kumaré|2012": {
+      "name": "Kumaré",
+      "year": "2012",
+      "uri": "https://boxd.it/3oJO",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bp/sr/79/to/kumare-1200-1200-675-675-crop-000000.jpg?v=361c57be13",
+      "users": []
+    },
+    "Possibly in Michigan|1983": {
+      "name": "Possibly in Michigan",
+      "year": "1983",
+      "uri": "https://boxd.it/aXA2",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/og/b7/9u/z9/rousjbbod83uMBaoc1dnFgSbfpN-1200-1200-675-675-crop-000000.jpg?v=261ca61686",
+      "users": []
+    },
+    "Clayface|2026": {
+      "name": "Clayface",
+      "year": "2026",
+      "uri": "https://boxd.it/RTVm",
+      "poster": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/8/4/6/3/6/tmdb/xwdGfFO5TsVaRiiiAdatFrbh7bT-1200-1200-675-675-crop-000000.jpg?v=f7909fbddd",
+      "users": []
+    },
+    "Possession|1981": {
+      "name": "Possession",
+      "year": "1981",
+      "uri": "https://boxd.it/1BPm",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/md/zx/rq/4v/possession-1200-1200-675-675-crop-000000.jpg?v=e8b6f32f0a",
+      "users": []
+    },
+    "Let the Corpses Tan|2017": {
+      "name": "Let the Corpses Tan",
+      "year": "2017",
+      "uri": "https://boxd.it/eWSs",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/61/c6/fz/z8/let-corpses-tan-1200-1200-675-675-crop-000000.jpg?v=67045c2f34",
+      "users": []
+    },
+    "Insidious|2010": {
+      "name": "Insidious",
+      "year": "2010",
+      "uri": "https://boxd.it/H4k",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d0/vn/qj/jt/insidious-1200-1200-675-675-crop-000000.jpg?v=d35612e56a",
+      "users": []
+    },
+    "The Devil's Pass|1958": {
+      "name": "The Devil's Pass",
+      "year": "1958",
+      "uri": "https://boxd.it/dTT6",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/1/3/1/0/331310-the-devils-pass-1958-0-230-0-345-crop.jpg?v=5c7b632391",
+      "users": []
+    },
+    "The Toxic Avenger|2023": {
+      "name": "The Toxic Avenger",
+      "year": "2023",
+      "uri": "https://boxd.it/bgbq",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/o0/xs/w5/zb/kVIsUFrVDXbb3A2MpWbO8KdH55o-1200-1200-675-675-crop-000000.jpg?v=5665378ac8",
+      "users": []
+    },
+    "The Toxic Avenger|1984": {
+      "name": "The Toxic Avenger",
+      "year": "1984",
+      "uri": "https://boxd.it/1MAi",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/55/z7/i3/jl/uSjBSuSJcuBPkakzdn0t1YSWtbr-1200-1200-675-675-crop-000000.jpg?v=dd8594858e",
+      "users": []
+    },
+    "The Toxic Avenger Part II|1989": {
+      "name": "The Toxic Avenger Part II",
+      "year": "1989",
+      "uri": "https://boxd.it/1q6g",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aa/w0/46/iq/fO1RIDcnKg78WPX2hw6IklFatd7-1200-1200-675-675-crop-000000.jpg?v=6c7bf49ac3",
+      "users": []
+    },
+    "The Toxic Avenger Part III: The Last Temptation of Toxie|1989": {
+      "name": "The Toxic Avenger Part III: The Last Temptation of Toxie",
+      "year": "1989",
+      "uri": "https://boxd.it/1q5C",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3o/6l/l8/qy/ahvvmGtAKY4iy5H5jhfAK2GlDQ8-1200-1200-675-675-crop-000000.jpg?v=574e4aef22",
+      "users": []
+    },
+    "Brothers|2009": {
+      "name": "Brothers",
+      "year": "2009",
+      "uri": "https://boxd.it/20WW",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kl/m0/nq/mb/brothers-2009-1200-1200-675-675-crop-000000.jpg?v=76b1672020",
+      "users": []
+    },
+    "Hour of the Wolf|1968": {
+      "name": "Hour of the Wolf",
+      "year": "1968",
+      "uri": "https://boxd.it/1H9G",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cd/b0/95/nt/xhv8nrZi3tZdSxeLkIx37B55OSI-1200-1200-675-675-crop-000000.jpg?v=6db40cf9c4",
+      "users": []
+    },
+    "Mind Game|2004": {
+      "name": "Mind Game",
+      "year": "2004",
+      "uri": "https://boxd.it/1Bv2",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/c9/9x/69/yc/mind%20game-1200-1200-675-675-crop-000000.jpg?v=f41a476585",
+      "users": []
+    },
+    "The Cloverfield Paradox|2018": {
+      "name": "The Cloverfield Paradox",
+      "year": "2018",
+      "uri": "https://boxd.it/doVA",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g3/qd/hl/5k/cloverfield-paradox-1200-1200-675-675-crop-000000.jpg?v=042b99c28d",
+      "users": []
     }
   },
-  "lastUpdated": "2026-04-12T19:23:15.139290"
+  "lastUpdated": "2026-05-10T14:06:58.540866"
 }
